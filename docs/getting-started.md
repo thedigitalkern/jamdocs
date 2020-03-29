@@ -4,7 +4,7 @@ date: 2020-03-30
 slug: getting-started
 
 ---
-## Build a Custom Desktop Computer . Workstation
+## Build a Custom Desktop Computer . Workstation and Understanding Computer Specifications
 
 This documentation is intended for viewers of [The Digital Kern - thedigitalkern.com](thedigitalkern.com "The Digital Kern"), built to spin up quick, beautiful and high performance custom machines without hassle, first, then follow along the journey to building websites for small to medium scale businesses.
 
