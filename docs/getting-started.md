@@ -60,4 +60,4 @@ Ideal for transfer of data/information within a group of people sharing the same
 
 ## Slack for Teams
 
- New age communication platform for sharing data via Slack.com accounts specifically designed for teams.
+New age communication platform for sharing data via [Slack.com](https://slack.com/intl/en-in/pricing "Slack.com Pricing Plans - Compare") accounts specifically designed for teams. If you are looking for organised spaces for everything related to a project, topic or team, you need to try Slack.
