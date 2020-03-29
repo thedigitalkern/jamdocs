@@ -44,14 +44,6 @@ Your AMD® [Chipsets](https://youtu.be/dXq7TqvTOj0 "AMD RYZEN Overclocking GUIDE
 
 For [Support on Windows Devices](https://support.microsoft.com/en-us/hub/4338813/windows-help?os=windows-10 "Microsoft Official Windows Device Support")
 
-## Local installation
+## ISP Network Wars - Fiber Optic over CAT5/6/7 Cable Providers
 
-Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
-
-To set up a new instance of Jamdocs, and start developing just clone the project from Github like, go to the directory and run gridsome:
-
-```bash
-git clone https://github.com/samuelhorn/jamdocs project-name
-cd project-name
-gridsome develop
-```
+Even though ISPs that provide you; the user, Internet over CAT5/6/7 cables which can give you substantial amount of speed, it is important to note that fiber optic is less clutter in terms of wiring, installation and requires in-depth tech stack requirements, hence limited availability and provides better stability in terms of connectivity. This does not mean we should stop using CAT5/6/7 cables, instead switch over to better infrared IP Camera Systems via Cloud Service Providers that do not make the hardware and cabling obsolete ready for recycling. Just pure simple better integration over a secured network that logs data via Cloud.
