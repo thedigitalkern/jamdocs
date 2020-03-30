@@ -98,7 +98,7 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 * [Acquia](https://www.cloudflare.com/integrations/acquia/ "Acquia: Open-source Content Management framework Drupal") - Open-source Content Management framework [Drupal](https://www.drupal.org/ "Drupal.org")
 * [Rackspace](https://www.cloudflare.com/integrations/rackspace-ddos-protection/ "Rackspace - DDoS Protection") - DDoS Protection
 * [Microsoft Azure - Cloud Computing Services (Windows Applications)](https://www.cloudflare.com/integrations/microsoft-azure/ "Microsoft Azure - Cloud Computing Services (Windows Applications)")
-* [Kubernetes](https://www.cloudflare.com/integrations/kubernetes/ "Kubernetes") - Tech Stack
+* [Kubernetes](https://www.cloudflare.com/integrations/kubernetes/ "Kubernetes") - Tech Stack (Learn more about [Kubernetes on DigitalOcean](https://www.digitalocean.com/products/kubernetes/ "Kubernetes on DigitalOcean"))
 * [WP Engine](https://www.cloudflare.com/integrations/wpengine/ "WP Engine") - Hosting Solution
 
 ## Email Account/s
