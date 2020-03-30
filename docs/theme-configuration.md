@@ -4,7 +4,7 @@ date: 2020-03-30
 slug: web-dev
 
 ---
-**TASKS -** 
+**TASKS -**
 
 * Adding Domain
 * CDN
@@ -25,16 +25,16 @@ _Prices will vary depending on your domain name and .ccTLD /s (in case of multip
 
 ## What is a .TLD / ccTLDs - Using Namemesh.com - Domain Name Generator
 
-* Check availability of the [**most common tlds**](https://www.namemesh.com/ "Namemesh.com - Domain Name Generator") including com, net, org. Also, checks the hyphenated version of your preferred domain name.
-* Check domain availability of the **new gtlds** that have been launched and have entered general availability. These tlds include .email, .link, .domains and many more. New gtlds are added as they are launched.
-* Create **short domain names** by overlapping the keywords with the tlds, like del.icio.us, foc.us, citi.es etc.
-* Check domain names with **some other popular tlds** like co, io, it, mobi, name, me, ly and many more.
+* Check availability of the [**most common TLDs**](https://www.namemesh.com/ "Namemesh.com - Domain Name Generator") including com, net, org. Also, checks the hyphenated version of your preferred domain name.
+* Check domain availability of the **new gTLDs** that have been launched and have entered general availability. These TLDs include .email, .link, .domains and many more. New gTLDs are added as they are launched.
+* Create **short domain names** by overlapping the keywords with the TLDs, like del.icio.us, foc.us, citi.es, etc.
+* Check domain names with **some other popular TLDs** like co, io, it, mobi, name, me, ly and many more.
 
 **Avoid the pop-ups (Great Tool though!)**  
 Generate the **common alternatives for your domain name** by using the following methods -
 
 * Thesaurus, Synonyms, Antonyms
-* Real World Intelligence
+* Real-World Intelligence
 * Related words using collocations and n-grams
 * over 6 million words database
 
@@ -45,7 +45,7 @@ Enter **special characters** to specify preferences and different generation met
   **Usage**: 'cool* domain' will generate words containing 'cool' and replacing domain with other similarly related words.
 * Use **?** to replace a character with any letter or number.
 
-  **Usage** : '???' will be replaced by all 3 letter dictionary words. You can also specify part of the word like p??? (for 4 letter words starting with 'p') and ???t (for 4 letter words ending with t).
+  **Usage**: '???' will be replaced by all 3 letter dictionary words. You can also specify part of the word like p??? (for 4 letter words starting with 'p') and ???t (for 4 letter words ending with t).
 
 Preserve the **main keywords entered in the final domain name and use the following to preserve SEO**
 
@@ -74,7 +74,7 @@ Use various techniques to **smartly modify existing keywords to generate new wor
 * [Cloudflare for Security](https://www.cloudflare.com/security/ "Cloudflare for Security")
 * [Cloudflare for Reliability](https://www.cloudflare.com/reliability/ "Cloudflare for Reliability")
 
-Free plan for **small personal websites, blogs, and anyone who wants to evaluate Cloudflare.** Our mission is to build a better Internet. We believe every website should have free access to foundational security and performance. [Cloudflare's Free Plan](https://www.cloudflare.com/plans/?utm_expid=.jzn7bZLMRYOX1sN-nuWXUA.0&utm_referrer=https%3A%2F%2Fwww.cloudflare.com%2F "Cloudflare's Free Plan") has **no limit on the amount of bandwidth your visitors use or websites you add.** If you want to make your site even faster and more resilient, you can easily upgrade to one of Cloudflare CDN's higher tier plans. Cloudflare for Individuals is built on our global network. This package is **ideal for people with personal or hobby projects that aren’t business-critical.**
+Free plan for **small personal websites, blogs, and anyone who wants to evaluate Cloudflare.** Our mission is to build a better Internet. We believe every website should have free access to foundational security and performance. [Cloudflare's Free plan](https://www.cloudflare.com/plans/?utm_expid=.jzn7bZLMRYOX1sN-nuWXUA.0&utm_referrer=https%3A%2F%2Fwww.cloudflare.com%2F "Cloudflare's Free Plan") has **no limit on the amount of bandwidth your visitors use or websites you add.** If you want to make your site even faster and more resilient, you can easily upgrade to one of Cloudflare CDN's higher-tier plans. Cloudflare for Individuals is built on our global network. This package is **ideal for people with personal or hobby projects that aren’t business-critical.**
 
 * [DDoS attack mitigation](https://www.cloudflare.com/ddos/ "Cloudflare’s DDoS protection")
 * [Global Content Delivery Network](https://www.cloudflare.com/cdn/ "Global Content Delivery Network")
@@ -113,7 +113,22 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 
 ## Deploy a Server
 
-Moving to understanding How to deploy a Web Server consider the [pricing, reliability, scalability and flexibility](https://www.digitalocean.com/pricing/ "DigitalOcean.com - Pricing Plans") of self-managed and managed services not limited to IoT, Kubernetes, [Droplets](https://www.digitalocean.com/products/droplets/ "Droplets via DigitalOcean.com"), Storage, Tools, Included Services, User Driven Community Support, a [Marketplace](https://www.digitalocean.com/products/marketplace/ "DigitalOcean.com - Marketplace") and more. [**To get started you can use my referral link which will enable you a USD 100 Credit for 60 Days**](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean.com - Dravasp Shroff - Referral Link - TheDigitalKern.com") - _Please note: Bidding on branded keywords which include 'digitalocean' and/or 'digital ocean' for ads is prohibited._
+Moving to understanding How to deploy a Web Server consider the pricing, reliability, scalability, and flexibility of self-managed and managed services not limited to IoT, Kubernetes, [Droplets](https://www.digitalocean.com/products/droplets/ "Droplets via DigitalOcean.com"), Storage, Tools, Included Services, User-Driven Community Support, a [Marketplace](https://www.digitalocean.com/products/marketplace/ "DigitalOcean.com - Marketplace") and more. [**To get started you can use my referral link which will enable you a USD 100 Credit for 60 Days**](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean.com - Dravasp Shroff - Referral Link - TheDigitalKern.com") - _Please note: Bidding on branded keywords which include 'digitalocean' and/or 'digital ocean' for ads is prohibited._
+
+## Choose Location of Droplet Closest to Target Audience for Low Latency Speeds
+
+[**Regional Availability Matrix - Datacenter Regions**](https://www.digitalocean.com/docs/platform/availability-matrix/ "Regional Availability Matrix - DigitalOcean's datacenters are in the following locations")
+
+DigitalOcean's datacenters are in the following locations:
+
+* NYC1, NYC2, NYC3: **New York City, United States**
+* AMS2, AMS3: **Amsterdam, the Netherlands**
+* SFO1, SFO2: **San Francisco, United States**
+* SGP1: **Singapore**
+* LON1: **London, United Kingdom**
+* FRA1: **Frankfurt, Germany**
+* TOR1: **Toronto, Canada**
+* BLR1: **Bangalore, India**
 
 ## List of Services offered by DigitalOcean.com
 
