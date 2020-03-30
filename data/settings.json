@@ -10,11 +10,11 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "Web Dev Setup",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Website Development",
+          "slug": "web-dev"
         },
         {
           "title": "Forestry CMS",
