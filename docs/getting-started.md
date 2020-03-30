@@ -66,6 +66,29 @@ If you require GUI or Graphic User Interface for accessing requests over HTTP://
 
 New age communication platform for sharing data via [Slack.com](https://slack.com/intl/en-in/pricing "Slack.com Pricing Plans - Compare") accounts specifically designed for teams. If you are looking for organised spaces for everything related to a project, topic or team, you need to try Slack.
 
+## Using NameMesh.com - Domain Name Generator
+
+## Purchase a Domain depending on country code top-level domains (ccTLDs)
+
+* Google Domains
+* Namecheap
+* PorkBun
+* DynaDot
+
+## What is a .TLD / ccTLDs
+
+## Cloudflare CDN (Importance of using a CDN)
+
+## Email Account/s
+
+* [Google Business Email](https://gsuite.google.co.in/intl/en_in/products/gmail/ "Secure, private, ad-free email for your business") (Paid Service) _(Does Not Require Separate Subscription as it comes bundled with G Suite or Google Business Suite)_ - Gmail keeps you updated with real-time message notifications, and safely stores your important emails and data. _IT admins can centrally manage accounts across your organization and devices._
+* [ZohoMail](https://www.zoho.com/mail/zohomail-pricing.html "ZohoMail - Pricing and Editions - Support") (Forever Free Plan offers Up to five users, 5GB/User, 25MB attachment limit. Web access only. Email hosting for single domain - Scalable - Allows usage of Custom Domains)
+
+## CRM
+
+* [Google Business Suite](https://gsuite.google.co.in/intl/en_in/features/ "Google Business Suite - Overview") (Paid Service) - [Features and Pricing Plan](https://gsuite.google.co.in/intl/en_in/pricing.html "G Suite Pricing Plans. Try it free for 14 days")
+* [ZohoCRM]() - For a full list of [Features](https://www.zoho.com/crm/features.html "CRM Software Features and Capabilities") (Freemium)
+
 ## Deploy a Server
 
 Moving to understanding How to deploy a Web Server consider the [pricing, reliability, scalability and flexibility](https://www.digitalocean.com/pricing/ "DigitalOcean.com - Pricing Plans") of self-managed and managed services not limited to IoT, Kubernetes, [Droplets](https://www.digitalocean.com/products/droplets/ "Droplets via DigitalOcean.com"), Storage, Tools, Included Services, User Driven Community Support, a [Marketplace](https://www.digitalocean.com/products/marketplace/ "DigitalOcean.com - Marketplace") and more. [**To get started you can use my referral link which will enable you a USD 100 Credit for 60 Days**](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean.com - Dravasp Shroff - Referral Link - TheDigitalKern.com") - _Please note: Bidding on branded keywords which include 'digitalocean' and/or 'digital ocean' for ads is prohibited._
@@ -88,4 +111,12 @@ Moving to understanding How to deploy a Web Server consider the [pricing, reliab
 
 * [Seamless Infrastructure Monitoring - Collect metrics for visibility, monitor Droplet performance, and receive alerts when problems arise in your infrastructure - via DigitalOcean.com](https://www.digitalocean.com/products/monitoring/ "Seamless Infrastructure Monitoring - Collect metrics for visibility, monitor Droplet performance, and receive alerts when problems arise in your infrastructure - via DigitalOcean.com")
 * [Teams - Securely and efficiently collaborate on projects with unlimited users, two-factor authentication, and all of your projects on a single bill - via DigitalOcean.com](https://www.digitalocean.com/products/teams/ "Teams - Securely and efficiently collaborate on projects with unlimited users, two-factor authentication, and all of your projects on a single bill - via DigitalOcean.com")
-* [For Extensive Support - Contact DigitalOcean.com Specialists - Free and Paid Technical Support around the clock - via DigitalOcean.com](https://www.digitalocean.com/support/ "For Extensive Support - Contact DigitalOcean.com Specialists - Free and Paid Technical Support around the clock - via DigitalOcean.com")
+* [**For Extensive Support** - Contact DigitalOcean.com Specialists - Free and Paid Technical Support around the clock - via DigitalOcean.com](https://www.digitalocean.com/support/ "For Extensive Support - Contact DigitalOcean.com Specialists - Free and Paid Technical Support around the clock - via DigitalOcean.com")
+
+## Map Existing or Newly Purchased Domain to DigitalOcean via DNS
+
+Explained above - [Adding a domain you own to your DigitalOcean account lets you manage the domain's DNS records with the control panel and API - via DigitalOcean.com](https://www.digitalocean.com/docs/networking/dns/ "Adding a domain you own to your DigitalOcean account lets you manage the domain's DNS records with the control panel and API - via DigitalOcean.com")
+
+## Limitations on Mapping Domains via DigitalOcean
+
+DigitalOcean's terms of service prohibit adding country code top-level domains (ccTLDs) from [OFAC-sanctioned countries](https://orpa.princeton.edu/export-controls/sanctioned-countries "Princeton University - Princeton Research - Research and Project Administration - OFAC Sanctioned Countries - The Office of Foreign Assets Control (OFAC) is part of the United States Treasury Department."). For more information, including a list of countries, see the **Lawful Use of the Network** section in [our terms of service](https://www.digitalocean.com/legal/terms-of-service-agreement/ "DigitalOcean - Terms of Service - Domains - Lawful Use of the Network"). 
