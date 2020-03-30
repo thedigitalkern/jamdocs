@@ -1,6 +1,5 @@
 ---
-title: Website Development - Domain / CDN / Email Accounts / CRM / Deploy a Server
-  / Change DNS / Limitations
+title: Website Development
 date: 2020-03-30
 slug: web-dev
 
@@ -138,4 +137,4 @@ Explained above - [Adding a domain you own to your DigitalOcean account lets you
 
 ## Limitations on Mapping Domains via DigitalOcean
 
-DigitalOcean's terms of service prohibit adding country code top-level domains (ccTLDs) from [OFAC-sanctioned countries](https://orpa.princeton.edu/export-controls/sanctioned-countries "Princeton University - Princeton Research - Research and Project Administration - OFAC Sanctioned Countries - The Office of Foreign Assets Control (OFAC) is part of the United States Treasury Department."). For more information, including a list of countries, see the **Lawful Use of the Network** section in [our terms of service](https://www.digitalocean.com/legal/terms-of-service-agreement/ "DigitalOcean - Terms of Service - Domains - Lawful Use of the Network"). 
+DigitalOcean's terms of service prohibit adding country code top-level domains (ccTLDs) from [OFAC-sanctioned countries](https://orpa.princeton.edu/export-controls/sanctioned-countries "Princeton University - Princeton Research - Research and Project Administration - OFAC Sanctioned Countries - The Office of Foreign Assets Control (OFAC) is part of the United States Treasury Department."). For more information, including a list of countries, see the **Lawful Use of the Network** section in [our terms of service](https://www.digitalocean.com/legal/terms-of-service-agreement/ "DigitalOcean - Terms of Service - Domains - Lawful Use of the Network").
