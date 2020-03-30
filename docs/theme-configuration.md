@@ -4,6 +4,8 @@ date: 2020-03-30
 slug: web-dev
 
 ---
+# Adding Domain / CDN / Email Accounts / CRM / Deploy a Server / Change DNS / Limitations
+
 ## Purchase a Domain depending on country code top-level domains (ccTLDs)
 
 _Prices will vary depending on your domain name and .ccTLD /s (in case of multiple domains) you select_
@@ -11,23 +13,17 @@ _Prices will vary depending on your domain name and .ccTLD /s (in case of multip
 * [Google Domains](https://domains.google/intl/en_in/tld/ "Google Domains")
 * [Namecheap](https://affiliate.namecheap.com/?affId=114685 "Namecheap Domains - Affiliate Link") _(Affiliate Link)_
 * [PorkBun](https://porkbun.com/ "PorkBun.com - Domain Registrar with Custom Email Forwarding and Email Alias Forwarding")
-* [DynaDot]( http://www.dynadot.com?s8GOz7g58D7M6r "Dynadot Domain Registrar - Affiliate Link") _(Affiliate Link)_
+* [DynaDot](http://www.dynadot.com?s8GOz7g58D7M6r "Dynadot Domain Registrar - Affiliate Link") _(Affiliate Link)_
 
 ## What is a .TLD / ccTLDs - Using Namemesh.com - Domain Name Generator
 
 * Check availability of the [**most common tlds**](https://www.namemesh.com/ "Namemesh.com - Domain Name Generator") including com, net, org. Also, checks the hyphenated version of your preferred domain name.
-
-
 * Check domain availability of the **new gtlds** that have been launched and have entered general availability. These tlds include .email, .link, .domains and many more. New gtlds are added as they are launched.
-
-
 * Create **short domain names** by overlapping the keywords with the tlds, like del.icio.us, foc.us, citi.es etc.
-
-
 * Check domain names with **some other popular tlds** like co, io, it, mobi, name, me, ly and many more.
 
 **Avoid the pop-ups (Great Tool though!)**  
-Generate the **common alternatives for your domain name** by using the following methods - 
+Generate the **common alternatives for your domain name** by using the following methods -
 
 * Thesaurus, Synonyms, Antonyms
 * Real World Intelligence
@@ -90,7 +86,7 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 
 ## Email Account/s
 
-* [Google Business Email](https://gsuite.google.co.in/intl/en_in/products/gmail/ "Secure, private, ad-free email for your business") (Paid Service) _(Does Not Require Separate Subscription as it comes bundled with G Suite or Google Business Suite)_ - Gmail keeps you updated with real-time message notifications, and safely stores your important emails and data. _IT admins can centrally manage accounts across your organization and devices._ 
+* [Google Business Email](https://gsuite.google.co.in/intl/en_in/products/gmail/ "Secure, private, ad-free email for your business") (Paid Service) _(Does Not Require Separate Subscription as it comes bundled with G Suite or Google Business Suite)_ - Gmail keeps you updated with real-time message notifications, and safely stores your important emails and data. _IT admins can centrally manage accounts across your organization and devices._
 * **_For NGOs / Charity Organisations_** _-_ [_Google for Nonprofits_](https://www.google.com/nonprofits/offerings/apps-for-nonprofits/ "G Suite for Nonprofits provides access to G Suite Basic , using your domain, at no charge.") _-_ G Suite for Nonprofits provides access to [G Suite Basic](https://gsuite.google.com/compare-editions/ "Google Business Suite Basic - Enterprise"), using your domain, at no charge. [See country-specific eligibility details here](https://support.google.com/nonprofits/answer/3215869?hl=en&ref_topic=3247288 "See country-specific eligibility details here").
   * **_For India_** - Organizations must be currently registered with BigTech, TechSoup Global's regional arm. Organizations must be registered societies, trusts, or Section 8 (formerly Section 25) companies; AND hold a valid registration under the [Foreign Contribution Regulations Act (FCRA)](https://fcraonline.nic.in/home/index.aspx "FCRA Online India"). [Eligibility Guidelines - **Be registered as a charitable organization**.](https://support.google.com/nonprofits/answer/3215869?hl=en&ref_topic=3247288 "Eligibility Guidelines - Google for Nonprofits (India)") All organizations must be verified as a nonprofit organization by [TechSoup](http://techsoup.org/ "TechSoup") or the local TechSoup partner (Handles the nonprofit verification process for Google for Nonprofit program).
     * **Not be:**
@@ -122,11 +118,7 @@ Moving to understanding How to deploy a Web Server consider the [pricing, reliab
 * [Floating IPs - publicly-accessible static IP addresses that you can assign to Droplets and instantly remap between other Droplets in the same datacenter - via DigitalOcean.com](https://www.digitalocean.com/docs/networking/floating-ips/ "Floating IPs - publicly-accessible static IP addresses that you can assign to Droplets and instantly remap between other Droplets in the same datacenter - via DigitalOcean.com")
 * [Adding a domain you own to your DigitalOcean account lets you manage the domain's DNS records with the control panel and API - via DigitalOcean.com](https://www.digitalocean.com/docs/networking/dns/ "Adding a domain you own to your DigitalOcean account lets you manage the domain's DNS records with the control panel and API - via DigitalOcean.com")
 * [Developer Documentation API Guidelines and more - via DigitalOcean.com](https://developers.digitalocean.com/documentation/ "Developer Documentation API Guidelines and more - via DigitalOcean.com")
-
-
 * [Automate your infrastructure - via Tools and Integrations CLI - via DigitalOcean.com](https://www.digitalocean.com/products/tools-and-integrations/#tools-and-integrations-cli/ "Automate your infrastructure - via Tools and Integrations CLI - via DigitalOcean.com")
-
-
 * [Seamless Infrastructure Monitoring - Collect metrics for visibility, monitor Droplet performance, and receive alerts when problems arise in your infrastructure - via DigitalOcean.com](https://www.digitalocean.com/products/monitoring/ "Seamless Infrastructure Monitoring - Collect metrics for visibility, monitor Droplet performance, and receive alerts when problems arise in your infrastructure - via DigitalOcean.com")
 * [Teams - Securely and efficiently collaborate on projects with unlimited users, two-factor authentication, and all of your projects on a single bill - via DigitalOcean.com](https://www.digitalocean.com/products/teams/ "Teams - Securely and efficiently collaborate on projects with unlimited users, two-factor authentication, and all of your projects on a single bill - via DigitalOcean.com")
 * [**For Extensive Support** - Contact DigitalOcean.com Specialists - Free and Paid Technical Support around the clock - via DigitalOcean.com](https://www.digitalocean.com/support/ "For Extensive Support - Contact DigitalOcean.com Specialists - Free and Paid Technical Support around the clock - via DigitalOcean.com")
