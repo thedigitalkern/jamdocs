@@ -92,7 +92,7 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 ### Cloudflare CDN Integrations
 
 * [IBM Cloud](https://www.cloudflare.com/integrations/ibm-cloud-internet-services/ "IBM Cloud") - Hosting via IBM Servers
-* [WordPress](https://www.cloudflare.com/integrations/wordpress/ "WordPress") - Blog/CMS or Content Management System
+* [WordPress](https://www.cloudflare.com/integrations/wordpress/ "WordPress") - Blog/CMS or Content Management System (Learn more about WordPress with [Closte](https://closte.com/ "Closte.com") (Premium) / [DigitalOcean](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean.com - Referral Link - WordPress")
 * [Google Cloud](https://www.cloudflare.com/integrations/google-cloud/ "Google Cloud") - Hosting via Google Cloud Servers
 * [Magento](https://www.cloudflare.com/integrations/magento/ "Adobe - Magento Commerce") - eCommerce Solution - [Adobe](https://www.adobe.com/in/ "Adobe India") - [Magento Commerce](https://magento.com/ "Magento Commerce")
 * [Acquia](https://www.cloudflare.com/integrations/acquia/ "Acquia: Open-source Content Management framework Drupal") - Open-source Content Management framework [Drupal](https://www.drupal.org/ "Drupal.org")
