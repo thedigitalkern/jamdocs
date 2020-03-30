@@ -69,6 +69,10 @@ Use various techniques to **smartly modify existing keywords to generate new wor
   * Prefixes - use prefixes overlapping with the keywords
   * Suffixes - use suffixes overlapping with the keywords
 
+## Whitelisting Safe Domains
+
+[Whitelisting](https://docs.oracle.com/en/cloud/paas/bi-cloud/bilpd/whitelisting-safe-domains.html "Whitelisting Safe Domains - Preparing Data in Oracle Business Intelligence Cloud Service") allows or approves access to specific content. For security reasons, you’re not allowed to add external content to reports or embed your reports in other applications unless your administrator considers it safe to do so. Only administrators can add safe domains to the whitelist.
+
 ## Cloudflare CDN (Importance of using a CDN)
 
 * [Cloudflare for Performance](https://www.cloudflare.com/performance/ "Cloudflare for Performance")
@@ -170,6 +174,11 @@ Explained above - [Adding a domain you own to your DigitalOcean account lets you
 
 DigitalOcean's terms of service prohibit adding country code top-level domains (ccTLDs) from [OFAC-sanctioned countries](https://orpa.princeton.edu/export-controls/sanctioned-countries "Princeton University - Princeton Research - Research and Project Administration - OFAC Sanctioned Countries - The Office of Foreign Assets Control (OFAC) is part of the United States Treasury Department."). For more information, including a list of countries, see the **Lawful Use of the Network** section in [our terms of service](https://www.digitalocean.com/legal/terms-of-service-agreement/ "DigitalOcean - Terms of Service - Domains - Lawful Use of the Network").
 
-Site Snapshots (Paid Service via DigitalOcean.com Dashboard)
+## Deploy a Webserver via Digitalocean
 
-Droplet Backups via DigitalOcean (Paid)
+* **Do Note** - Deploying a Webserver via DigitalOcean requires coding knowledge hence **keep SSH Commands for Ubuntu Linux handy**. You would need to download [**KiTTY**](http://www.9bis.net/kitty/#!pages/download.md "KiTTY") is a fork from version 0.71 of **PuTTY**, the best telnet / SSH client in the world.  
+  KiTTY is only designed for the Microsoft® Windows® platform and [PuTTYgen](https://www.puttygen.com/) which is a key generator tool for creating pairs of public and private SSH keys. It is one of the components of the open-source networking client PuTTY. Although originally written for Microsoft Windows operating system, it is now officially available for multiple operating systems including macOS, Linux. PuTTYgen.exe is the graphical tool on Windows OS. While on the other side, Linux OS has the only command-line version could be accessible using [SSH commands](https://www.puttygen.com/ssh-commands).
+* [Linux, Apache, MySQL, PHP (LAMP) Stack vis DigitalOcean on Ubuntu 18.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04 "Linux, Apache, MySQL, PHP (LAMP) Stack vis DigitalOcean on Ubuntu 18.04 LTS via DigitalOcean.com") for deploying WordPress Blog/CMS that requires Database and PHP functionality.
+  * Enable [Site Snapshots]() (Paid Service via DigitalOcean.com Dashboard) - Snapshots are on-demand disk images of DigitalOcean Droplets and volumes saved to your account. Use them to create new Droplets and volumes with the same contents.
+  * Enable [Droplet Backups via DigitalOcean](https://www.digitalocean.com/docs/images/backups/ "Droplet Backups via DigitalOcean.com") (Paid) - Backups are automatically-created disk images of Droplets. Enabling backups for Droplets enables system-level backups at weekly intervals, which provides a way to revert to an older state or create new Droplets.
+* [Litespeed via Closte](https://closte.com/features "Closte - Hosting Solutions Features")
