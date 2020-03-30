@@ -16,7 +16,7 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'The Digital Kern',
+  siteName: 'Jamdocs',
   siteUrl: 'https://jamdocs.netlify.com',
   templates: {
     Doc: '/:slug',
