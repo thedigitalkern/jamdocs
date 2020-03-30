@@ -160,6 +160,16 @@ DigitalOcean's datacenters are in the following locations:
 
 Explained above - [Adding a domain you own to your DigitalOcean account lets you manage the domain's DNS records with the control panel and API - via DigitalOcean.com](https://www.digitalocean.com/docs/networking/dns/ "Adding a domain you own to your DigitalOcean account lets you manage the domain's DNS records with the control panel and API - via DigitalOcean.com")
 
+**Enable Certificate Authority Authorization (CAA) Records** - a standard designed to prevent bad actors from creating unauthorized SSL/TLS certificates. CAA records specify which certificate authorities (CAs) can issue certificates.
+
+# Manage SSL Certificates / HSTS
+
+[Let's Encrypt](https://letsencrypt.org/ "Let's Encrypt - A nonprofit Certificate Authority providing TLS certificates to 200 million websites. ") - A nonprofit Certificate Authority providing TLS certificates to 200 million websites. [Add a new certificate to your DigitalOcean Account](https://www.digitalocean.com/docs/accounts/security/certificates/ "Add a new certificate to your DigitalOcean Account"). To further strengthen the security of your website/blog/online application, you can configure Cloudflare to work seamlessly which allows [HTTP Strict Transport Security or HSTS](https://support.cloudflare.com/hc/en-us/articles/204183088-Understanding-HSTS-HTTP-Strict-Transport-Security- "Cloudflare supports HTTP Strict Transport Security (HSTS) to help secure your HTTPS web server from man-in-the middle downgrade attacks, such as SSL stripping attacks.") (_Cloudflare supports HTTP Strict Transport Security (HSTS) to help secure your HTTPS web server from man-in-the middle downgrade attacks, such as SSL stripping attacks.)_ - Respect Existing Headers, Caching and more.
+
 ## Limitations on Mapping Domains via DigitalOcean
 
 DigitalOcean's terms of service prohibit adding country code top-level domains (ccTLDs) from [OFAC-sanctioned countries](https://orpa.princeton.edu/export-controls/sanctioned-countries "Princeton University - Princeton Research - Research and Project Administration - OFAC Sanctioned Countries - The Office of Foreign Assets Control (OFAC) is part of the United States Treasury Department."). For more information, including a list of countries, see the **Lawful Use of the Network** section in [our terms of service](https://www.digitalocean.com/legal/terms-of-service-agreement/ "DigitalOcean - Terms of Service - Domains - Lawful Use of the Network").
+
+Site Snapshots (Paid Service via DigitalOcean.com Dashboard)
+
+Droplet Backups via DigitalOcean (Paid)
