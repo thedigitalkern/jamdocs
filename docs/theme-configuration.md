@@ -4,9 +4,9 @@ date: 2020-03-30
 slug: web-dev
 
 ---
-# Adding Domain / CDN / Email Accounts / CRM / Deploy a Server / Change DNS / Limitations
+###### TASKS - Adding Domain / CDN / Email Accounts / CRM / Deploy a Server / Change DNS / Server Limitations
 
-## Purchase a Domain depending on country code top-level domains (ccTLDs)
+###### Purchase a Domain depending on country code top-level domains (ccTLDs)
 
 _Prices will vary depending on your domain name and .ccTLD /s (in case of multiple domains) you select_
 
