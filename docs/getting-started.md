@@ -66,8 +66,6 @@ If you require GUI or Graphic User Interface for accessing requests over HTTP://
 
 New age communication platform for sharing data via [Slack.com](https://slack.com/intl/en-in/pricing "Slack.com Pricing Plans - Compare") accounts specifically designed for teams. If you are looking for organised spaces for everything related to a project, topic or team, you need to try Slack.
 
-## Using NameMesh.com - Domain Name Generator
-
 ## Purchase a Domain depending on country code top-level domains (ccTLDs)
 
 _Prices will vary depending on your domain name and .ccTLD /s (in case of multiple domains) you select_
@@ -77,7 +75,56 @@ _Prices will vary depending on your domain name and .ccTLD /s (in case of multip
 * [PorkBun](https://porkbun.com/ "PorkBun.com - Domain Registrar with Custom Email Forwarding and Email Alias Forwarding")
 * [DynaDot]( http://www.dynadot.com?s8GOz7g58D7M6r "Dynadot Domain Registrar - Affiliate Link") _(Affiliate Link)_
 
-## What is a .TLD / ccTLDs
+## What is a .TLD / ccTLDs - Using Namemesh.com - Domain Name Generator
+
+* Check availability of the [**most common tlds**](https://www.namemesh.com/ "Namemesh.com - Domain Name Generator") including com, net, org. Also, checks the hyphenated version of your preferred domain name.
+
+
+* Check domain availability of the **new gtlds** that have been launched and have entered general availability. These tlds include .email, .link, .domains and many more. New gtlds are added as they are launched.
+
+
+* Create **short domain names** by overlapping the keywords with the tlds, like del.icio.us, foc.us, citi.es etc.
+
+
+* Check domain names with **some other popular tlds** like co, io, it, mobi, name, me, ly and many more.
+
+**Avoid the pop-ups (Great Tool though!)**  
+Generate the **common alternatives for your domain name** by using the following methods - 
+
+* Thesaurus, Synonyms, Antonyms
+* Real World Intelligence
+* Related words using collocations and n-grams
+* over 6 million words database
+
+Enter **special characters** to specify preferences and different generation methods
+
+* Use __*__ to make sure the word is always included in the generated domain name.
+
+  **Usage**: 'cool* domain' will generate words containing 'cool' and replacing domain with other similarly related words.
+* Use **?** to replace a character with any letter or number.
+
+  **Usage** : '???' will be replaced by all 3 letter dictionary words. You can also specify part of the word like p??? (for 4 letter words starting with 'p') and ???t (for 4 letter words ending with t).
+
+Preserve the **main keywords entered in the final domain name and use the following to preserve SEO**
+
+* Short Prefixes - uses popular prefixes
+* Dictionary Prefixes and Suffixes - uses popular dictionary prefixes and suffixes
+* Derived Words - similar words using the keywords as a root word
+* Use __*__ with some letters to use dictionary words containing those letters. Eg: *z
+
+Use various techniques to **smartly modify existing keywords to generate new words** that are very brandable. Some of the popular techniques used are
+
+* Merged Portmanteau - also known as blending or meshing words is the most popular way of creating highly brandable names.
+* Misspellings
+* Phonetic Variations
+* Short URL
+* Overlapping
+* Acronyms
+* **Generate domains by mixing in other words and popular suffixes** like ly, ify etc. Some of the methods used are
+  * Mix words
+  * Simple Portmanteau - smartly merge popular suffixes like ly, ify, er, ish, ism and many more
+  * Prefixes - use prefixes overlapping with the keywords
+  * Suffixes - use suffixes overlapping with the keywords
 
 ## Cloudflare CDN (Importance of using a CDN)
 
