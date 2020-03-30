@@ -18,10 +18,11 @@ slug: web-dev
 
 _Prices will vary depending on your domain name and .ccTLD /s (in case of multiple domains) you select_
 
-* [Google Domains](https://domains.google/intl/en_in/tld/ "Google Domains")
-* [Namecheap](https://affiliate.namecheap.com/?affId=114685 "Namecheap Domains - Affiliate Link") _(Affiliate Link)_
-* [PorkBun](https://porkbun.com/ "PorkBun.com - Domain Registrar with Custom Email Forwarding and Email Alias Forwarding")
-* [DynaDot](http://www.dynadot.com?s8GOz7g58D7M6r "Dynadot Domain Registrar - Affiliate Link") _(Affiliate Link)_
+* [Google Domains](https://domains.google/intl/en_in/tld/ "Google Domains") _(.com TLDs)_
+* [Namecheap](https://affiliate.namecheap.com/?affId=114685 "Namecheap Domains - Affiliate Link") _(Affiliate Link) (.com TLDs) (Quick DNS Response Times - Easy to US)_
+* [PorkBun](https://porkbun.com/ "PorkBun.com - Domain Registrar with Custom Email Forwarding and Email Alias Forwarding") _(.com TLDs) (Custom / Email Alias Forwarding Enabled for Incoming only emails)_
+* [DynaDot](http://www.dynadot.com?s8GOz7g58D7M6r "Dynadot Domain Registrar - Affiliate Link") _(Affiliate Link) - (.in TLDs without WHOIS Privacy)_
+* [GoDaddy.in](https://in.godaddy.com/ "GoDaddy.in") _(.in TLDs with WHOIS Privacy)_
 
 ## What is a .TLD / ccTLDs - Using Namemesh.com - Domain Name Generator
 
@@ -105,6 +106,8 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
     * [YouTube Nonprofit Program](https://www.google.com/nonprofits/offerings/youtube-nonprofit-program/ "YouTube Nonprofit Program") - Engage your supporters using video with the YouTube Nonprofit Program - Unlock the power of video storytelling, so you can reach a global audience and amplify your cause. Plus, make it easy for supporters to give with YouTube Giving features (*currently available in the United States of America).
     * [Google Earth and Maps](https://www.google.com/nonprofits/offerings/google-earth-and-maps/ "Google Earth and Maps for Nonprofits") - Show your nonprofit's impact with Google Earth and Maps - Develop compelling data visualizations to track and share your organization’s impact. Plus, use Google Maps Platform to help people locate community programs and resources closest to them. Google for Nonprofits provides Google Maps Platform credits to nonprofits.
 * [ZohoMail](https://www.zoho.com/mail/zohomail-pricing.html "ZohoMail - Pricing and Editions - Support") (Forever Free Plan offers Up to five users, 5GB/User, 25MB attachment limit. Web access only. Email hosting for single domain - Scalable - Allows usage of Custom Domains)
+  * [Sender Policy Framework](https://www.zoho.com/mail/help/adminconsole/spf-configuration.html "Sender Policy Framework") - Sender Policy Framework/ SPF Records is a type of DNS record published in the domain's DNS that identifies the email servers that are permitted to send emails using the particular domain name. The main purpose of SPF records is to help the recipient email server identify the spam emails, sent using your domain name by spoofing/ forging the From email addresses. The purpose of an SPF record is to detect and prevent spammers from sending messages with forged From addresses on your domain. The SPF protocol is one of the standard validations to fight against spam. Additionally, it is also a part of [DMARC or Domain-based Message Authentication, Reporting & Conformance](https://www.zoho.com/mail/help/adminconsole/dmarc-policy.html "DMARC or Domain-based Message Authentication, Reporting & Conformance") specification.
+  * [DKIM - DomainKeys Identified Mail](https://www.zoho.com/mail/help/adminconsole/dkim-configuration.html "DKIM - DomainKeys Identified Mail") - DKIM is an authentication method, which uses [email encryption](https://www.zoho.com/mail/help/email-encryption.html) with public/ private keys, to validate whether the emails are generated from the authorized servers, recognized and configured by the administrators of the sending domains.
 
 ## CRM
 
