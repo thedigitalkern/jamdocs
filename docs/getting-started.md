@@ -79,6 +79,28 @@ New age communication platform for sharing data via [Slack.com](https://slack.co
 
 ## Cloudflare CDN (Importance of using a CDN)
 
+* [Cloudflare for Performance](https://www.cloudflare.com/performance/ "Cloudflare for Performance")
+* [Cloudflare for Security](https://www.cloudflare.com/security/ "Cloudflare for Security")
+* [Cloudflare for Reliability](https://www.cloudflare.com/reliability/ "Cloudflare for Reliability")
+
+Free plan for **small personal websites, blogs, and anyone who wants to evaluate Cloudflare.** Our mission is to build a better Internet. We believe every website should have free access to foundational security and performance. [Cloudflare's Free Plan](https://www.cloudflare.com/plans/?utm_expid=.jzn7bZLMRYOX1sN-nuWXUA.0&utm_referrer=https%3A%2F%2Fwww.cloudflare.com%2F "Cloudflare's Free Plan") has **no limit on the amount of bandwidth your visitors use or websites you add.** If you want to make your site even faster and more resilient, you can easily upgrade to one of Cloudflare CDN's higher tier plans. Cloudflare for Individuals is built on our global network. This package is **ideal for people with personal or hobby projects that aren’t business-critical.**
+
+* [DDoS attack mitigation](https://www.cloudflare.com/ddos/ "Cloudflare’s DDoS protection")
+* [Global Content Delivery Network](https://www.cloudflare.com/cdn/ "Global Content Delivery Network")
+* [Help Center](https://support.cloudflare.com/hc/en-us "Cloudflare Help Center") or Support via email - Support response: Median email response time of less than 24 hours for Free Plan
+
+### Cloudflare CDN Integrations
+
+* [IBM Cloud](https://www.cloudflare.com/integrations/ibm-cloud-internet-services/ "IBM Cloud") - Hosting via IBM Servers
+* [WordPress](https://www.cloudflare.com/integrations/wordpress/ "WordPress") - Blog/CMS or Content Management System
+* [Google Cloud](https://www.cloudflare.com/integrations/google-cloud/ "Google Cloud") - Hosting via Google Cloud Servers
+* [Magento](https://www.cloudflare.com/integrations/magento/ "Adobe - Magento Commerce") - eCommerce Solution - [Adobe](https://www.adobe.com/in/ "Adobe India") - [Magento Commerce](https://magento.com/ "Magento Commerce")
+* [Acquia](https://www.cloudflare.com/integrations/acquia/ "Acquia: Open-source Content Management framework Drupal") - Open-source Content Management framework [Drupal](https://www.drupal.org/ "Drupal.org")
+* [Rackspace](https://www.cloudflare.com/integrations/rackspace-ddos-protection/ "Rackspace - DDoS Protection") - DDoS Protection
+* [Microsoft Azure - Cloud Computing Services (Windows Applications)](https://www.cloudflare.com/integrations/microsoft-azure/ "Microsoft Azure - Cloud Computing Services (Windows Applications)")
+* [Kubernetes](https://www.cloudflare.com/integrations/kubernetes/ "Kubernetes") - Tech Stack
+* [WP Engine](https://www.cloudflare.com/integrations/wpengine/ "WP Engine") - Hosting Solution
+
 ## Email Account/s
 
 * [Google Business Email](https://gsuite.google.co.in/intl/en_in/products/gmail/ "Secure, private, ad-free email for your business") (Paid Service) _(Does Not Require Separate Subscription as it comes bundled with G Suite or Google Business Suite)_ - Gmail keeps you updated with real-time message notifications, and safely stores your important emails and data. _IT admins can centrally manage accounts across your organization and devices._ 
