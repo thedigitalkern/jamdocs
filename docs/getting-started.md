@@ -70,8 +70,10 @@ New age communication platform for sharing data via [Slack.com](https://slack.co
 
 ## Purchase a Domain depending on country code top-level domains (ccTLDs)
 
-* Google Domains
-* Namecheap
+_Prices will vary depending on your domain name and .ccTLD /s (in case of multiple domains) you select_
+
+* [Google Domains](https://domains.google/intl/en_in/tld/ "Google Domains")
+* [Namecheap](https://affiliate.namecheap.com/?affId=114685 "Namecheap Domains - Affiliate Link") _(Affiliate Link)_
 * PorkBun
 * DynaDot
 
