@@ -1,5 +1,5 @@
 ---
-title: Advertising via Ad Platforms - Google Ads / Bing Ads / Taboola
+title: Paid Advertising
 date: 2020-03-30
 slug: advertising-online-seo
 
