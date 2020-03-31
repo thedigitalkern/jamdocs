@@ -16,3 +16,4 @@ fields:
   label: slug
 pages:
 - docs/editing-in-forestry.md
+- docs/software-and-gear-required.md
