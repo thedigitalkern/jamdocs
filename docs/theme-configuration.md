@@ -127,14 +127,22 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 
 ## Types of Content Management Systems
 
-* Bootstrap Studio - Static Website Generator (Smart Forms and 5 Static Website Custom Domain Hosting Solution)
-* Hugo - Blog (The DigitalKern.com is built on Hugo)
-* Squarespace - Website / Blog / eCommerce
-* BigCommerce - eCommerce - Supports TaxJar Module Integration
-* Shopify (Also provides Point of Sale Systems) - eCommerce - Also supports Dropshipping via Shopify and Oberlo - Supports TaxJar Module Integration
-* WordPress / WooCommerce (Website/Blog with eCommerce and Plugin Functionality / Extensive set of Themes and Modules for Integrations - Supports Custom Payment Gateways) - Supports TaxJar Module Integration
-* Adobe Magento Commerce 2x - eCommerce - Extensive Product Upload Platform Stablility - Server Requirements 4GB RAM - Server setup via DigitalOcean or Adobe Cloud
-* 
+* [**Bootstrap Studio**](https://bootstrapstudio.io/ "Bootstrap Studio") - Static Website Generator (Smart Forms and 5 Free Static Website Custom Domain Hosting Solution - Image Assets Limitations on Pages - Solve this by Syncing it to Github Pages Repo)
+* [**Hugo**](https://gohugo.io/ "Hugo Open-Source CMS - Sponsored by Netlify") - Blog (The DigitalKern.com is built on Hugo) - Use in Development Mode via Netlify + Forestry.io + GitHub Repo (Private/Public) with Custom Domains - Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
+* [**Squarespace**](https://www.squarespace.com/ "Squarespace CMS") - Website / Blog (Starts at 12 USD/month) while eCommerce  (at 40 USD/month)- Supports [TaxJar Module Integration USA](https://www.taxjar.com/sales-tax-integrations/ "Integrations by TaxJar for different platforms") (Starts at 17 USD/month)
+* [**BigCommerce Essentials**](https://www.bigcommerce.com/essentials/ "BigCommerce Essentials") - eCommerce (Starts at 29.95 USD/month)
+* [**Shopify**](https://www.shopify.in/ "Shopify CMS") (Also provides **Point of Sale Systems**) - eCommerce - Also supports [**Dropshipping via Shopify and Oberlo**](https://www.oberlo.com/ "Dropshipping via Shopify and Oberlo") - Supports [TaxJar Module Integration USA](https://www.taxjar.com/sales-tax-integrations/ "Integrations by TaxJar for different platforms") (Starts at 17 USD/month) - One platform with all the eCommerce and point of sale features you need to start, run, and grow your business.
+* [**WordPress**](https://wordpress.org/about/features/ "WordPress - via DigitalOcean") **/** [**WooCommerce**](https://woocommerce.com/features/ "WooCommerce") (Website/Blog with eCommerce and Plugin Functionality / Extensive set of Themes and Modules for Integrations - Supports Custom Payment Gateways - Scroll to Bottom of this Page to Understand Payment Gateways and Risks Involved) - Supports [TaxJar Module Integration USA](https://www.taxjar.com/sales-tax-integrations/ "Integrations by TaxJar for different platforms") (Starts at 17 USD/month) - [Server Requirements 1GB RAM - Server setup via DigitalOcean](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean.com - Referral Link - WordPress") (Referral Link)
+* [**Adobe Magento Commerce 2x**](https://www.adobe.com/commerce/magento.html "Adobe Magento Commerce 2x Cloud Hosted") - Full-Scale eCommerce - Extensive Product Upload Platform Stability - [Server Requirements 4GB RAM - Server setup via DigitalOcean](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean.com - Referral Link - WordPress") (Referral Link) or Adobe Cloud
+* [**Ghost Pro**](https://ghost.org/pricing/ "Ghost Pro") (Mainly for Blogging) (Starts at 29 USD/month)
+* [**Webflow**](https://webflow.com/ "Webflow - Build better business websites, faster. Without coding.") Basic (Starts at 12 USD/month) (Fullscale Websites that allow eCommerce)  (Starts at 12 USD/month)
+
+## Prototyping Tools
+
+* [**FramerX**](https://www.framer.com/ "FramerX") (Online Application) - Bring your creative ideas to life with Framer X, the best tool for interactive design. Create responsive layouts, design realistic prototypes, and bring everything closer to production—all in one place.
+* [**Sketch (MacOSx)**](https://www.sketch.com/ "Sketch (MacOSx)") - Create, prototype, collaborate and turn your ideas into incredible products with the definitive platform for digital design.
+* [**Adobe InDesign XD Creative Cloud**](https://www.adobe.com/in/products/xd.html "Adobe InDesign XD Creative Cloud Free with Adobe Account") (Windows and MacOSx) (Free Prototyping Tool)
+* [**UIZARD.io**](https://uizard.io/ "UIZARD.io") (Beta Access upon Approval) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
 
 ## Deploy a Server
 
