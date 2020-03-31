@@ -132,6 +132,7 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 * Squarespace - Website / Blog / eCommerce
 * BigCommerce - eCommerce
 * Shopify (Also provides Point of Sale Systems) - eCommerce
+* WordPress / WooCommerce (Website/Blog with eCommerce and Plugin Functionality / Extensive set of Themes and Modules for Integrations - Supports Custom Payment Gateways)
 
 ## Deploy a Server
 
