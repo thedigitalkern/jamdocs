@@ -133,3 +133,11 @@ I personally love the work that **Tejal Patni** has to offer. He has shot for [H
 * [https://phlearn.com/tutorial/product-retouching-ecommerce/](https://www.karltayloreducation.com/product-photography-courses/ "https://www.karltayloreducation.com/product-photography-courses/")
 * [https://phlearn.com/tutorial/retouch-composite-product-photography/](https://www.karltayloreducation.com/product-photography-courses/ "https://www.karltayloreducation.com/product-photography-courses/")
 * [https://phlearn.com/tutorial/product-photography-background-retouching/](https://www.karltayloreducation.com/product-photography-courses/ "https://www.karltayloreducation.com/product-photography-courses/")
+
+**Color Profiles for Retouching -** [https://phlearn.com/magazine/photoshop-working-spaces-and-what-they-can-do-for-you/](https://phlearn.com/magazine/photoshop-working-spaces-and-what-they-can-do-for-you/ "Phlearn.com - Color Profiles for Retouching") (YouTube Video)
+
+**Phlearn.com - Photography and Retouching Color Grading YouTube -** [https://www.youtube.com/channel/UC47XN5bhLTBH5TRFyKaUpKg](https://www.youtube.com/channel/UC47XN5bhLTBH5TRFyKaUpKg "Phlearn.com - Photography and Retouching Color Grading YouTube") (YouTube Video)
+
+**F-Stoppers - Resource Guide on YouTube** **Channel -**  [https://www.youtube.com/user/FStoppers](https://www.youtube.com/user/FStoppers "https://www.youtube.com/user/FStoppers") (YouTube Video Channel)
+
+**F-Stoppers Blog -** [https://fstoppers.com/](https://fstoppers.com/ "https://fstoppers.com/") (In-depth articles by F-Stoppers Team)
