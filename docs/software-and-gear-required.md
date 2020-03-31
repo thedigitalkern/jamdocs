@@ -16,7 +16,7 @@ Find In-depth reviews on camera systems and more via DPReview.com - [https://www
 
 ## Photography Tripod Recommendations
 
-* [**Manfrotto**](https://www.manfrotto.com/in-en/ "Manfrotto") manufactures Photography/Video Tripod based on **Key Features** such as - 
+* [**Manfrotto**](https://www.manfrotto.com/in-en/ "Manfrotto") manufactures Photography/Video Tripod based on **Key Features** such as -
   * **Material Used** - Carbon Fiber, Aluminium Alloy, Magnesium, Rubber, Steel, Technopolymer, Zamak and Acrylonitrile Butadiene Styrene (ABS) Plastic
   * **Load Capacity** - Maximum Weight Capacity
   * Maximum and Minimum **Height**
@@ -25,8 +25,6 @@ Find In-depth reviews on camera systems and more via DPReview.com - [https://www
 * Some of the tripod manufacturers allow you to **swap out the standard feet for the included spikes or wide rubber feet** to accommodate different terrains and surfaces.
 * [**Carbon Fiber Tripod**](https://www.manfrotto.com/in-en/shop-by/photographic-style/commercial/carbon_fiber/ "Manfrotto Carbon Fiber Tripods and Accessories") - stronger and lighter than their metallic counterparts - carbon fiber is much stronger, and because the material is less dense, it’s far lighter too. manufactured in a highly technical process, and mixed with a resin to give it its shape, there are different grades of quality. leg tubes that are made of carbon fiber; joins between leg sections and the head assembly still require metal components, meaning a typical weight saving of around 20-30% over an aluminum model. A composite material, strings of carbon atoms are set in a plastic resin, and have a very high strength-to-weight ratio, meaning that tripods made from the material are much lighter to carry. However, while tougher than aluminum, if it suffers from a sudden impact its greater rigidity means it’s prone to cracking or shattering.
 * [**Aluminum**](https://www.manfrotto.com/in-en/shop-by/photographic-style/commercial/ "Manfrotto Aluminum Tripods and Accessories") - created from an aluminum alloy, and while not the strongest metal available, it is relatively strong for its weight. It also has the benefit of being fairly malleable, meaning that if you manage to damage it via impact, it will more likely become bent rather than completely broken, and therefore still be usable.
-
-
 * **Tripod Heads for Still Photography Recommendations**
   * **Types Include** - 3 Way Head, Ball Heads, Pan & Tilt Heads, Tilt Heads, Geared Heads, Gimbal Heads, and Pistol Grip Heads
   * **Features** include **lightweight magnesium** options as well as **hydrostatic** and **built-in grip** types. Each Tripod Head serves a **Specific Purpose** for productivity (QR or **quick release system**) and **Usage** (For Video - Type of Shot - Pan, Smoothness, etc.)
@@ -92,7 +90,7 @@ Each Camera System is designed differently and hence the way to Tether Shoot dir
 
 * **Canon**
   * [**Canon EOS Utility**](https://in.canon/en/support/category?range=1 "Canon Support - EOS Utility for Windows") software is available free with Canon cameras and includes many features found in purchased software packages. The EOS Utility is a robust full-featured software package that has been continually updated to add new features. Available for Windows and Mac. You can download the Canon EOS Utility for free from Canon.
-  * For Remote Shooting via [EOS Camera App](https://www.canon-europe.com/apps/canon-camera-connect/ "Canon Camera Connect app") with Canon EOS Series Cameras that **support built-in WiFi**. 
+  * For Remote Shooting via [EOS Camera App](https://www.canon-europe.com/apps/canon-camera-connect/ "Canon Camera Connect app") with Canon EOS Series Cameras that **support built-in WiFi**.
   * Connect your camera to your Apple or Android device for remote shooting and to easily download your photos, ready for sharing.
     * Download your images instantly, so that they are ready to share
     * Control your camera remotely from your phone
@@ -102,7 +100,7 @@ Each Camera System is designed differently and hence the way to Tether Shoot dir
 * [**Fujifilm**](https://fujifilm-x.com/global/stories/fujifilm-tether-plug-in-pro-users-guide-1-preparing-for-tethered-shooting/ "FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting") **-** FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting
 * [**Kodak**](https://resources.kodak.com/support/shtml/en/manuals/urg00569/urg00569c7s2.shtml "Kodak Help Support Resources") - [Adobe Lightroom]()
 
-## Always Shoot in RAW. 
+## Always Shoot in RAW.
 
 **Optimize images in post-production using the above-mentioned Softwares or hire an agency to add additional information to the images or media content. You can Find out if** [**Adobe Camera Raw supports your camera model via Adobe**](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model")**. Image file formats** [**RAW / NEF to JPEG / PNG**](Image file formats RAW NEF to JPEG PNG - https://helpx.adobe.com/in/lightroom-classic/help/supported-file-formats.html "Image file formats RAW / NEF to JPEG / PNG")**.**
 
@@ -141,3 +139,7 @@ I personally love the work that **Tejal Patni** has to offer. He has shot for [H
 **F-Stoppers - Resource Guide on YouTube** **Channel -**  [https://www.youtube.com/user/FStoppers](https://www.youtube.com/user/FStoppers "https://www.youtube.com/user/FStoppers") (YouTube Video Channel)
 
 **F-Stoppers Blog -** [https://fstoppers.com/](https://fstoppers.com/ "https://fstoppers.com/") (In-depth articles by F-Stoppers Team)
+
+[**Top Modeling Agencies Recommendations**](https://www.modelmanagement.com/model-agencies/india-IN/ "Top Modeling Agencies Recommendations - Model Management India for Campaign Shots with Human Interaction") - Model Management India for Campaign Shots that require Human Interaction.
+
+[**Hair and Makeup Artist Recommendation**](https://www.magicalmakeovers.in/about-cherag/ "Cherag Bamboat - India’s first make-up artist to have worked on Global Pop Icon, Lady Gaga. He’s also the first Indian artist to have worked with Hollywood star Lauren Gottlieb. Being a celebrity makeup artist for the film industry Cherag has had the privilege of having worked with a long list of Bollywood stars.")
