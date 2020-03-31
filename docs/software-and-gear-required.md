@@ -100,7 +100,12 @@ Each Camera System is designed differently and hence the way to Tether Shoot dir
 * [**Fujifilm**](https://fujifilm-x.com/global/stories/fujifilm-tether-plug-in-pro-users-guide-1-preparing-for-tethered-shooting/ "FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting") **-** FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting
 * [**Kodak**](https://resources.kodak.com/support/shtml/en/manuals/urg00569/urg00569c7s2.shtml "Kodak Help Support Resources") - [Adobe Lightroom]()
 
-You can Find out if [Adobe Camera Raw supports your camera model via Adobe](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model")
+You can Find out if [Adobe Camera Raw supports your camera model via Adobe](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model"). Check requirements for shooting in Raw image filename extension.
+
+* Minimum Camera Raw plug-in version required
+* Minimum Lightroom version required
+* Minimum Lightroom Classic version required
+* Minimum Lightroom Perpetual version required
 
 I personally love the work that Tejal Patni has to offer. A graduate from the London Film Academy. He has shot for Harvey Nichols, Bloomingdales, Chanel, Hugo Boss, Levi's, Splash Fashions, Emirates Airlines and a whole host of some of the world's most exciting brands incl The famous “Splash Calendar” which has achieved global Fame.
 
