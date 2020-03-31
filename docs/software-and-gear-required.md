@@ -102,7 +102,7 @@ Each Camera System is designed differently and hence the way to Tether Shoot dir
 
 ## Always Shoot in RAW.
 
-**Optimize images in post-production using the above-mentioned Softwares or hire an agency to add additional information to the images or media content. You can Find out if** [**Adobe Camera Raw supports your camera model via Adobe**](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model")**. Image file formats** [**RAW / NEF to JPEG / PNG**](Image file formats RAW NEF to JPEG PNG - https://helpx.adobe.com/in/lightroom-classic/help/supported-file-formats.html "Image file formats RAW / NEF to JPEG / PNG")**.**
+**Hero Shot + Product Angle Shots x4 with Sustainable Box / Packaging. Optimize images in post-production using the above-mentioned Softwares or hire an agency to add additional information to the images or media content. You can Find out if** [**Adobe Camera Raw supports your camera model via Adobe**](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model")**. Image file formats** [**RAW / NEF to JPEG / PNG**](Image file formats RAW NEF to JPEG PNG - https://helpx.adobe.com/in/lightroom-classic/help/supported-file-formats.html "Image file formats RAW / NEF to JPEG / PNG")**.**
 
 Check **requirements for shooting in Raw image filename extension**.
 
@@ -140,6 +140,22 @@ I personally love the work that **Tejal Patni** has to offer. He has shot for [H
 
 **F-Stoppers Blog -** [https://fstoppers.com/](https://fstoppers.com/ "https://fstoppers.com/") (In-depth articles by F-Stoppers Team)
 
+## Fashion / Product Showcase with Human Interaction
+
 [**Top Modeling Agencies Recommendations**](https://www.modelmanagement.com/model-agencies/india-IN/ "Top Modeling Agencies Recommendations - Model Management India for Campaign Shots with Human Interaction") - Model Management India for Campaign Shots that require Human Interaction.
 
 [**Hair and Makeup Artist Recommendation**](https://www.magicalmakeovers.in/about-cherag/ "Cherag Bamboat - India’s first make-up artist to have worked on Global Pop Icon, Lady Gaga. He’s also the first Indian artist to have worked with Hollywood star Lauren Gottlieb. Being a celebrity makeup artist for the film industry Cherag has had the privilege of having worked with a long list of Bollywood stars.")
+
+[**Video, Digital Still Photography, and Studio Lighting Shaping Tools Rental Company** in Mumbai and Pune (India)](https://www.accordequips.com/ "Video, Digital Still Photography, and Studio Lighting Shaping Tools Rental Company in Mumbai and Pune (India)")
+
+[**Portable Iron and Garment Steamer**](https://www.philips.co.in/c-m-ho/ironing/garment-steamer/all#filters=PORTABLE_STEAMERS_SU "Portable Iron and Garment Steamer via Philips Consumer Products") via Philips Consumer Products
+
+**Mannequins for Fashion and Accessories** (Require Assistants for Change of Outfits)
+
+**Acrylic Stands for Jewellery / Products**
+
+**Data Entry for Products** via [Internshala.com](http://internshala.com) (Internship Opportunities - India) - **Data Entry Services for Product Inventory Information Copywriting on CMS Platforms**
+
+## Electronics Store
+
+**Electronics Store - Mobile Information Database** - [Imei.info](http://imei.info) for Mobile Specifications
