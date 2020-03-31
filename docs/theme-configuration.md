@@ -125,6 +125,14 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 * [Google Business Suite](https://gsuite.google.co.in/intl/en_in/features/ "Google Business Suite - Overview") (Paid Service) - [Features and Pricing Plan](https://gsuite.google.co.in/intl/en_in/pricing.html "G Suite Pricing Plans. Try it free for 14 days")
 * [ZohoCRM]() - For a full list of [Features](https://www.zoho.com/crm/features.html "CRM Software Features and Capabilities") (Freemium)
 
+## Types of Content Management Systems
+
+* Bootstrap Studio - Static Website Generator (Smart Forms and 5 Static Website Custom Domain Hosting Solution)
+* Hugo - Blog (The DigitalKern.com is built on Hugo)
+* Squarespace - Website / Blog / eCommerce
+* BigCommerce - eCommerce
+* Shopify (Also provides Point of Sale Systems) - eCommerce
+
 ## Deploy a Server
 
 Moving to understanding How to deploy a Web Server consider the pricing, reliability, scalability, and flexibility of self-managed and managed services not limited to IoT, Kubernetes, [Droplets](https://www.digitalocean.com/products/droplets/ "Droplets via DigitalOcean.com"), Storage, Tools, Included Services, User-Driven Community Support, a [Marketplace](https://www.digitalocean.com/products/marketplace/ "DigitalOcean.com - Marketplace") and more. [**To get started you can use my referral link which will enable you a USD 100 Credit for 60 Days**](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean.com - Dravasp Shroff - Referral Link - TheDigitalKern.com") - _Please note: Bidding on branded keywords which include 'digitalocean' and/or 'digital ocean' for ads is prohibited._
