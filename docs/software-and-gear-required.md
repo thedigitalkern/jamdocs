@@ -154,8 +154,8 @@ I personally love the work that **Tejal Patni** has to offer. He has shot for [H
 
 **Acrylic Stands for Jewellery / Products**
 
-**Data Entry for Products** via [Internshala.com](http://internshala.com) (Internship Opportunities - India) - **Data Entry Services for Product Inventory Information Copywriting on CMS Platforms**
+**Data Entry for Products** via [Internshala.com](https://internshala.com/ "Your Go-To Intern Recruitment Solution via Internshala for India") (Internship Opportunities - India) - **Data Entry Services for Product Inventory Information Copywriting on CMS Platforms**
 
 ## Electronics Store
 
-**Electronics Store - Mobile Information Database** - [Imei.info](http://imei.info) for Mobile Specifications
+**Electronics Store - Mobile Information Database** - [Imei.info](https://www.imei.info/phonedatabase/ "IMEI Information Database for Mobile Devices - Specifications and More") for Mobile Specifications
