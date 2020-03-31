@@ -63,4 +63,4 @@ slug: image-optimisation-softwares
 
 * [**Google Docs**](https://www.google.com/docs/about/ "Google Docs") for Creating, Editing Documents - More than letters and words. **Google Docs** brings your documents to life with smart editing and styling tools to help you easily format text and paragraphs. Free with a **Google** account.
 * [**Google Sheets**](https://www.google.com/sheets/about/ "Google Sheets") - Create a new **spreadsheet** and edit it with others at the same time — from your computer, phone or tablet. Free with a **Google** account.
-* [**Google Slides**](https://www.google.com/slides/about/ "Google Slides") **for Presentations** - With Google Slides, you can create, edit, collaborate, and present wherever you are. Free with a **Google** account.
+* [**Google Slides**](https://www.google.com/slides/about/ "Google Slides") **for Presentations** - With Google Slides, you can create, edit, collaborate, and present wherever you are. (_Free with a **Google** account for personal use)_
