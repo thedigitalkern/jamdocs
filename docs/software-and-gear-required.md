@@ -6,7 +6,7 @@ slug: software-gear-camera
 ---
 ## Gear Required for Digital Photography
 
-    The trademarks, logos, domain names and service marks not owned by or on behalf of my website; The Digital Kern - thedigitalkern.com, and that are displayed on the Web Site are the registered and unregistered marks of their respective owners.
+    DISCLAIMER - The trademarks, logos, domain names and service marks not owned by or on behalf of my website; The Digital Kern - thedigitalkern.com, and that are displayed on the Web Site are the registered and unregistered marks of their respective owners.
 
 **Choose Camera System/s from the Manufacturers for Product Photography based on your skill level and expertise.**
 
