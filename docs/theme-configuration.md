@@ -130,9 +130,9 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 * Bootstrap Studio - Static Website Generator (Smart Forms and 5 Static Website Custom Domain Hosting Solution)
 * Hugo - Blog (The DigitalKern.com is built on Hugo)
 * Squarespace - Website / Blog / eCommerce
-* BigCommerce - eCommerce
-* Shopify (Also provides Point of Sale Systems) - eCommerce - Also supports Dropshipping via Shopify and Oberlo
-* WordPress / WooCommerce (Website/Blog with eCommerce and Plugin Functionality / Extensive set of Themes and Modules for Integrations - Supports Custom Payment Gateways)
+* BigCommerce - eCommerce - Supports TaxJar Module Integration
+* Shopify (Also provides Point of Sale Systems) - eCommerce - Also supports Dropshipping via Shopify and Oberlo - Supports TaxJar Module Integration
+* WordPress / WooCommerce (Website/Blog with eCommerce and Plugin Functionality / Extensive set of Themes and Modules for Integrations - Supports Custom Payment Gateways) - Supports TaxJar Module Integration
 * Adobe Magento Commerce 2x - eCommerce - Extensive Product Upload Platform Stablility - Server Requirements 4GB RAM - Server setup via DigitalOcean or Adobe Cloud
 * 
 
@@ -226,7 +226,7 @@ Bootstrap Studio is integrated with Google Webfonts and gives you an easy way to
 
 #### Productivity Features
 
-Bootstrap Studio has comprehensive support for [keyboard shortcuts](https://bootstrapstudio.io/tutorials/keyboard-shortcuts) which allow you to speed up your workflow dramatically.
+Bootstrap Studio has comprehensive support for [keyboard shortcuts](https://bootstrapstudio.io/tutorials/keyboard-shortcuts "BootstrapStudio.io") which allow you to speed up your workflow dramatically.
 
 #### Themes and Icons
 
