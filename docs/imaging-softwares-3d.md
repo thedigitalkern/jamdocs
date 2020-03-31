@@ -6,6 +6,8 @@ slug: image-optimisation-softwares
 ---
 ## Image Optimisation Softwares
 
+    DISCLAIMER - The trademarks, logos, domain names and service marks not owned by or on behalf of my website; The Digital Kern - thedigitalkern.com, and that are displayed on the Web Site are the registered and unregistered marks of their respective owners.
+
 #### ADOBE
 
 * Creative Cloud by Adobe is a collection of **20+ desktop and mobile apps and services for photography, design, video, web, UX and more**. Now you can take your ideas to new places with **Photoshop on the iPad**, **draw and paint with Fresco**, and **design for 3D and AR**.
