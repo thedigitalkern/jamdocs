@@ -102,12 +102,14 @@ Each Camera System is designed differently and hence the way to Tether Shoot dir
 * [**Fujifilm**](https://fujifilm-x.com/global/stories/fujifilm-tether-plug-in-pro-users-guide-1-preparing-for-tethered-shooting/ "FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting") **-** FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting
 * [**Kodak**](https://resources.kodak.com/support/shtml/en/manuals/urg00569/urg00569c7s2.shtml "Kodak Help Support Resources") - [Adobe Lightroom]()
 
-You can Find out if [Adobe Camera Raw supports your camera model via Adobe](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model"). Check requirements for shooting in Raw image filename extension.
+**Always Shoot in RAW. Optimize images in post-production using the above-mentioned Softwares or hire an agency to add additional information to the images or media content. You can Find out if** [**Adobe Camera Raw supports your camera model via Adobe**](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model")**.** 
 
-* Minimum Camera Raw plug-in version required
-* Minimum Lightroom version required
-* Minimum Lightroom Classic version required
-* Minimum Lightroom Perpetual version required
+Check **requirements for shooting in Raw image filename extension**.
+
+* _Minimum Camera Raw plug-in version required_
+* _Minimum Lightroom version required_
+* _Minimum Lightroom Classic version required_
+* _Minimum Lightroom Perpetual version required_
 
 I personally love the work that **Tejal Patni** has to offer. A graduate from the [London Film Academy](https://www.londonfilmacademy.com/ "London Film Academy - An intensive and practical path to gaining a degree Filmmaking, course is taught by practising film professionals and teaches you everything from script to screen"). He has shot for [Harvey Nichols](https://www.harveynichols.com/ "Harvey Nichols"), [Bloomingdales](https://www.bloomingdales.com/ "Bloomingdales"), [Chanel](https://www.chanel.com/en_GB/ "CHANEL"), [Hugo Boss](https://www.hugoboss.com/selectcountry "Hugo Boss"), [Levi's](https://www.levi.com/US/en_US/ "Levi's"), [Splash Fashions](https://www.splashfashions.com/ae/en/ "Splash Fashion United Arab Emirates - Landmark Group"), [Emirates Airlines](https://www.emirates.com/in/english/ "Emirates Airlines") and a whole host of some of the world's most exciting brands incl The famous “[Splash Calendar](https://landmarkgroup.uberflip.com/read/account_titles/180660 "Splash Calendar - Splash Fashion United Arab Emirates - Landmark Group")” which has achieved global Fame.
 
