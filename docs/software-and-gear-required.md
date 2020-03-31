@@ -95,10 +95,12 @@ Each Camera System is designed differently and hence the way to Tether Shoot dir
     * Download your images instantly, so that they are ready to share
     * Control your camera remotely from your phone
     * Add GPS data to your images with your PowerShot or IXUS camera
-  * **Warranty and Service Locations (Level 4 Service Center)** Mumbai, India for **Canon Imaging Systems** - [https://edge.canon.co.in/service-networks](https://help.phaseone.com/en/CO12/Tethered-Capture/Tethered-Shooting-Overview "https://help.phaseone.com/en/CO12/Tethered-Capture/Tethered-Shooting-Overview")
-* **Nikon** - [https://downloadcenter.nikonimglib.com/en/index.html](https://help.phaseone.com/en/CO12/Tethered-Capture/Tethered-Shooting-Overview "https://help.phaseone.com/en/CO12/Tethered-Capture/Tethered-Shooting-Overview")
-* **Fujifilm** - [https://fujifilm-x.com/global/stories/fujifilm-tether-plug-in-pro-users-guide-1-preparing-for-tethered-shooting/](https://help.phaseone.com/en/CO12/Tethered-Capture/Tethered-Shooting-Overview "https://help.phaseone.com/en/CO12/Tethered-Capture/Tethered-Shooting-Overview")
-* **Kodak** - Adobe Lightroom
+  * [**Warranty and Service Locations (Level 4 Service Center)** Mumbai, India](https://edge.canon.co.in/service-networks "Warranty and Service Locations for Canon Systems in Mumbai, India") for **Canon Imaging Systems** (Contact customer service department to book an appointment with the service experts for help and support.)
+* [**Nikon**](https://downloadcenter.nikonimglib.com/en/index.html "Nikon Camera Systems - Support") - Download manuals, software, and firmware for digital cameras and other imaging devices. Before proceeding, read the description, cautions, and download and installation instructions.
+* [**Fujifilm**](https://fujifilm-x.com/global/stories/fujifilm-tether-plug-in-pro-users-guide-1-preparing-for-tethered-shooting/ "FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting") **-** FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting
+* [**Kodak**](https://resources.kodak.com/support/shtml/en/manuals/urg00569/urg00569c7s2.shtml "Kodak Help Support Resources") - [Adobe Lightroom]()
+
+You can Find out if [Adobe Camera Raw supports your camera model via Adobe](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model")
 
 I personally love the work that Tejal Patni has to offer. A graduate from the London Film Academy. He has shot for Harvey Nichols, Bloomingdales, Chanel, Hugo Boss, Levi's, Splash Fashions, Emirates Airlines and a whole host of some of the world's most exciting brands incl The famous “Splash Calendar” which has achieved global Fame.
 
