@@ -118,3 +118,18 @@ Check **requirements for shooting in Raw image filename extension**.
 I personally love the work that **Tejal Patni** has to offer. He has shot for [Harvey Nichols](https://www.harveynichols.com/ "Harvey Nichols"), [Bloomingdales](https://www.bloomingdales.com/ "Bloomingdales"), [Chanel](https://www.chanel.com/en_GB/ "CHANEL"), [Hugo Boss](https://www.hugoboss.com/selectcountry "Hugo Boss"), [Levi's](https://www.levi.com/US/en_US/ "Levi's"), [Splash Fashions](https://www.splashfashions.com/ae/en/ "Splash Fashion United Arab Emirates - Landmark Group"), [Emirates Airlines](https://www.emirates.com/in/english/ "Emirates Airlines") and a whole host of some of the world's most exciting brands incl The famous “[Splash Calendar](https://landmarkgroup.uberflip.com/read/account_titles/180660 "Splash Calendar - Splash Fashion United Arab Emirates - Landmark Group")” which has achieved global Fame.
 
 * **Tejal Patni** for Advertising Photographers - [https://www.tejalpatni.com/](https://www.tejalpatni.com/ "https://www.tejalpatni.com/")
+
+## Time to Upgrade your Skillset
+
+**Learn how to** Optimize Images via Adobe Photoshop template dimensions and more.
+
+**Photography PRO Tutorials** by Karl Taylor (Paid)
+
+* [https://www.karltayloreducation.com/product-photography-courses/](https://www.karltayloreducation.com/product-photography-courses/ "https://www.karltayloreducation.com/product-photography-courses/")
+* [https://www.karltayloreducation.com/section/advertising-product-and-still-life-retouching/](https://www.karltayloreducation.com/product-photography-courses/ "https://www.karltayloreducation.com/product-photography-courses/")
+
+**Retouching PRO Tutorials** by Team Phlearn.com (Paid) -
+
+* [https://phlearn.com/tutorial/product-retouching-ecommerce/](https://www.karltayloreducation.com/product-photography-courses/ "https://www.karltayloreducation.com/product-photography-courses/")
+* [https://phlearn.com/tutorial/retouch-composite-product-photography/](https://www.karltayloreducation.com/product-photography-courses/ "https://www.karltayloreducation.com/product-photography-courses/")
+* [https://phlearn.com/tutorial/product-photography-background-retouching/](https://www.karltayloreducation.com/product-photography-courses/ "https://www.karltayloreducation.com/product-photography-courses/")
