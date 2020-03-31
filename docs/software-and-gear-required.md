@@ -102,7 +102,9 @@ Each Camera System is designed differently and hence the way to Tether Shoot dir
 * [**Fujifilm**](https://fujifilm-x.com/global/stories/fujifilm-tether-plug-in-pro-users-guide-1-preparing-for-tethered-shooting/ "FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting") **-** FUJIFILM Tether Plug-in PRO - Users Guide 1 -Preparing for tethered shooting
 * [**Kodak**](https://resources.kodak.com/support/shtml/en/manuals/urg00569/urg00569c7s2.shtml "Kodak Help Support Resources") - [Adobe Lightroom]()
 
-**Always Shoot in RAW. Optimize images in post-production using the above-mentioned Softwares or hire an agency to add additional information to the images or media content. You can Find out if** [**Adobe Camera Raw supports your camera model via Adobe**](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model")**.** 
+## Always Shoot in RAW. 
+
+**Optimize images in post-production using the above-mentioned Softwares or hire an agency to add additional information to the images or media content. You can Find out if** [**Adobe Camera Raw supports your camera model via Adobe**](https://helpx.adobe.com/in/camera-raw/kb/camera-raw-plug-supported-cameras.html "Cameras supported by Camera Raw - Find out if Adobe Camera Raw supports your camera model")**. Image file formats** [**RAW / NEF to JPEG / PNG**](Image file formats RAW NEF to JPEG PNG - https://helpx.adobe.com/in/lightroom-classic/help/supported-file-formats.html "Image file formats RAW / NEF to JPEG / PNG")**.**
 
 Check **requirements for shooting in Raw image filename extension**.
 
