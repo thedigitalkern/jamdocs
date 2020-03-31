@@ -6,6 +6,8 @@ slug: software-gear-camera
 ---
 ## Gear Required for Digital Photography
 
+    The trademarks, logos, domain names and service marks not owned by or on behalf of my website; The Digital Kern - thedigitalkern.com, and that are displayed on the Web Site are the registered and unregistered marks of their respective owners.
+
 **Choose Camera System/s from the Manufacturers for Product Photography based on your skill level and expertise.**
 
 Find In-depth reviews on camera systems and more via DPReview.com - [https://www.dpreview.com/](https://www.dpreview.com/ "https://www.dpreview.com/")
@@ -107,6 +109,6 @@ You can Find out if [Adobe Camera Raw supports your camera model via Adobe](http
 * Minimum Lightroom Classic version required
 * Minimum Lightroom Perpetual version required
 
-I personally love the work that Tejal Patni has to offer. A graduate from the London Film Academy. He has shot for Harvey Nichols, Bloomingdales, Chanel, Hugo Boss, Levi's, Splash Fashions, Emirates Airlines and a whole host of some of the world's most exciting brands incl The famous “Splash Calendar” which has achieved global Fame.
+I personally love the work that **Tejal Patni** has to offer. A graduate from the [London Film Academy](https://www.londonfilmacademy.com/ "London Film Academy - An intensive and practical path to gaining a degree Filmmaking, course is taught by practising film professionals and teaches you everything from script to screen"). He has shot for [Harvey Nichols](https://www.harveynichols.com/ "Harvey Nichols"), [Bloomingdales](https://www.bloomingdales.com/ "Bloomingdales"), [Chanel](https://www.chanel.com/en_GB/ "CHANEL"), [Hugo Boss](https://www.hugoboss.com/selectcountry "Hugo Boss"), [Levi's](https://www.levi.com/US/en_US/ "Levi's"), [Splash Fashions](https://www.splashfashions.com/ae/en/ "Splash Fashion United Arab Emirates - Landmark Group"), [Emirates Airlines](https://www.emirates.com/in/english/ "Emirates Airlines") and a whole host of some of the world's most exciting brands incl The famous “[Splash Calendar](https://landmarkgroup.uberflip.com/read/account_titles/180660 "Splash Calendar - Splash Fashion United Arab Emirates - Landmark Group")” which has achieved global Fame.
 
 * **Tejal Patni** for Advertising Photographers -[ ](https://www.manfrotto.com/in-en/)[https://www.tejalpatni.com/](https://www.tejalpatni.com/ "https://www.tejalpatni.com/")
