@@ -188,3 +188,39 @@ DigitalOcean's terms of service prohibit adding country code top-level domains (
 * [**FileZilla®**](https://filezilla-project.org/ "FileZilla®- The FileZilla Client Download") - The FileZilla Client not only supports FTP but also FTP over TLS (FTPS) and SFTP. It is open-source software distributed free of charge under the terms of the GNU General Public License.
 * **FileZilla® Pro** - Supports additional protocol support for [WebDAV (Web-based Distributed Authoring and Versioning)](http://www.webdav.org/ "WebDAV (Web-based Distributed Authoring and Versioning)"), [Amazon S3](https://aws.amazon.com/s3/ "Amazon S3 - Object storage built to store and retrieve any amount of data from anywhere"), [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html "Backblaze B2 Cloud Storage - High Performance Cloud Storage at ¼ the Price. 10+ years experience. Over an Exabyte stored under management"), [Dropbox](https://db.tt/2aGJqaWVft "Dropbox - Referral Link") (Cloud Storage Solution (Referral Link), [Microsoft OneDrive](https://products.office.com/en-in/onedrive/compare-onedrive-plans?activetab=tab:primaryr1 "Microsoft OneDrive"), [Google Drive](https://www.google.com/drive/ "Google Drive"), [Microsoft Azure Blob and File Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction "Introduction to Azure Blob storage") (Object Storage Solution for the Cloud), and [Google Cloud Storage](https://cloud.google.com/storage "Unified object storage for developers and enterprises.").
 * **FileZilla® Server** is a free open source FTP and FTPS Server.
+
+## Static Website Development
+
+via [Bootstrap Studio Lifetime License](https://bootstrapstudio.io/ "Bootstrap Studio Lifetime License - Static Websites") - Bootstrap Studio is a desktop application that works fully offline. There are **no monthly payments, usage limits or ongoing fees**. You buy it once and own it forever.
+
+#### Features
+
+Bootstrap Studio is a revolutionary website builder. With its productivity features and specialized Bootstrap tools, you can create everything from a prototype to a fully working website. Built for Bootstrap 3 and 4 - Bootstrap Studio knows how to construct a valid Bootstrap page and automatically writes the correct HTML. It supports both Bootstrap 3 and Bootstrap 4 and you can convert your designs from one to the other.
+
+#### One-click Publishing
+
+You can export your design as a static website, or publish it with one click to our [next gen hosting platform](https://bootstrapstudio.io/sites "Bootstrap Studio Lifetime License - Static Websites"). It offers HTTPS, custom domains, passkeys and is totally free!
+
+#### Grid Tools
+
+The app has specialized tools for working with the Bootstrap grid. Easily create, resize and offset columns, and apply responsive visibility classes.
+
+#### Smooth Animations
+
+In our app, you can create smooth CSS animations that are triggered on browser scroll or hover. We also have a special Parallax component for beautiful image backgrounds.
+
+#### Google Webfonts
+
+Bootstrap Studio is integrated with Google Webfonts and gives you an easy way to import and manage your fonts. Font family names are even auto-suggested in our CSS editor.
+
+#### Productivity Features
+
+Bootstrap Studio has comprehensive support for [keyboard shortcuts](https://bootstrapstudio.io/tutorials/keyboard-shortcuts) which allow you to speed up your workflow dramatically.
+
+#### Themes and Icons
+
+The app has a number of built-in Bootstrap themes, icon fonts, templates, and components, which you can combine into beautiful and unique designs.
+
+#### Always Up to Date
+
+Bootstrap Studio updates automatically, so you always have the latest version.
