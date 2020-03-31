@@ -131,8 +131,10 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 * Hugo - Blog (The DigitalKern.com is built on Hugo)
 * Squarespace - Website / Blog / eCommerce
 * BigCommerce - eCommerce
-* Shopify (Also provides Point of Sale Systems) - eCommerce
+* Shopify (Also provides Point of Sale Systems) - eCommerce - Also supports Dropshipping via Shopify and Oberlo
 * WordPress / WooCommerce (Website/Blog with eCommerce and Plugin Functionality / Extensive set of Themes and Modules for Integrations - Supports Custom Payment Gateways)
+* Adobe Magento Commerce 2x - eCommerce - Extensive Product Upload Platform Stablility - Server Requirements 4GB RAM - Server setup via DigitalOcean or Adobe Cloud
+* 
 
 ## Deploy a Server
 
