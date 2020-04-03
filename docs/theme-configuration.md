@@ -144,6 +144,28 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
 * [**Adobe InDesign XD Creative Cloud**](https://www.adobe.com/in/products/xd.html "Adobe InDesign XD Creative Cloud Free with Adobe Account") (Windows and MacOSx) (Free Prototyping Tool)
 * [**UIZARD.io**](https://uizard.io/ "UIZARD.io") (Beta Access upon Approval) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
 
+## Sign up for a DigitalOcean Account
+
+Sign-Up - Visit the signup page, where you have a choice between:
+
+* Entering an email address and password
+  * using Google Single Sign-On
+  * using GitHub Single Sign-On
+
+If you choose to use an email address and password, you will need to **verify your email address** using the email automatically sent to you.
+
+**Account Verification** - Account verification is automatic and happens usually within 30 days of opening and using your account. Under some circumstances, you may be asked to **provide a government-issued photo ID**. After you become a **verified user, you are able to manually charge your credit card by using the Pay now** button on your billing page.
+
+**Droplet and Volume Limit Increases** - Once your account is verified, we will periodically increase your Droplet limit. You can also view your account or team's Droplet limit and request an increase from your account settings page. After reviewing your request, we'll be able to update your limit.
+
+Before your account is verified, you are able to create volumes of up to 500 GB in size. After your account is verified, you are able to create volumes of any available size.
+
+**Multiple Accounts** - If you need **multiple accounts**, we recommend looking into team accounts and projects. Teams let you invite multiple users to access and manage shared resources without sharing login credentials or billing information. Projects let you organize your resources into groups that fit the way you work, like aligning with the applications, environments, clients, or projects that you host on DigitalOcean.
+
+**Account Cancellation** - You can **cancel your account from the Settings page by clicking Deactivate Account. Before you can completely deactivate an account, you'll need to destroy its active Droplets and resolve any outstanding billing.**
+
+[_To get started you can use my referral link which will enable you a USD 100 Credit for 60 Days_](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean.com - Dravasp Shroff - Referral Link - TheDigitalKern.com")_._
+
 ## Deploy a Server
 
 Moving to understanding How to deploy a Web Server consider the pricing, reliability, scalability, and flexibility of self-managed and managed services not limited to IoT, Kubernetes, [Droplets](https://www.digitalocean.com/products/droplets/ "Droplets via DigitalOcean.com"), Storage, Tools, Included Services, User-Driven Community Support, a [Marketplace](https://www.digitalocean.com/products/marketplace/ "DigitalOcean.com - Marketplace") and more. [**To get started you can use my referral link which will enable you a USD 100 Credit for 60 Days**](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean.com - Dravasp Shroff - Referral Link - TheDigitalKern.com") - _Please note: Bidding on branded keywords which include 'digitalocean' and/or 'digital ocean' for ads is prohibited._
@@ -477,3 +499,10 @@ Before you register for any of these services you must have the following compan
 **Select a Purpose Code**
 
 * Make sure that you select the purpose code that appropriately describes your business transactions. Enter a relevant Purpose Code that accurately describes the type of business you do. This is required under Indian regulations.
+
+## Understand Fees and Risks
+
+Involved with each setup you choose to integrate your eCommerce CMS Platform with not limited to Internet Payment Gateway -
+
+* **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes.
+* 
