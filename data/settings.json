@@ -21,6 +21,19 @@
           "slug": "advertising-online-seo"
         }
       ]
+    },
+    {
+      "topics": [
+        {
+          "slug": "software-gear-camera",
+          "title": "Software and Gear Required"
+        },
+        {
+          "slug": "image-optimisation-softwares",
+          "title": "Imaging Softwares / 3D"
+        }
+      ],
+      "section": "Software and Gear Required"
     }
   ]
 }
