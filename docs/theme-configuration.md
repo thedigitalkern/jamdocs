@@ -329,15 +329,13 @@ From physical goods to online services, **Seller Protection** gives you peace of
 * **Multiple signature proof of delivery requests:** You can request up to 30 signature proof of delivery letters at once. Please note the fax option is not available for multiple Signature proof of delivery requests.
 * **Detailed Signature proof of delivery**
 * You can obtain a signature proof of delivery letter with detailed information by providing the **9-digit FedEx account number**. If the account number matches the shipper or payer of the shipment, you will be able to view detailed signature proof of delivery information, which includes complete contact name, company name, street address, city, state/province, ZIP, and country information for both the shipper and recipient (if available).
-* **No signature found** - Even if no signature is available, you can still view/print, email and fax the available proof of delivery information. You can also check again later for the signature. **If no signature is available after seven business days, please** [**Contact FedEx™**](fedex.com/gb/contact/ "Contact FedEx™")
+* **No signature found** - Even if no signature is available, you can still view/print, email and fax the available proof of delivery information. You can also check again later for the signature. **If no signature is available after seven business days, please** [**Contact FedEx™**](fedex.com/gb/contact/ "Contact FedEx™"). Please note that the signature may be unavailable if it was released (the sender or recipient signed a signature release agreement).
 
-Please note that the signature may be unavailable if it was released (the sender or recipient signed a signature release agreement).
-
-The funds will be made available to you once we have confirmed that your transaction is eligible for Seller Protection.
+The funds will be made available to you once we have confirmed that your transaction is eligible for PayPal™ Seller Protection.
 
 For understanding PayPal™ Terms of Service - Please refer to PayPal™ User Agreement.
 
-GST is a comprehensive indirect tax levied on all transaction of goods and services throughout India. GST will be levied on the fees charged by PayPal to their customers, and not on the purchase amounts.
+Goods or Services Tax (GST) is a comprehensive indirect tax levied on all transactions of goods and services throughout India. GST will be levied on the fees charged by PayPal to their customers, and not on the purchase amounts.
 
 The GST of 18% will be levied only on the PayPal™ fee, not the purchase amount. GST will be levied on the fees charged by PayPal to their customers, and not on the purchase amounts.
 
