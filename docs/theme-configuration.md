@@ -513,7 +513,8 @@ Involved with each setup you choose to integrate your eCommerce CMS Platform wit
 * Purchase of Goods and Services from Partner/Vendors using Credit or Debit Cards Fee Markup of 1% - 3%
 * Customs Duty levied upon + GST  by CBEC + Transport Fees (Air/Sea/Road Cargo) + Insurance + Customs Clearance Fees authorized CHA or Clearing House Agent (mostly handled by your logistics partner such as FedEx.) For [more information on CBEC](http://cbic.gov.in/htdocs-cbec/customs "Central Board of Indirect Taxes and Customs India")
 * Visa Master charges a set percentage of fees to use their services by banking institutions and payment aggregators.
-* Ask for Merchant AVM Codes prior to refunding the amount on chargeback claims by the customer.
+* Ask for **Merchant Terminal ID Decline Codes in print and online prior to signing up with any of their services** as this helps understanding how to handle customer complaints, chargebacks, queries or provide relevant support/grievance redressal.
+* Refunding the amount on chargeback claims by the customer can result in serious financial losses by the financial institution/payment aggregator/merchant and the customer in case of its the other way around. Most merchant payments are blocked up to a period of 180 days in case of Chargebacks.
 * Always have Corporate Social Responsibility Policy implemented in accordance with MCA or Ministry of Corporate Affairs
 
 ## Chargeback Claims
