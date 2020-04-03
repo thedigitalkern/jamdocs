@@ -6,9 +6,9 @@
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
         <Shortcut link="/web-dev" text="Web Development" icon="sliders-icon" />
-        <Shortcut link="/web-dev#advertising-online-seo" text="Paid Advertising" icon="eye-icon" />
+        <Shortcut link="/advertising-online-seo" text="Paid Advertising" icon="eye-icon" />
 	<Shortcut link="/software-gear-camera" text="Software and Gear Required" icon="sliders-icon" />
-        <Shortcut link="/software-gear-camera#image-optimisation-softwares" text="Web Development" icon="eye-icon" />
+        <Shortcut link="/image-optimisation-softwares" text="Image Optimisation Softwares" icon="eye-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
