@@ -498,7 +498,7 @@ Differ from **T+1 to T+5** Days depending on the Payment Processor Terms set in 
 
 ## Understand Fees and Risks
 
-Involved with each setup you choose to integrate your eCommerce CMS Platform with not limited to Internet Payment Gateway -
+Get a Trademark Certification for Selling Authorised Brands adhering to Brand Guidelines for Display of Products with Accurate Information about every product. Selling Group or Bundled Products on a single page. Involved with each setup you choose to integrate your eCommerce CMS Platform with not limited to Internet Payment Gateway -
 
 * **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use / Breach Insurance / Cryptojacking. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes. 
 * In case of a Legal Dispute or Launch a Complaint you need to - 
@@ -517,6 +517,23 @@ Involved with each setup you choose to integrate your eCommerce CMS Platform wit
 * Visa©, Master©, and Maestro© charge a set percentage of fees to use their services by banking institutions and payment aggregators.
 * Ask for **Merchant Terminal ID Decline Codes in print and online prior to signing up with any of their services** as this helps understanding how to handle customer complaints, chargebacks, queries or provide relevant support/grievance redressal.
 * Refunding the amount on chargeback claims by the customer can result in serious financial losses by the financial institution/payment aggregator/merchant and the customer in case of its the other way around. It is important to take into consideration BIN (Bank Identification Numbers) Validation - CVV - CVV2 Validation Service Gone Wrong - Most merchant payments are blocked up to a period of 180 days in case of Chargebacks. Hence selecting the right internet payment gateway or POS (Point of Sale) System is critical at the very beginning.
+* Choose Lowest Forex Conversion Rates offered by Banking Institutions in case of Accepting International Payments.
+* Full or Part Refund, Subscriptions, Cancellation of Service,  
+  PayPal Merchant Earnings to Bank Account withdrawal Fees (Country specific)
+* **Enable Non-Refundable Products Policy Display prior to Payment Gateway Redirect** on the Customer Front-end via **"I Agree that is a Non-Returnable/Non-Refundable"** Button.
+* Understand Cash on Delivery Limits Set by Logistics Company / RBI / Modes of Payments and Fees levied by Logistics Provider such as FedEx for accepting COD and Bank Cheques
+* Enable Shipping Integration - **Pincode Serviceability Checker**
+* **Out of Delivery Area Limitations** and Safety / Fees for ODA Shipment
+* FedEx Shipping Module API Magento Keys Account Level
+* **Insurance for Damaged Goods in Transit/Responding to Claims and Evidence by Reliable Logistics Partner Fees** "_Add On Service in case of Damaged Goods"_
+* Checker Module Upload List of Pincodes Monthly via Logistics Provider Dedicated Account Manager in case of Enterprise Customer.
+* Enable Product Delivery Tracking (or provide a link to track a specific package to the customer/s) + Estimated Delivery Dates Displayed at all times.
+* You can Generating Shipping Labels and add a Pickup Package Scheduling by your Logistics Provider Online via FedEx Corporate Portal/Offline via Customer Care.
+* Take into consideration - Estimated Shipping Charges for Domestic / ODA / International Delivery Locations
+* Enable Address Validation / Autocomplete Form Input API Magento via Loqate API UK (Paid per billing / per API call fetched)
+* Filing process involves GST Paid Bill of Sale from Procurement Team / Authorised Partner and Bill of Sale to Delivery Customer
+* Understand Chartered Accountant Fees for GST Filing and ITR Filing as both have different processes involved.
+* Download Monthly Reports from Payment Gateway Integrated / Audit Checks
 * To further extend your **Merchant to Bank Relationship** it is important to have either an existing relationship or acquire a current or checking account with adequate funds.
 * Always have **Corporate Social Responsibility Policy** implemented in accordance with MCA or Ministry of Corporate Affairs or **Waste Policy** set in place in case you're into the manufacturing of goods.
 * File all eCommerce earnings via Income Tax and Revenue Department subject to local jurisdiction on the given dates. Consult a professional tax advisor or team of tax advisors in case or enterprise (small, medium to large scale corporations whether private or government sector). You will need to have [DSC or Digital Signature Certificates](http://www.mca.gov.in/MinistryV2/acquiredsc.html "Obtain Digital Signature Certificate (SHA2)") (SHA2) issued by the Government - Ministry of Corporate Affairs for each of your company partners or directors registered as per the Attested Legal Partnership Deed in case of a Limited Liability Partnership Firm.
@@ -525,7 +542,11 @@ Involved with each setup you choose to integrate your eCommerce CMS Platform wit
 * Provide an invoice to the logistics provider at the time of pickup of goods from the registered place of business.
 * For UAE or United Arab Emirates GCC - [PayFort.com](https://docs.payfort.com/ "PayFort.com - Documentation for UAE - GCC") can act as an Internet Payment Gateway or [Emirates NBD via noqodi](https://www.noqodi.com/emarapayGateway/jsf/enquiry/merchantRegistration.do "Emirates NBD via noqodi"). You will also need to have registered for Value Added Tax implemented by [Ministry of Finance UAE GCC](https://www.mof.gov.ae/en/resourcesAndBudget/Pages/vatquestions.aspx "Ministry of Finance UAE GCC").
 * It is important to note that you must not display your Merchant Bank Account Information Publicy on an eCommerce site or any online portal.
-* Accepting Donations for a Registered Non-Governmental Organisation or Nonprofit/s - Charity Registration Number, Monthly or One Time Donation Options via [Razorpay Pages](https://youtu.be/-oQooDtesRE "Accept Donations Online Without a Website via RazorPay Pages India").
+* With [Razorpay Pages](https://youtu.be/-oQooDtesRE "Accept Donations Online Without a Website via RazorPay Pages India")
+  * You can "**Accept Donations for a Registered Non-Governmental Organisation or Nonprofit/s**" - Charity Registration Number, Monthly or One Time Donation Options
+  * You can create **Event Registration Page** which is a quick and easy way to register event attendees online.
+  * You can **Sell products online** - Take orders around the clock with our Online Order template. Add any number of products/services you wish to sell, along with images of your products on a single Payment Page and share it with your customers. Smarter purchase controls - Decide the minimum/maximum number of products your customers can buy, set a minimum amount your customers can pay, and more.
+  * You can **Collect fees and Accept payments** in seconds with their hosted form and Download Reports - Get detailed insights for each item in your store based on real-time transactions from the dashboard and make better business decisions.
 
 ## Chargeback Claims
 
