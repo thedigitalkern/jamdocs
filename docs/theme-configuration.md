@@ -344,7 +344,7 @@ For understanding **PayPal™ Terms of Service - Please refer to PayPal™ User 
 
 The **GST of 18% will be levied only on the PayPal™ fee**, **_not the purchase amount._** GST will be levied on the fees charged by PayPal™ to their customers, and not on the purchase amounts. A copy of the consolidated invoice will be sent to you at the end of every month.
 
-If you’re registered in a [**Special Economic Zone (SEZ) unit**](http://www.cbic.gov.in/htdocs-cbec/customs/cs-sez-botm "Special Economic Zone (SEZ) Unit - How to apply") _(external link)_, you’re eligible for GST exemption. You may be eligible for refunds or set off the GST charged. For details, please consult your tax advisor.
+If you’re registered in a [**Special Economic Zone (SEZ) unit**](http://www.cbic.gov.in/htdocs-cbec/customs/cs-sez-botm "Special Economic Zone (SEZ) Unit - How to apply"), you’re eligible for GST exemption. You may be eligible for refunds or set off the GST charged. For details, please consult your tax advisor.
 
 **Note:** _Will refunding a transaction also include a refund of the applicable taxes to the customer?_ **Yes,** when a refund is initiated, the tax applicable to that transaction will also be refunded.
 
