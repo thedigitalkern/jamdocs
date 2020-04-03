@@ -519,7 +519,7 @@ Involved with each setup you choose to integrate your eCommerce CMS Platform wit
 * Provide an invoice to the logistics provider at the time of pickup of goods from the registered place of business.
 * For UAE or United Arab Emirates GCC - [PayFort.com](https://docs.payfort.com/ "PayFort.com - Documentation for UAE - GCC") can act as an Internet Payment Gateway or [Emirates NBD via noqodi](https://www.noqodi.com/emarapayGateway/jsf/enquiry/merchantRegistration.do "Emirates NBD via noqodi"). You will also need to have registered for Value Added Tax implemented by [Ministry of Finance UAE GCC](https://www.mof.gov.ae/en/resourcesAndBudget/Pages/vatquestions.aspx "Ministry of Finance UAE GCC").
 * It is important to note that you must not display your Merchant Bank Account Information Publicy on an eCommerce site or any online portal.
-* 
+* Accepting Donations for a Registered Non-Governmental Organisation or Nonprofit/s - Charity Registration Number, Monthly or One Time Donation Options via [Razorpay Pages](https://youtu.be/-oQooDtesRE "Accept Donations Online Without a Website via RazorPay Pages India").
 
 ## Chargeback Claims
 
