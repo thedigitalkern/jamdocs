@@ -443,7 +443,7 @@ Before you register for any of these services you must have the following compan
 
 **Note:** AliPay or WePay for China Merchants.
 
-## Transaction and Settlement Times 
+## Transaction and Settlement Times
 
 Differ from **T+1 to T+5** Days depending on the Payment Processor Terms set in place upon Merchant signup. The time it takes for the payment processor to successfully capture the amount from the consumer's bank/financial institution bank account/credit or debit card/wallet/UPI or ACH or Automated Clearing House/PayOrder in terms stated by the processor/issuers to the merchant.
 
@@ -500,8 +500,8 @@ Differ from **T+1 to T+5** Days depending on the Payment Processor Terms set in 
 
 Get a Trademark Certification for Selling Authorised Brands adhering to Brand Guidelines for Display of Products with Accurate Information about every product. Selling Group or Bundled Products on a single page. Involved with each setup you choose to integrate your eCommerce CMS Platform with not limited to Internet Payment Gateway -
 
-* **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use / Breach Insurance / Cryptojacking. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes. 
-* In case of a Legal Dispute or Launch a Complaint you need to - 
+* **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use / Breach Insurance / Cryptojacking. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes.
+* In case of a Legal Dispute or Launch a Complaint you need to -
   * Hire a Legal Counsel/Lawyer to Seek Advice with expertise in Cyber Security.
   * Draft FIR or First Information Report at Local Jurisdiction prepared by Lawyer representing your organization/legal counsel.
   * Report Cyber Attack FIR to CERTin and Hyderabad Telangana Cyber Cell Unit.
@@ -547,7 +547,8 @@ Get a Trademark Certification for Selling Authorised Brands adhering to Brand Gu
   * You can create **Event Registration Page** which is a quick and easy way to register event attendees online.
   * You can **Sell products online** - Take orders around the clock with our Online Order template. Add any number of products/services you wish to sell, along with images of your products on a single Payment Page and share it with your customers. Smarter purchase controls - Decide the minimum/maximum number of products your customers can buy, set a minimum amount your customers can pay, and more.
   * You can **Collect fees and Accept payments** in seconds with their hosted form and Download Reports - Get detailed insights for each item in your store based on real-time transactions from the dashboard and make better business decisions.
-* Set **GDPR Policies for EU or European Union** if selling goods or services online in these regions. Set it prior to sending out Newsletters via Mailchimp by Salesforce for Newsletters or Zoho CRM Newsletters.
+* Set **GDPR Policies for EU or European Union** if selling goods or services online in these regions. Set it prior to sending out Newsletters via [Mailchimp by Salesforce](https://mailchimp.com/help/connect-mailchimp-for-salesforce/ "Mailchimp by Salesforce - Connect API") for Newsletters or [Zoho CRM Newsletters](https://www.zoho.com/campaigns/campaign-editor.html "ZohoCRM - Zoho Campaigns offers a variety of responsive email templates and customizable layouts for you to quickly create impressive newsletters.").
+* [USA State Taxes via TaxJar](https://www.taxjar.com/sales-tax-integrations/ "USA State Taxes via TaxJar") or [Avalara Tax Automation](https://www.avalara.com/in/en/index.html "Avalara - GST Compliance Automation") + Tax on Shipping
 
 ## Chargeback Claims
 
