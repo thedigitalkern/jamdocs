@@ -524,9 +524,9 @@ The transaction could be canceled due to various reasons and these are, for inst
 
 A credit card decline occurs when the payment cannot be processed for a particular reason. The transaction can be declined by the processor, the payment gateway or, what is the most common, by the issuing bank. Then, you, as a merchant, will see the relevant issuer decline code that comes with a certain reason (usually, you can also see an error message stuck to the code).
 
-The processing system assigns these codes to transactions and you can see a short explanation for each of them on your profile in the SecurionPay dashboard
+The processing system assigns these codes to transactions and you can see a short explanation for each of them on your profile in the Merchant Profile dashboard acquired by the corresponding bank.
 
-There are two categories of credit card declines, and these are soft declines and hard ones. The first one is when the issuer approved the payment, but there’s some other problem with the transaction. Usually, retrying the transaction can help in such situations. The hard decline, by contrast, is when the payment is not approved by the issuing bank, so your customer should contact their bank to resolve the issue.
+There are two categories of credit card declines, and these are **soft declines** and hard ones. The first one is when the **issuer approved the payment, but there’s some other problem with the transaction**. Usually, retrying the transaction can help in such situations. The **hard decline, by contrast, is when the payment is not approved by the issuing bank, so your customer should contact their bank to resolve the issue.**
 
 ## Decline codes
 
