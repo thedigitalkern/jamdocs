@@ -345,18 +345,18 @@ The TrustedSite certification helps websites like yours increase trust and sales
 
 **For International Payments** - The Merchant transaction fee is applicable on payments received through your website, online invoices and online marketplaces including eBay. Currency Conversion Fee Applicable. You can apply for discounted rates when your account is in good standing and you’ve met a qualifying monthly sales volume. This applies to local payments as well.
 
-From physical goods to online services, **Seller Protection** gives you peace of mind. This way, you can sell more while PayPal™ keeps you protected. If a buyer files a claim, chargeback or payment reversal, PayPal™ will place a temporary hold on the funds. 
+From physical goods to online services, **Seller Protection** gives you peace of mind. This way, you can sell more while PayPal™ keeps you protected. If a buyer files a claim, chargeback or payment reversal, PayPal™ will place a temporary hold on the funds.
 
 ## PayPal™/FedEx™ - From Payments to Delivery - Seller Protection
 
-PayPal™ will ask for [proof of shipment or proof of delivery from your logistics solution providers such as FedEx](https://ask.fedex.com/help/en-gb/preparing-to-send/can-I-get-proof-of-delivery "Proof of Shipment or Proof of Delivery from your logistics solution providers such as FedEx™") to fully investigate the matter. It is advisable to provide **Air Waybill number** that includes - 
+PayPal™ will ask for [proof of shipment or proof of delivery from your logistics solution providers such as FedEx](https://ask.fedex.com/help/en-gb/preparing-to-send/can-I-get-proof-of-delivery "Proof of Shipment or Proof of Delivery from your logistics solution providers such as FedEx™") to fully investigate the matter. It is advisable to provide **Air Waybill number** that includes -
 
 * **Signature proof of delivery data availability:** Signature proof of delivery is available for up to 18 months for FedEx Express This includes the signature image and associated shipment information.
 * **Multiple signature proof of delivery requests:** You can request up to 30 signature proof of delivery letters at once. Please note the fax option is not available for multiple Signature proof of delivery requests.
 * **Detailed Signature proof of delivery -** You can obtain a signature proof of delivery letter with detailed information by providing the **9-digit FedEx account number**. If the account number matches the shipper or payer of the shipment, you will be able to view detailed signature proof of delivery information, which includes complete contact name, company name, street address, city, state/province, ZIP, and country information for both the shipper and recipient (if available).
 * **No signature found** - Even if no signature is available, you can still view/print, email and fax the available proof of delivery information. You can also check again later for the signature. **If no signature is available after seven business days, please** [**Contact FedEx™**](fedex.com/gb/contact/ "Contact FedEx™"). Please note that the signature may be unavailable if it was released (the sender or recipient signed a signature release agreement).
 
-Always attach **Bill of Sale** or **Invoice** issued the customer that includes **Airway Bill Number or AW Number, FedEx Tracking Code / Out of Delivery Area or ODA Shipment / Type of Shipment** / **Goods Insured / Mode of Payment** / **Mode of Delivery** - Air / Sea / Road - **Shipment Reason** - Personal or Commercial; in our case, this will be **Commercial** - to the logistics partner and the payment gateway fraud analyst team. 
+Always attach **Bill of Sale** or **Invoice** issued the customer that includes **Airway Bill Number or AW Number, FedEx Tracking Code / Out of Delivery Area or ODA Shipment / Type of Shipment** / **Goods Insured / Mode of Payment** / **Mode of Delivery** - Air / Sea / Road - **Shipment Reason** - Personal or Commercial; in our case, this will be **Commercial** - to the logistics partner and the payment gateway fraud analyst team.
 
 The funds will be made available to you once we have confirmed that your transaction is **eligible for PayPal™ Seller Protection.**
 
@@ -390,7 +390,7 @@ If you’re registered in a [**Special Economic Zone (SEZ) unit**](http://www.cb
 
 [Safety and Security Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security "Safety and Security Policy at PayPal™")
 
-## Payment Gateways offered by Banking Institutions vs. Payment Aggregators 
+## Payment Gateways offered by Banking Institutions vs. Payment Aggregators
 
 **The Reserve Bank of India (RBI)** has released a **mandatory regulation** for all banking institutions - [**RBI/DPSS/2019-20/174 - DPSS.CO.PD.No.1810/02.14.008/2019-20 March 17, 2020**](https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT17460E0944781414C47951B6D79AE4B211C.PDF "Guidelines on Regulation of Payment Aggregators and Payment Gateways RBI/DPSS/2019-20/174 - DPSS.CO.PD.No.1810/02.14.008/2019-20 March 17, 2020") _(direct .PDF File Link)_ **-** [**Guidelines on Regulation of Payment Aggregators and Payment Gateways **](https://www.rbi.org.in/Scripts/NotificationUser.aspx "March 17, 2020 - RBI Notifications")
 
@@ -398,9 +398,9 @@ _It can be accessed via_ [_https://www.rbi.org.in/Scripts/NotificationUser.aspx_
 
 All Payment System Providers and System Participants - **Guidelines on Regulation of Payment Aggregators and Payment Gateways** - ‘_Directions for opening and operation of accounts and settlement of payments for electronic payment transactions involving intermediaries_’. by **P. Vasudevan, Chief General Manager**
 
-The central bank has also demanded mandatory compliance on technology and cyber-security requirements at par with standards for regulated financial institutions for those wishing to continue their businesses in India. 
+The central bank has also demanded mandatory compliance on technology and cyber-security requirements at par with standards for regulated financial institutions for those wishing to continue their businesses in India.
 
-Before you register for any of these services you must have the following company or corporate institutional legal documents in place for better transparency and meeting eligibility criteria - 
+Before you register for any of these services you must have the following company or corporate institutional legal documents in place for better transparency and meeting eligibility criteria -
 
 * [HDFC Bank via CCAvenue for Merchant / Terminal ID](https://www.hdfcbank.com/sme/pay/payments-and-collections/merchant-services "HDFC Bank's Merchant Services For SMEs / MIS Solutions") (Apply for [HDFC Bank SmartHub services](https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Smarthub/index.aspx "Apply for HDFC Bank SmartHub services")) Support and Escalations
 * [Kotak Mahindra Bank via ALLPAY Payment Gateway](https://www.kotak.com/en/corporate/solutions/manage-collection-and-payments/allpay.html "Kotak Mahindra Bank via ALLPAY Payment Gateway - Corporate Payments Solution") - This payment gateway for your website/mobile apps is a unique blend of traditional payment channels with modern digital payment methods. It’s a comprehensive payment gateway that helps you collect through traditional modes currently available online as well as modern payment methods, through a single URL integration. **Features include** - Channel-agnostic enterprise receivable module, Streamline and consolidates all receivables through a single multi-payment settlement and reconciliation module. State-of-the-art support infrastructure for quick integration – single, future-ready integration across payment types. A completely automated payment experience improves the success rate, manages drops, auto reversal and easy retry. Comprehensive business analytics help in risk management.
@@ -412,7 +412,7 @@ Before you register for any of these services you must have the following compan
      2. **Last Mile Digital Collections - Online payment** - Online Platform or App - Payment Gateway (Involves Addition of Amount - Track Order ID - Select Payment Options such as Credit Card or PayPal**™**, Debit Cards, Mobile Money, Instant Payments, Business Wallets, Request for Payment) - Payment channels - Collections - **Process Involved** - Goods dispatched > Goods delivered >Payment Accepted via e-Transfer> Autobanked > Data is Auto Reconciled
      3. **Wallet Based Solutions**
         * Online platform Credit Virtual accounts or app - (Involves Addition of Amount - Track Order ID - Select Payment Options such as Credit Card or PayPal**™**, Debit Cards, Mobile Money, Instant Payments, Business Wallets, Request for Payment) - Debit wallet - Wallet Systems (Customer Wallets) - Debit matching virtual accounts - Credit Merchant Account - Operating Account - Master Bank Account
-     4. **Real-Time FX Management Solutions** - Dynamic FX conversion and settlement 
+     4. **Real-Time FX Management Solutions** - Dynamic FX conversion and settlement
         * FX engine > FX rates > Online platform or app > Payment gateway (Involves Addition of Amount - Track Order ID - Select Payment Options such as Credit Card or PayPal**™**, Debit Cards, Mobile Money, Instant Payments, Business Wallets, Request for Payment) - Local Payment Channels - FX conversion to base currency: Local currency collections
      5. **Direct Sales Solutions** - **Distributor based sales model** - Goods manufactured - Goods delivered to distributors - Goods dispatched to customers > Goods delivered > Cash collected
      6. **Direct Online Sales Solutions** - Goods manufactured - Goods sold online > Goods dispatched to customers > Goods delivered
@@ -420,7 +420,7 @@ Before you register for any of these services you must have the following compan
      8. **Express Claims, Payment and Incentive Solutions -** Express claims model - Online or teleclaims > Claim processed real-time > Instant payment request > Funds remitted real-time > Instant payment > Funds received > Social media recommendations
      9. **Incentive payments** - Retailer scans QR code with App - Product data Enterprise Resource Planning or ERP - Manufacturer registers sale - Instant payment request - Funds remitted real-time - Instant payment - Funds received - Reinforces positive sales
     10. **Cross-border Remittances - Cross-border wallet to wallet transfers** - Sender's mobile wallet (Sender remits local currency to the recipient) - Local Wallet Provider (Request received by local wallet provider) - Blockchain server (X-border payment added to blockchain) - FX Engine (Bank facilitates underlying FX conversion) - Blockchain server (Validated payment published to blockchain) - Recipient’s mobile wallet (Recipient gets local funds from their mobile wallet provider)
-* [**Axis Bank - Internet Payment Gateway Solutions for Merchants**](https://www.axisbank.com/business-banking/get-payment-and-merchant-solution/internet-payment-gateway-solutions/ "Axis Bank - Internet Payment Gateway Solutions for Merchants") - Axis Bank’s world-class Internet Payment Gateway Solution or IPG allows you to accept payments on a 24 by 7 basis from around the world. Axis Bank allows you the merchant to accept all local and international Visa, MasterCard and maestro cards. Axis Bank provides robust transaction processes with enviable uptime and convenience. IPG is a premium service for Merchants with a transaction capable website. All transactions come with 128-bit security and [two-factor authentication](https://go.rsa.com/multi-factor-authentication?gclid=EAIaIQobChMI3MH0vZbM6AIVxRwrCh3odwnVEAAYASAAEgKrXvD_BwE "Multi-Factor Authentication Buyer’s Guide") via [MasterCard Secure Code](https://www.mastercard.us/en-us/consumers/payment-technologies/securecode.html "Mastercard SecureCode®")® and [Verified-by-Visa](https://usa.visa.com/pay-with-visa/featured-technologies/verified-by-visa.html "Verified-by-Visa") / [3D Secure authentication](https://usa.visa.com/run-your-business/small-business-tools/payment-technology/verified-by-visa.html "3D Secure Authentication"). 
+* [**Axis Bank - Internet Payment Gateway Solutions for Merchants**](https://www.axisbank.com/business-banking/get-payment-and-merchant-solution/internet-payment-gateway-solutions/ "Axis Bank - Internet Payment Gateway Solutions for Merchants") - Axis Bank’s world-class Internet Payment Gateway Solution or IPG allows you to accept payments on a 24 by 7 basis from around the world. Axis Bank allows you the merchant to accept all local and international Visa, MasterCard and maestro cards. Axis Bank provides robust transaction processes with enviable uptime and convenience. IPG is a premium service for Merchants with a transaction capable website. All transactions come with 128-bit security and [two-factor authentication](https://go.rsa.com/multi-factor-authentication?gclid=EAIaIQobChMI3MH0vZbM6AIVxRwrCh3odwnVEAAYASAAEgKrXvD_BwE "Multi-Factor Authentication Buyer’s Guide") via [MasterCard Secure Code](https://www.mastercard.us/en-us/consumers/payment-technologies/securecode.html "Mastercard SecureCode®")® and [Verified-by-Visa](https://usa.visa.com/pay-with-visa/featured-technologies/verified-by-visa.html "Verified-by-Visa") / [3D Secure authentication](https://usa.visa.com/run-your-business/small-business-tools/payment-technology/verified-by-visa.html "3D Secure Authentication").
 * As a **Consumer**, Visa has developed a program that helps confirm your identity when you make an online purchase. This service helps make shopping online more secure by protecting against unauthorized use of your Visa card. There’s no need to download anything, install software or register. During an online purchase from your desktop, mobile or other digital devices, you may be guided through an extra check to verify your identity. This helps your issuer ensure you’re you and better protects you from fraud. Benefit - Through this program, you have an added layer of protection that helps to prevent the unauthorized use of your Visa card while shopping online. This service helps your issuer know you’re really you and most importantly it protects you from fraud.
 * As a **Merchant**, availing of online card acceptance facilities can increase the scope of your business tremendously and enable you to reach a higher customer base without geographical or time-related boundaries.
 * **Axis Bank’s Internet Payment Gateway transactions are conducted as follows:**
@@ -432,11 +432,9 @@ Before you register for any of these services you must have the following compan
   * Axis bank transmits the message to the Card Issuing bank through the Visa / MasterCard network for payment authorization.
   * The Issuing bank authorizes the payment.
   * Transaction Successful message appears. Merchant can now provide goods/services.
-
-
 * **Axis Bank’s Internet Payment Gateway** comes with certain [**Value Added Services**](https://www.axisbank.com/business-banking/get-payment-and-merchant-solution/internet-payment-gateway-solutions/value-added-features#menuTab "Value Added Services - Axis Bank's Internet Payment Gateway") such as **Dynamic Currency Conversion on IPG** - which allows transactions to be processed in the Cardholders home currency; **Easypay Online** which provides the merchant with a presence on the internet and helps in growing their business.
-* **Dynamic Currency Conversion on Axis Bank’s Internet Payment Gateway** - Dynamic Currency Conversion is a unique service that allows transactions to be processed in Cardholder's Home Currency. 
-  * **Benefit to the Merchant:** DCC is a facility that enables the conversion of the purchase price of goods or services from the merchant’s currency to the billing or home currency of the cardholder at the time of transaction. 
+* **Dynamic Currency Conversion on Axis Bank’s Internet Payment Gateway** - Dynamic Currency Conversion is a unique service that allows transactions to be processed in Cardholder's Home Currency.
+  * **Benefit to the Merchant:** DCC is a facility that enables the conversion of the purchase price of goods or services from the merchant’s currency to the billing or home currency of the cardholder at the time of transaction.
   * **Home Currency:** Currency in which the card holder's card has been issued.
   * A choice of more than **27 of the world’s most widely accepted currencies.**
 * **Easypay Online -** Merchants/Corporates having an Axis Bank account can avail the services offered under the **Easypay Platform** wherein the customers will select the Merchant/Corporate from a list which will be hosted on the web page. Post selection, customer/s will be directed to the Easypay page for initiating a transaction through various payment channels. Easypay Online module provides the merchant/corporates a presence on the internet and aid in growing the business by providing various payment channels (Debit, Credit, Net Banking, Cheque, DD, PO, etc.). as per their requirements.
@@ -451,21 +449,13 @@ Before you register for any of these services you must have the following compan
 **For Partnerships:**
 
 * Valid Passport with Photo and Signature / Voter ID card / Valid Driving License / Aadhaar Card / GST certificate of regn as valid address proof / Job Card issued by NREGA duly signed by an officer of the State Govt / identity card with applicant's Photograph issued by Central/State Government Departments, Statutory/Regulatory Authorities, Public Sector Undertakings, Scheduled Commercial Banks, and Public Financial Institutions; letter issued by a gazetted officer, with a duly attested photograph of the person / Utility Bills which is 3 months old / Property or Municipal Tax receipt / Bank account or Post Office savings bank account statement / Pension or family pension payment orders (PPOs) issued to retired employees by Government Departments or Public Sector Undertakings, if they contain the address.
-
-
 * Letter of allotment of accommodation from employer issued by State or Central Government departments, statutory or regulatory bodies, public sector undertakings, scheduled commercial banks, financial institutions and listed companies. Similarly, leave and license agreements with such employers allotting official accommodation; and Documents issued by Government departments of foreign jurisdictions and letter issued by Foreign Embassy or Mission in India.
 
 **For Ltd Company / Corporation / Government:**
 
 * Valid Passport with Photo and Signature / Voter ID card / Valid Driving License / Aadhaar Card / GST certificate of regn as valid address proof / identity card with applicant's Photograph issued by Central/State Government Departments, Statutory/Regulatory Authorities, Public Sector Undertakings, Scheduled Commercial Banks, and Public Financial Institutions; letter issued by a gazetted officer, with a duly attested photograph of the person / Utility Bills which is < 3 months old / Property or Municipal Tax receipt / Bank account or Post Office savings bank account statement / Pension or family pension payment orders (PPOs) issued to retired employees by Government Departments or Public Sector Undertakings, if they contain the address.
-
-
 * Letter of allotment of accommodation from employer issued by State or Central Government departments, statutory or regulatory bodies, public sector undertakings, scheduled commercial banks, financial institutions and listed companies. Similarly, leave and license agreements with such employers allotting official accommodation; and Documents issued by Government departments of foreign jurisdictions and letter issued by Foreign Embassy or Mission in India / Resolution from Board of Directors & Power of Attorney granted to its managers, officers/employees to transact on its behalf.
-
-
 * **Letter of Authorization** - Provide LOA on the company letterhead signed by Authorized Signatory. A Letter of Authorization* (LOA) is provided on the official letterhead of Merchant organization to indicate PayPal™ Account Holder is an authorized personnel to manage all PayPal™ account-related activities. LOA is required if the account holder is not the director/Owner. The person authorized in LOA is referred to as Primary Authorized User (PAU).
-
-
 * Proof of Business Identity
 * Provide PAN copy of the Business.
 * Business name on PAN to match as given in PayPal™ account.
@@ -480,14 +470,12 @@ Before you register for any of these services you must have the following compan
 **For Ltd Company / Corporation / Government:**
 
 * Certificate of Incorporation / MOA / AOA / Income Tax Registration / Service Tax Registration / Sales Tax Registration / VAT Registration / Shops and Establishments Certificate / Trade License / Certificate of Importer- Exporter Code (IEC).
-
-
 * **Proof of Business Address**
 
 **Submit any one of the below documents.**
 
-* Any valid proof of Business entity document that contains address / Copy of recent utility bill (<3 months old) / Bank statements covering last 6 Calendar months / GST certificate of regn as valid address proof / [Certificate of Importer- Exporter Code (IEC)](). 
-* **Useful Links for** [**Certificate of Importer- Exporter Code (IEC)**]() **-** 
+* Any valid proof of Business entity document that contains address / Copy of recent utility bill (<3 months old) / Bank statements covering last 6 Calendar months / GST certificate of regn as valid address proof / [Certificate of Importer- Exporter Code (IEC)]().
+* **Useful Links for** [**Certificate of Importer- Exporter Code (IEC)**]() **-**
   * [Importer Exporter Code Number](https://www.dgft.org/iec_code.html  https://www.dgft.org/dgft_e-commerce.html "Importer Exporter Code Number")
   * [Application for IEC Number](https://www.dgft.org/DGFT_Application_Status_Information_IEC_Code_depb_license_and_online_filling.html "Application for IEC Number")
   * [ITC HS Code List or India Harmonised Code System Code](https://www.dgft.org/itc_hs_code.html "TC HS Code List or India Harmonised Code System Code") - ITC-HS Codes or better known as Indian Trade Clarification based on Harmonized System of Coding was adopted in India for import-export operations. Indian custom uses an eight-digit ITC-HS Codes to suit the national trade requirements.
@@ -505,10 +493,10 @@ Before you register for any of these services you must have the following compan
 Involved with each setup you choose to integrate your eCommerce CMS Platform with not limited to Internet Payment Gateway -
 
 * **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use / Breach Insurance / Cryptojacking. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes.
-* **Draft detailed policies** for each service you provide or goods manufactured and sold online via your digital platform. 
+* **Draft detailed policies** for each service you provide or goods manufactured and sold online via your digital platform.
   * Choose a payment gateway that accepts your terms of service, return and refund policies, types of products or service you are allowed to merchandise using their payment gateway offerings. Clear and concise goods and service offerings.
-* **Currency Conversion Rates** offered by each financial institution in case of transacting in international currencies. 
-* Wallet to Bank Account Withdrawal Fees + Conversion Fees + GST levied upon. 
+* **Currency Conversion Rates** offered by each financial institution in case of transacting in international currencies.
+* Wallet to Bank Account Withdrawal Fees + Conversion Fees + GST levied upon.
 * Deposit to Wallet Fees (if any) via Credit Cards ([Deposit to PayTM via Credit Cards](https://www.paytmbank.com/ratesCharges "PayTM - Fees and Charges") on a KYC Account involves a fee of 2%) - PayTM also offers Merchant Payment Gateway and Quick settlement times. Wallet to Wallet Transfer. However, **Mobikwik does not charge any fees for adding funds via Credit Card to Wallet** and they too have an **Internet Payment Gateway Solution**. But again these are various Payment Aggregators. Some offer different pricing and various add-on services for which they charge a certain percentage of commission on each transaction.
 * Purchase of Goods and Services from Partner/Vendors using Credit or Debit Cards Fee Markup of 1% - 3%
 * Customs Duty levied upon + GST  by CBEC + Transport Fees (Air/Sea/Road Cargo) + Insurance + Customs Clearance Fees authorized CHA or Clearing House Agent (mostly handled by your logistics partner such as FedEx.) For [more information on CBEC](http://cbic.gov.in/htdocs-cbec/customs "Central Board of Indirect Taxes and Customs India")
@@ -518,7 +506,7 @@ Involved with each setup you choose to integrate your eCommerce CMS Platform wit
 * To further extend your **Merchant to Bank Relationship** it is important to have either an existing relationship or acquire a current or checking account with adequate funds.
 * Always have **Corporate Social Responsibility Policy** implemented in accordance with MCA or Ministry of Corporate Affairs or **Waste Policy** set in place in case you're into the manufacturing of goods.
 * File all eCommerce earnings via Income Tax and Revenue Department subject to local jurisdiction on the given dates. Consult a professional tax advisor or team of tax advisors in case or enterprise (small, medium to large scale corporations whether private or government sector).
-* It is mandatory to raise an IGST (CGST + SGST) invoice with the specific [Harmonized System of Nomenclature (HSN) or Service Accounting Codes (SAC) Codes](https://cbic-gst.gov.in/gst-goods-services-rates.html) if you are in e-commerce selling goods or services interstate. GST Rates - (For Inter-state supply, IGST Rate is applicable | For intra-state supply, CGST rate and SGST/UTGST rate is applicable) Goods which are not specified on the portal have IGST tax rate of 18%.
+* It is mandatory to raise an IGST (CGST + SGST) invoice with the specific [Harmonized System of Nomenclature (HSN) or Service Accounting Codes (SAC) Codes](https://cbic-gst.gov.in/gst-goods-services-rates.html) if you are in e-commerce selling goods or services interstate. GST Rates - (For Inter-state supply, IGST Rate is applicable | For intra-state supply, CGST rate and SGST/UTGST rate is applicable) Goods which are not specified on the portal have IGST tax rate of 18% as specified by GOVERNMENT OF INDIA - MINISTRY OF FINANCE - DEPARTMENT OF REVENUE.
 
 ## Chargeback Claims
 
