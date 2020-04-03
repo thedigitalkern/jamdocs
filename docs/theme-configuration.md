@@ -260,3 +260,21 @@ Bootstrap Studio updates automatically, so you always have the latest version.
 * [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision "Google Analytics - Analyze Website Traffic and Data Seamlessly") - Google Analytics gives you the free tools you need to analyze data for your business in one place, so you can make smarter decisions. Track incoming website traffic and upload relevant content that caters to your site visitors.
 * [Google Keyword Planner Auto Fetch from Website](https://ads.google.com/intl/en_in/home/tools/keyword-planner/ "Google Keyword Planner Auto Fetch from Website") - Use this service to automatically fetch important keywords, terms required for search engine crawl. View more on the **Paid Advertising** Tab of The Digital Kern.
 * [Google MyBusiness](https://www.google.com/intl/en_in/business/ "Google My Business Account") - Engage with customers on Google for free via a Google My Business Account to get more than a business listing. Your free Business Profile lets you easily connect with customers across Google Search and Maps. Once set up, you will be able to check how your customers interact with your GMB or Google MyBusiness Profile via clicks, calls, bookings, follows – see how your customers engage with your Business Profile. Verification, Moderate Public Photo Uploads, Reply to Comments and Flag Inappropriate Reviews.
+
+## Implement Algolia Search Algorithm on Supported CMS Platforms
+
+[Algolia](https://www.algolia.com/doc/guides/getting-started/how-algolia-works/ "Algolia Search Algorithm") is a hosted search engine **capable of delivering real-time results from the first keystroke**. Algolia’s powerful API lets you quickly and seamlessly implement search within your websites, mobile, and voice applications. Our search engine powers billions of queries for thousands of companies every month, delivering relevant results in under 100ms anywhere in the world.
+
+**Algolia Integrations** - Discover how to integrate Algolia's technology into popular frameworks and platforms, and the tools the team at Algolia provides to enhance the search experience for your visitors.
+
+**Frameworks Supported**
+
+* Rails
+* Symfony
+* Django
+* Laravel - [Using Algolia within the Laravel Framework](https://www.algolia.com/doc/framework-integration/laravel/getting-started/introduction-to-scout-extended/?language=php "Using Algolia within the Laravel Framework")
+* **Platforms Supported**
+* Magento 1
+* Magento 2 - [Using Algolia in your Magento 2 Installation](https://www.algolia.com/doc/integration/magento-2/getting-started/quick-start/?language=php "Using Algolia in your Magento 2 Installation")
+* WordPress - [Integrate Algolia to your WordPress Droplet](https://www.algolia.com/doc/integration/wordpress/getting-started/quick-start/?language=php "Integrate Algolia to your WordPress Droplet")
+* Shopify - [Integrate Algolia to your Shopify Plan](https://www.algolia.com/doc/integration/shopify/getting-started/quick-start/ "Integrate Algolia to your Shopify Plan")
