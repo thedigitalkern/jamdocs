@@ -500,7 +500,10 @@ Differ from **T+1 to T+5** Days depending on the Payment Processor Terms set in 
 
 Involved with each setup you choose to integrate your eCommerce CMS Platform with not limited to Internet Payment Gateway -
 
-* **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use / Breach Insurance / Cryptojacking. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes.
+* **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use / Breach Insurance / Cryptojacking. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes. 
+  * Draft FIR or First Information Report at Local Jurisdiction prepared by Lawyer representing your organization/legal counsel.
+  * Report Cyber Attack FIR to CERTin and Hyderabad Telangana Cyber Cell Unit.
+  * Submit Fraud Breach Incident via CERTin Website.
 * **Draft detailed policies** for each service you provide or goods manufactured and sold online via your digital platform.
   * Choose a payment gateway that accepts your terms of service, return and refund policies, types of products or service you are allowed to merchandise using their payment gateway offerings. Clear and concise goods and service offerings.
 * **Currency Conversion Rates** offered by each financial institution in case of transacting in international currencies.
