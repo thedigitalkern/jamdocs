@@ -271,7 +271,7 @@ Bootstrap Studio updates automatically, so you always have the latest version.
     * For Ghost, key configuration is required if deploying in development mode via Heroku post-deploy.
 
       OR
-    * SMTP via DigitalOcean after 60 Days of Droplet Usage Activity
+    * SMTP via DigitalOcean after 60 Days of Droplet Usage Activity.
 
 ## Implement Algolia Search Algorithm on Supported CMS Platforms
 
@@ -290,3 +290,79 @@ Bootstrap Studio updates automatically, so you always have the latest version.
 * Magento 2 - [Using Algolia in your Magento 2 Installation](https://www.algolia.com/doc/integration/magento-2/getting-started/quick-start/?language=php "Using Algolia in your Magento 2 Installation")
 * WordPress - [Integrate Algolia to your WordPress Droplet](https://www.algolia.com/doc/integration/wordpress/getting-started/quick-start/?language=php "Integrate Algolia to your WordPress Droplet")
 * Shopify - [Integrate Algolia to your Shopify Plan](https://www.algolia.com/doc/integration/shopify/getting-started/quick-start/ "Integrate Algolia to your Shopify Plan")
+
+## Implement McAffee Trusted Site
+
+#### About
+
+The TrustedSite certification helps websites like yours increase trust and sales by showing the site is safe to do business with.
+
+#### Features 
+
+**Floating TRUSTMARK Requires Verified Business Information** 
+
+* **Verified Email** - Add a Verified Email Account created using your Email Service Provider such as Google Bussiness Email via G Suite or ZohoMail Solutions Partner.
+* **Verified Phone** - Receive a Verification Code on the Mobile Number entered on Trusted Site Account Registration Page.
+* **Verified Address** - Enter the Security Code send via Postcard on Registered Place of Business.
+* **Valid Policies** - Terms of Service, Privacy Policy, Security Policy, Return Policy (eCommerce Websites) and Contact Page
+* **Secure Payments** - Select any secure payment providers you use. These will display on your verification page. Currently, it supports the display of [PayPal™](https://www.paypal.com/in/webapps/mpp/merchant "Paypal™ Merchant - Payment Gateway"), [amazon pay](https://pay.amazon.com/ "Amazon Pay - Payment Gateway"), ShopifyPayments©, and Apple Pay© (Not supported in India) logos on your eCommerce stores.
+
+**CERTIFICATION**
+
+* **Security** - Status must be Certified
+* **Business** - Status must be Verified
+
+**SETUP**
+
+* **Main Code - You must** add the following code to every page of your site to display the floating trustmark and support the ability to add other trustmarks. TrustedSite recommends adding the code before the closing </body> tag in your footer template file.
+* **Directory Listing - You must** add all details required by TrustedSite for Directory Listing Page - This information provides visitors with details about your company on your site's verification page.
+
+PayPal™
+
+Local Payments - With PayPal, You pay only when you get paid. There’s no set-up/installation fee or hidden charges.
+
+For International Payments - The Merchant transaction fee is applicable on payments received through your website, online invoices and online marketplaces including eBay. Currency Conversion Fee Applicable. You can apply for discounted rates when your account is in good standing and you’ve met a qualifying monthly sales volume. This applies to local payments as well.
+
+From physical goods to online services, Seller Protection gives you peace of mind. This way, you can sell more while PayPal™ keeps you protected.
+
+If a buyer files a claim, chargeback or payment reversal, we’ll place a temporary hold on the funds.
+
+We’ll ask for proof of shipment or proof of delivery and fully investigate the matter.
+
+The funds will be made available to you once we have confirmed that your transaction is eligible for Seller Protection.
+
+For understanding PayPal™ Terms of Service - Please refer to PayPal™ User Agreement.
+
+GST is a comprehensive indirect tax levied on all transaction of goods and services throughout India. GST will be levied on the fees charged by PayPal to their customers, and not on the purchase amounts.
+
+The GST of 18% will be levied only on the PayPal™ fee, not the purchase amount. GST will be levied on the fees charged by PayPal to their customers, and not on the purchase amounts.
+
+A copy of the consolidated invoice will be sent to you at the end of every month.
+
+If you’re registered in a Special Economic Zone (SEZ) unit, you’re eligible for GST exemption.
+
+You may be eligible for refunds or set off the GST charged. For details, please consult your tax advisor.
+
+Will refunding a transaction also include a refund of the applicable taxes to the customer? Yes, when a refund is initiated, the tax applicable to that transaction will also be refunded.
+
+#### Useful Links - 
+
+[KYC or Know Your Customer Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/know-your-customer "KYC or Know Your Customer Policy at PayPal™")
+
+[Fraud Prevention Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/fraud-prevention "Fraud Prevention Policy at PayPal™")
+
+[Low Seller Fees charged by PayPal™](https://www.paypal.com/in/webapps/mpp/paypal-seller-fees "Low Seller Fees charged by PayPal™")
+
+[User Agreement Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/ua/useragreement-full#9 "User Agreement Policy at PayPal™")
+
+[The Know Your Customer procedure at PayPal™](https://www.paypal.com/in/webapps/mpp/freelancer-payment "The Know Your Customer procedure at PayPal™") - 
+
+[Freelancer Payment via PayPal™](https://www.paypal.com/in/webapps/mpp/get-paid-on-website "Freelancer Payment via PayPal™")
+
+[Foreign Inward Remittance Certificate / Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/firc-certificate "Foreign Inward Remittance Certificate / Policy at PayPal™") - 
+
+Note: Also, check with your local Bank for FACTA Declaration Policy - FATCA (Foreign Account Tax Compliance Act) & Common Reporting Standard or CRS – Declaration, Regulations & Requirements via The Organisation for Economic Cooperation and Development (OECD) / Automatic Exchange of Information (AEoI)
+
+PCI DSS (Payment Card Industry Data Security Standard) Policy at PayPal™ - https://www.paypal.com/in/webapps/mpp/pci-compliance
+
+Safety and Security Policy at PayPal™ - https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security
