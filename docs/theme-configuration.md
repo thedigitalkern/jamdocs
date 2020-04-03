@@ -498,11 +498,19 @@ Before you register for any of these services you must have the following compan
 
 **Select a Purpose Code**
 
-* Make sure that you select the purpose code that appropriately describes your business transactions. Enter a relevant Purpose Code that accurately describes the type of business you do. This is required under Indian regulations.
+* Make sure that you select the purpose code that appropriately describes your business transactions. Enter a relevant Purpose Code that accurately describes the type of business you do. This is required under Indian regulations. [Merchant Category Codes or MCC as defined by CitiBank](https://www.citibank.com/tts/solutions/commercial-cards/assets/docs/govt/Merchant-Category-Codes.pdf "Merchant Category Codes by CitiBank.com - used to identify the type of business in which a merchant is engaged.")
 
 ## Understand Fees and Risks
 
 Involved with each setup you choose to integrate your eCommerce CMS Platform with not limited to Internet Payment Gateway -
 
-* **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes.
-* 
+* **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use / Breach Insurance / Cryptojacking. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes.
+* **Draft detailed policies** for each service you provide or goods manufactured and sold online via your digital platform. 
+  * Choose a payment gateway that accepts your terms of service, return and refund policies, types of products or service you are allowed to merchandise using their payment gateway offerings. Clear and concise goods and service offerings.
+* **Currency Conversion Rates** offered by each financial institution in case of transacting in international currencies. 
+* Wallet to Bank Account Withdrawal Fees + Conversion Fees + GST levied upon. 
+* Deposit to Wallet Fees (if any) via Credit Cards ([Deposit to PayTM via Credit Cards](https://www.paytmbank.com/ratesCharges "PayTM - Fees and Charges") on a KYC Account involves a fee of 2%) - PayTM also offers Merchant Payment Gateway and Quick settlement times. Wallet to Wallet Transfer. However, **Mobikwik does not charge any fees for adding funds via Credit Card to Wallet** and they too have an **Internet Payment Gateway Solution**. But again these are various Payment Aggregators. Some offer different pricing and various add-on services for which they charge a certain percentage of commission on each transaction.
+* Purchase of Goods and Services from Partner/Vendors using Credit or Debit Cards Fee Markup of 1% - 3%
+* Customs Duty levied upon + GST  by CBEC + Transport Fees (Air/Sea/Road Cargo) + Insurance + Customs Clearance Fees authorized CHA or Clearing House Agent (mostly handled by your logistics partner such as FedEx.) For [more information on CBEC](http://cbic.gov.in/htdocs-cbec/customs "Central Board of Indirect Taxes and Customs India")
+* Visa Master charges a set percentage of fees to use their services by banking institutions and payment aggregators.
+* Ask for Merchant AVM Codes prior to refunding the amount on chargeback claims by the customer.
