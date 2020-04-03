@@ -370,13 +370,24 @@ If you’re registered in a [**Special Economic Zone (SEZ) unit**](http://www.cb
 
 ## Payment Gateways offered by Banking Institutions vs. Payment Aggregators 
 
-**The Reserve Bank of India (RBI)** has released a **mandatory regulation** for all banking institutions - [**RBI/DPSS/2019-20/174 - DPSS.CO.PD.No.1810/02.14.008/2019-20 March 17, 2020**](https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT17460E0944781414C47951B6D79AE4B211C.PDF "Guidelines on Regulation of Payment Aggregators and Payment Gateways RBI/DPSS/2019-20/174 - DPSS.CO.PD.No.1810/02.14.008/2019-20 March 17, 2020") **-** [**Guidelines on Regulation of Payment Aggregators and Payment Gateways **](https://www.rbi.org.in/Scripts/NotificationUser.aspx "March 17, 2020 - RBI Notifications ")
+**The Reserve Bank of India (RBI)** has released a **mandatory regulation** for all banking institutions - [**RBI/DPSS/2019-20/174 - DPSS.CO.PD.No.1810/02.14.008/2019-20 March 17, 2020**](https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT17460E0944781414C47951B6D79AE4B211C.PDF "Guidelines on Regulation of Payment Aggregators and Payment Gateways RBI/DPSS/2019-20/174 - DPSS.CO.PD.No.1810/02.14.008/2019-20 March 17, 2020") _(direct .PDF File Link)_ **-** [**Guidelines on Regulation of Payment Aggregators and Payment Gateways **](https://www.rbi.org.in/Scripts/NotificationUser.aspx "March 17, 2020 - RBI Notifications ")
 
 _It can be accessed via_ [_https://www.rbi.org.in/Scripts/NotificationUser.aspx_](https://www.rbi.org.in/Scripts/NotificationUser.aspx "March 17, 2020 - RBI Notifications ") _Filter by Years and Month on the Right Corner of the RBI Website March 17, 2020 - under RBI Notifications Tab._
 
 All Payment System Providers and System Participants - **Guidelines on Regulation of Payment Aggregators and Payment Gateways** - ‘_Directions for opening and operation of accounts and settlement of payments for electronic payment transactions involving intermediaries_’. by **P. Vasudevan, Chief General Manager**
 
-The central bank has also demanded mandatory compliance on technology and cyber-security requirements at par with standards for regulated financial institutions for those wishing to continue their businesses in India.
+The central bank has also demanded mandatory compliance on technology and cyber-security requirements at par with standards for regulated financial institutions for those wishing to continue their businesses in India. 
 
-* HDFC Bank via CCAvenue for Merchant Support and Escalations
-* Kotak Mahindra Bank via CCAvenue for Merchant Support and Escalations
+Before you register for any of these services you must have the following company or corporate institutional legal documents in place for better transparency and meeting eligibility criteria - 
+
+* [HDFC Bank via CCAvenue for Merchant / Terminal ID](https://www.hdfcbank.com/sme/pay/payments-and-collections/merchant-services "HDFC Bank's Merchant Services For SMEs / MIS Solutions") (Apply for [HDFC Bank SmartHub services](https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Smarthub/index.aspx "Apply for HDFC Bank SmartHub services")) Support and Escalations
+* [Kotak Mahindra Bank via ALLPAY Payment Gateway](https://www.kotak.com/en/corporate/solutions/manage-collection-and-payments/allpay.html "Kotak Mahindra Bank via ALLPAY Payment Gateway - Corporate Payments Solution") - This payment gateway for your website/mobile apps is a unique blend of traditional payment channels with modern digital payment methods. It’s a comprehensive payment gateway that helps you collect through traditional modes currently available online as well as modern payment methods, through a single URL integration. Features include - Channel-agnostic enterprise receivable module, Streamline and consolidates all receivables through a single multi-payment settlement and reconciliation module. State-of-the-art support infrastructure for quick integration – single, future-ready integration across payment types. A completely automated payment experience improves the success rate, manages drops, auto reversal and easy retry. Comprehensive business analytics help in risk management.
+* Standard Chartered - Cash Management Systems - Powering Real-Time Business (A .PDF File containing relevant information about Innovations in Cash Management Systems)
+  * Excerpts taken from Powering Real-Time Business - A .PDF Document uploaded on Standard Chartered Insights - The role of new cash management solutions in business transformation. The digital revolution is changing the way in which businesses are interacting with their customers, suppliers, and markets. Business models are evolving and new cash management solutions are playing an important role in this transformation. 
+
+    **Scenarios** _(Ascending to Descending Order)_
+    1. **Last Mile - Biggest Problems in Emerging Markets** - **Process Involved** - Goods dispatched > Goods delivered > Cash collected > Manually banked > Manually reconciled
+    2. 
+
+* Axis Bank
+* First Data
