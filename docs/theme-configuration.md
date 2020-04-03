@@ -439,6 +439,14 @@ Before you register for any of these services you must have the following compan
   * A choice of more than **27 of the world’s most widely accepted currencies.**
 * **Easypay Online -** Merchants/Corporates having an Axis Bank account can avail the services offered under the **Easypay Platform** wherein the customers will select the Merchant/Corporate from a list which will be hosted on the web page. Post selection, customer/s will be directed to the Easypay page for initiating a transaction through various payment channels. Easypay Online module provides the merchant/corporates a presence on the internet and aid in growing the business by providing various payment channels (Debit, Credit, Net Banking, Cheque, DD, PO, etc.). as per their requirements.
 
+**Note:** Customized Checkout Pages and Dedicated Account Managers for Enterprise Plans via Google Pay, PayTM, Razorpay, PayPal India Merchant Account, HDFC, IndusInd via PayU Money, ICICI, Kotak via CCAvenue, First Data for Indian Merchants.
+
+**Note:** AliPay or WePay for China Merchants.
+
+## Transaction and Settlement Times 
+
+Differ from **T+1 to T+5** Days depending on the Payment Processor Terms set in place upon Merchant signup. The time it takes for the payment processor to successfully capture the amount from the consumer's bank/financial institution bank account/credit or debit card/wallet/UPI or ACH or Automated Clearing House/PayOrder in terms stated by the processor/issuers to the merchant.
+
 #### Before applying to any of the above internet payment gateway services via a Financial Institution or Payment Aggregator tied up with a banking partner, make sure to have the following documentation ready with online copies for upload on secured servers and physical copies on company letterheads.
 
 ## Complete KYC for Registered Organisations such as Partnerships/ Ltd Company/ Corporation/ Government
@@ -510,6 +518,8 @@ Involved with each setup you choose to integrate your eCommerce CMS Platform wit
 * [Pitney Bowes Shipping APIs](https://www.pitneybowes.com/us/developer/shipping-apis.html "Pitney Bowes Shipping APIs") (USPS).
 * Provide an invoice to the logistics provider at the time of pickup of goods from the registered place of business.
 * For UAE or United Arab Emirates GCC - [PayFort.com](https://docs.payfort.com/ "PayFort.com - Documentation for UAE - GCC") can act as an Internet Payment Gateway or [Emirates NBD via noqodi](https://www.noqodi.com/emarapayGateway/jsf/enquiry/merchantRegistration.do "Emirates NBD via noqodi"). You will also need to have registered for Value Added Tax implemented by [Ministry of Finance UAE GCC](https://www.mof.gov.ae/en/resourcesAndBudget/Pages/vatquestions.aspx "Ministry of Finance UAE GCC").
+* It is important to note that you must not display your Merchant Bank Account Information Publicy on an eCommerce site or any online portal.
+* 
 
 ## Chargeback Claims
 
