@@ -22,7 +22,7 @@ export default function (Vue, { router, head, isClient, appOptions }) {
 
   head.meta.push({
     name: 'theme-color',
-    content: '#10c186'
+    content: '#053eff'
   })
 
   head.meta.push({
