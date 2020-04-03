@@ -514,3 +514,28 @@ Involved with each setup you choose to integrate your eCommerce CMS Platform wit
 * Customs Duty levied upon + GST  by CBEC + Transport Fees (Air/Sea/Road Cargo) + Insurance + Customs Clearance Fees authorized CHA or Clearing House Agent (mostly handled by your logistics partner such as FedEx.) For [more information on CBEC](http://cbic.gov.in/htdocs-cbec/customs "Central Board of Indirect Taxes and Customs India")
 * Visa Master charges a set percentage of fees to use their services by banking institutions and payment aggregators.
 * Ask for Merchant AVM Codes prior to refunding the amount on chargeback claims by the customer.
+* Always have Corporate Social Responsibility Policy implemented in accordance with MCA or Ministry of Corporate Affairs
+
+## Chargeback Claims
+
+**Error codes differ from gateway to gateway, as there are no standardized error codes**, so it is recommended to always follow the error message.
+
+The transaction could be canceled due to various reasons and these are, for instance, a technical issue at the issuing bank or a customer with insufficient funds on their card. See the most common card decline codes and ways to resolve them under Decline codes section of this article.
+
+A credit card decline occurs when the payment cannot be processed for a particular reason. The transaction can be declined by the processor, the payment gateway or, what is the most common, by the issuing bank. Then, you, as a merchant, will see the relevant issuer decline code that comes with a certain reason (usually, you can also see an error message stuck to the code).
+
+The processing system assigns these codes to transactions and you can see a short explanation for each of them on your profile in the SecurionPay dashboard
+
+There are two categories of credit card declines, and these are soft declines and hard ones. The first one is when the issuer approved the payment, but there’s some other problem with the transaction. Usually, retrying the transaction can help in such situations. The hard decline, by contrast, is when the payment is not approved by the issuing bank, so your customer should contact their bank to resolve the issue.
+
+## Decline codes
+
+Decline codes are provided when a transaction cannot be completed, so it’s good to know the explanation for each of them. Let’s dive deeper into the most common declining codes merchants need to handle.
+
+[PayPal™ Address Verification System Response Codes](https://www.paypalobjects.com/en_US/vhelp/servicemanagement_help/avs_response.htm "PayPal™ Address Verification System Response Codes")
+
+[PayPal™ Card Security Code Responses](https://www.paypalobjects.com/en_US/vhelp/servicemanagement_help/csc_response.htm "PayPal™ Card Security Code Responses")
+
+[PayPal™ Virtual Terminal System Response Codes](https://www.paypalobjects.com/en_US/vhelp/servicemanagement_help/vterror.htm "PayPal™ Virtual Terminal System Response Codes")
+
+In case you are using [Stripe™ by Braintree](https://stripe.com/en-in/payments "Stripe™ by Braintree for India") - Check for corresponding [Processor Decline Codes](https://stripe.com/docs/declines/codes "Stripe™ by Braintree - Processor Decline Codes") as well.
