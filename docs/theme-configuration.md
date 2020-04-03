@@ -439,7 +439,7 @@ Before you register for any of these services you must have the following compan
   * A choice of more than **27 of the world’s most widely accepted currencies.**
 * **Easypay Online -** Merchants/Corporates having an Axis Bank account can avail the services offered under the **Easypay Platform** wherein the customers will select the Merchant/Corporate from a list which will be hosted on the web page. Post selection, customer/s will be directed to the Easypay page for initiating a transaction through various payment channels. Easypay Online module provides the merchant/corporates a presence on the internet and aid in growing the business by providing various payment channels (Debit, Credit, Net Banking, Cheque, DD, PO, etc.). as per their requirements.
 
-**Note:** Customized Checkout Pages and Dedicated Account Managers for Enterprise Plans via Google Pay, Stripe, Paytm, Razorpay, PayPal India Merchant Account, HDFC, IndusInd via PayU Money (FX Trading - Offers lowest FX Conversion Rates India), ICICI, Kotak via CCAvenue, First Data for Indian Merchants.
+**Note:** Customized Checkout Pages and Dedicated Account Managers for Enterprise Plans via Google Pay, Stripe, Paytm, Razorpay, PayPal India Merchant Account, HDFC, IndusInd via PayU Money (FX Trading - Offers lowest FX Conversion Rates India), ICICI, Kotak via CCAvenue and First Data for Indian Merchants.
 
 **Note:** AliPay or WePay for China Merchants.
 
