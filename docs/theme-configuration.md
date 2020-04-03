@@ -265,8 +265,6 @@ Bootstrap Studio updates automatically, so you always have the latest version.
   * Google Mail API - [WP Mail SMTP Plugin for Gmail SMTP](https://wpforms.com/how-to-securely-send-wordpress-emails-using-gmail-smtp/ "WP Mail SMTP Plugin for Gmail SMTP") via [Contact Form7 for Wordpress](https://wordpress.org/plugins/contact-form-7/ "Contact Form7 for Wordpress") - (_Avoid the Popup - by clicking on "X" Right side of the screen_) - This is important to configure if you are using DigitalOcean Droplet. Make sure to **Test Email Connection** for successful integration.
     * [Plugin Integration with Wordpress/Ghost CMS Droplet via DigitalOcean](https://wpforms.com/how-to-securely-send-wordpress-emails-using-gmail-smtp/ "Plugin Integration with Wordpress/Ghost CMS Droplet via DigitalOcean")
       * [MailGun](https://www.mailgun.com/ "Mailgun - The Email Service for Developers - Easy SMTP integration and a simple, RESTful API abstracts away the messy details of sending transactional or bulk email. Scale quickly, whether you need to send 10 or 10 million emails.") - Partner with the email service trusted by developers and marketers for time-savings, scalability, and delivery expertise. The Email Service for Developers - Easy SMTP integration and a simple, RESTful API abstracts away the messy details of sending transactional or bulk email. Scale quickly, whether you need to send 10 or 10 million emails.
-
-
       * [Sendgrid](https://sendgrid.com/ "Sendgrid") - [List of Integrations](https://sendgrid.com/partners/marketplace/ "List of Integrations via Sendgrid.com") - Partner with the email service trusted by developers and marketers for time-savings, scalability, and delivery expertise.
     * For Ghost, key configuration is required if deploying in development mode via Heroku post-deploy.
 
@@ -297,9 +295,9 @@ Bootstrap Studio updates automatically, so you always have the latest version.
 
 The TrustedSite certification helps websites like yours increase trust and sales by showing the site is safe to do business with.
 
-#### Features 
+#### Features
 
-**Floating TRUSTMARK Requires Verified Business Information** 
+**Floating TRUSTMARK Requires Verified Business Information**
 
 * **Verified Email** - Add a Verified Email Account created using your Email Service Provider such as Google Bussiness Email via G Suite or ZohoMail Solutions Partner.
 * **Verified Phone** - Receive a Verification Code on the Mobile Number entered on Trusted Site Account Registration Page.
@@ -345,7 +343,7 @@ You may be eligible for refunds or set off the GST charged. For details, please 
 
 Will refunding a transaction also include a refund of the applicable taxes to the customer? Yes, when a refund is initiated, the tax applicable to that transaction will also be refunded.
 
-#### Useful Links - 
+#### Useful Links -
 
 [KYC or Know Your Customer Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/know-your-customer "KYC or Know Your Customer Policy at PayPal™")
 
@@ -355,14 +353,12 @@ Will refunding a transaction also include a refund of the applicable taxes to th
 
 [User Agreement Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/ua/useragreement-full#9 "User Agreement Policy at PayPal™")
 
-[The Know Your Customer procedure at PayPal™](https://www.paypal.com/in/webapps/mpp/freelancer-payment "The Know Your Customer procedure at PayPal™") - 
+[The Know Your Customer procedure at PayPal™](https://www.paypal.com/in/webapps/mpp/freelancer-payment "The Know Your Customer procedure at PayPal™")
 
 [Freelancer Payment via PayPal™](https://www.paypal.com/in/webapps/mpp/get-paid-on-website "Freelancer Payment via PayPal™")
 
-[Foreign Inward Remittance Certificate / Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/firc-certificate "Foreign Inward Remittance Certificate / Policy at PayPal™") - 
+[Foreign Inward Remittance Certificate / Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/firc-certificate "Foreign Inward Remittance Certificate / Policy at PayPal™") - Important Note: Also, check with your local Bank for FATCACAA Declaration Policy - **FATCA (Foreign Account Tax Compliance Act) & Common Reporting Standard or CRS** via **The Organisation for Economic Cooperation and Development (OECD)** / **Automatic Exchange of Information (AEoI)**
 
-Note: Also, check with your local Bank for FACTA Declaration Policy - FATCA (Foreign Account Tax Compliance Act) & Common Reporting Standard or CRS – Declaration, Regulations & Requirements via The Organisation for Economic Cooperation and Development (OECD) / Automatic Exchange of Information (AEoI)
+[PCI DSS (Payment Card Industry Data Security Standard) Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/pci-compliance "PCI DSS (Payment Card Industry Data Security Standard) Policy at PayPal™")
 
-PCI DSS (Payment Card Industry Data Security Standard) Policy at PayPal™ - https://www.paypal.com/in/webapps/mpp/pci-compliance
-
-Safety and Security Policy at PayPal™ - https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security
+[Safety and Security Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security "Safety and Security Policy at PayPal™")
