@@ -509,6 +509,7 @@ Involved with each setup you choose to integrate your eCommerce CMS Platform wit
 * It is mandatory to raise an IGST (CGST + SGST) invoice with the specific [Harmonized System of Nomenclature (HSN) or Service Accounting Codes (SAC) Codes](https://cbic-gst.gov.in/gst-goods-services-rates.html) if you are in e-commerce selling goods or services interstate. GST Rates - (For Inter-state supply, IGST Rate is applicable | For intra-state supply, CGST rate and SGST/UTGST rate is applicable) Goods which are not specified on the portal have IGST tax rate of 18% as specified by [GOVERNMENT OF INDIA - MINISTRY OF FINANCE - DEPARTMENT OF REVENUE](https://dor.gov.in/service-listing "GOVERNMENT OF INDIA - MINISTRY OF FINANCE - DEPARTMENT OF REVENUE - Services ").
 * [Pitney Bowes Shipping APIs](https://www.pitneybowes.com/us/developer/shipping-apis.html "Pitney Bowes Shipping APIs") (USPS)
 * Provide an invoice to the logistics provider at the time of pickup of goods from the registered place of business.
+* For UAE or United Arab Emirates GCC - [PayFort.com](https://docs.payfort.com/ "PayFort.com - Documentation for UAE - GCC") can act as an Internet Payment Gateway
 
 ## Chargeback Claims
 
