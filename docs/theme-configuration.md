@@ -547,6 +547,7 @@ Get a Trademark Certification for Selling Authorised Brands adhering to Brand Gu
   * You can create **Event Registration Page** which is a quick and easy way to register event attendees online.
   * You can **Sell products online** - Take orders around the clock with our Online Order template. Add any number of products/services you wish to sell, along with images of your products on a single Payment Page and share it with your customers. Smarter purchase controls - Decide the minimum/maximum number of products your customers can buy, set a minimum amount your customers can pay, and more.
   * You can **Collect fees and Accept payments** in seconds with their hosted form and Download Reports - Get detailed insights for each item in your store based on real-time transactions from the dashboard and make better business decisions.
+* Set **GDPR Policies for EU or European Union** if selling goods or services online in these regions. Set it prior to sending out Newsletters via Mailchimp by Salesforce for Newsletters or Zoho CRM Newsletters.
 
 ## Chargeback Claims
 
