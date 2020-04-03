@@ -514,8 +514,9 @@ Involved with each setup you choose to integrate your eCommerce CMS Platform wit
 * Customs Duty levied upon + GST  by CBEC + Transport Fees (Air/Sea/Road Cargo) + Insurance + Customs Clearance Fees authorized CHA or Clearing House Agent (mostly handled by your logistics partner such as FedEx.) For [more information on CBEC](http://cbic.gov.in/htdocs-cbec/customs "Central Board of Indirect Taxes and Customs India")
 * Visa Master charges a set percentage of fees to use their services by banking institutions and payment aggregators.
 * Ask for **Merchant Terminal ID Decline Codes in print and online prior to signing up with any of their services** as this helps understanding how to handle customer complaints, chargebacks, queries or provide relevant support/grievance redressal.
-* Refunding the amount on chargeback claims by the customer can result in serious financial losses by the financial institution/payment aggregator/merchant and the customer in case of its the other way around. Most merchant payments are blocked up to a period of 180 days in case of Chargebacks.
-* Always have Corporate Social Responsibility Policy implemented in accordance with MCA or Ministry of Corporate Affairs
+* Refunding the amount on chargeback claims by the customer can result in serious financial losses by the financial institution/payment aggregator/merchant and the customer in case of its the other way around. Most merchant payments are blocked up to a period of 180 days in case of Chargebacks. Hence selecting the right internet payment gateway or POS (Point of Sale) System is critical at the very beginning.
+* To further extend your **Merchant to Bank Relationship** it is important to have either an existing relationship or acquire a current or checking account with adequate funds.
+* Always have **Corporate Social Responsibility Policy** implemented in accordance with MCA or Ministry of Corporate Affairs or Waste Policy set in place in case you're into the manufacturing of goods.
 
 ## Chargeback Claims
 
