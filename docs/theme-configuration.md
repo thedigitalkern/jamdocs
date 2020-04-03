@@ -387,7 +387,8 @@ Before you register for any of these services you must have the following compan
 
     **Scenarios** _(Ascending to Descending Order)_
     1. **Last Mile - Biggest Problems in Emerging Markets** - **Process Involved** - Goods dispatched > Goods delivered > Cash collected > Manually banked > Manually reconciled
-    2. 
+    2. **Online payment** - Online Platform or App - Payment Gateway (Involves Addition of Amount - Track Order ID - Select Payment Options such as Credit Card or PayPal**™**, Debit Cards, Mobile Money, Instant Payments, Business Wallets, Request for Payment) - Payment channels - Collections - Process Involved - Goods dispatched > Goods delivered >Payment Accepted via e-Transfer> Autobanked > Data is Auto Reconciled
+    3. 
 
 * Axis Bank
 * First Data
