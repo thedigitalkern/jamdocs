@@ -367,3 +367,16 @@ If you’re registered in a [**Special Economic Zone (SEZ) unit**](http://www.cb
 [PCI DSS (Payment Card Industry Data Security Standard) Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/pci-compliance "PCI DSS (Payment Card Industry Data Security Standard) Policy at PayPal™")
 
 [Safety and Security Policy at PayPal™](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security "Safety and Security Policy at PayPal™")
+
+## Payment Gateways offered by Banking Institutions vs. Payment Aggregators 
+
+**The Reserve Bank of India (RBI)** has released a **mandatory regulation** for all banking institutions - [**RBI/DPSS/2019-20/174 - DPSS.CO.PD.No.1810/02.14.008/2019-20 March 17, 2020**](https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT17460E0944781414C47951B6D79AE4B211C.PDF "Guidelines on Regulation of Payment Aggregators and Payment Gateways RBI/DPSS/2019-20/174 - DPSS.CO.PD.No.1810/02.14.008/2019-20 March 17, 2020") **-** [**Guidelines on Regulation of Payment Aggregators and Payment Gateways **](https://www.rbi.org.in/Scripts/NotificationUser.aspx "March 17, 2020 - RBI Notifications ")
+
+_It can be accessed via_ [_https://www.rbi.org.in/Scripts/NotificationUser.aspx_](https://www.rbi.org.in/Scripts/NotificationUser.aspx "March 17, 2020 - RBI Notifications ") _Filter by Years and Month on the Right Corner of the RBI Website March 17, 2020 - under RBI Notifications Tab._
+
+All Payment System Providers and System Participants - **Guidelines on Regulation of Payment Aggregators and Payment Gateways** - ‘_Directions for opening and operation of accounts and settlement of payments for electronic payment transactions involving intermediaries_’. by **P. Vasudevan, Chief General Manager**
+
+The central bank has also demanded mandatory compliance on technology and cyber-security requirements at par with standards for regulated financial institutions for those wishing to continue their businesses in India.
+
+* HDFC Bank via CCAvenue for Merchant Support and Escalations
+* Kotak Mahindra Bank via CCAvenue for Merchant Support and Escalations
