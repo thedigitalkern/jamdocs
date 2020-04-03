@@ -323,22 +323,26 @@ The TrustedSite certification helps websites like yours increase trust and sales
 
 **For International Payments** - The Merchant transaction fee is applicable on payments received through your website, online invoices and online marketplaces including eBay. Currency Conversion Fee Applicable. You can apply for discounted rates when your account is in good standing and you’ve met a qualifying monthly sales volume. This applies to local payments as well.
 
-From physical goods to online services, **Seller Protection** gives you peace of mind. This way, you can sell more while PayPal™ keeps you protected. If a buyer files a claim, chargeback or payment reversal, PayPal™ will place a temporary hold on the funds. PayPal™ will ask for [proof of shipment or proof of delivery from your logistics solution providers such as FedEx](https://ask.fedex.com/help/en-gb/preparing-to-send/can-I-get-proof-of-delivery "Proof of Shipment or Proof of Delivery from your logistics solution providers such as FedEx™") to fully investigate the matter. It is advisable to provide **Air Waybill number** that includes - 
+From physical goods to online services, **Seller Protection** gives you peace of mind. This way, you can sell more while PayPal™ keeps you protected. If a buyer files a claim, chargeback or payment reversal, PayPal™ will place a temporary hold on the funds. 
+
+## PayPal™/FedEx™ - From Payments to Delivery - Seller Protection
+
+PayPal™ will ask for [proof of shipment or proof of delivery from your logistics solution providers such as FedEx](https://ask.fedex.com/help/en-gb/preparing-to-send/can-I-get-proof-of-delivery "Proof of Shipment or Proof of Delivery from your logistics solution providers such as FedEx™") to fully investigate the matter. It is advisable to provide **Air Waybill number** that includes - 
 
 * **Signature proof of delivery data availability:** Signature proof of delivery is available for up to 18 months for FedEx Express This includes the signature image and associated shipment information.
 * **Multiple signature proof of delivery requests:** You can request up to 30 signature proof of delivery letters at once. Please note the fax option is not available for multiple Signature proof of delivery requests.
 * **Detailed Signature proof of delivery -** You can obtain a signature proof of delivery letter with detailed information by providing the **9-digit FedEx account number**. If the account number matches the shipper or payer of the shipment, you will be able to view detailed signature proof of delivery information, which includes complete contact name, company name, street address, city, state/province, ZIP, and country information for both the shipper and recipient (if available).
 * **No signature found** - Even if no signature is available, you can still view/print, email and fax the available proof of delivery information. You can also check again later for the signature. **If no signature is available after seven business days, please** [**Contact FedEx™**](fedex.com/gb/contact/ "Contact FedEx™"). Please note that the signature may be unavailable if it was released (the sender or recipient signed a signature release agreement).
 
-Always attach **Bill of Sale** or **Invoice** issued the customer that includes **Airway Bill Number or AW Number, FedEx Tracking Code / Out of Delivery Area or ODA Shipment / Type of Shipment** / **Goods Insured** - Personal or Commercial; in our case, this will be **commercial** - to the logistics partner and the payment gateway fraud analyst team. 
+Always attach **Bill of Sale** or **Invoice** issued the customer that includes **Airway Bill Number or AW Number, FedEx Tracking Code / Out of Delivery Area or ODA Shipment / Type of Shipment** / **Goods Insured / Mode of Payment** / **Mode of Delivery** - Air / Sea / Road - **Shipment Reason** - Personal or Commercial; in our case, this will be **Commercial** - to the logistics partner and the payment gateway fraud analyst team. 
 
-The funds will be made available to you once we have confirmed that your transaction is eligible for PayPal™ Seller Protection.
+The funds will be made available to you once we have confirmed that your transaction is **eligible for PayPal™ Seller Protection.**
 
-For understanding PayPal™ Terms of Service - Please refer to PayPal™ User Agreement.
+For understanding **PayPal™ Terms of Service - Please refer to PayPal™ User Agreement.**
 
-Goods or Services Tax (GST) is a comprehensive indirect tax levied on all transactions of goods and services throughout India. GST will be levied on the fees charged by PayPal to their customers, and not on the purchase amounts.
+**Goods or Services Tax (GST)** is a comprehensive indirect tax levied on all transactions of goods and services throughout India. GST will be levied on the fees charged by PayPal™ to their customers, and not on the purchase amounts.
 
-The GST of 18% will be levied only on the PayPal™ fee, not the purchase amount. GST will be levied on the fees charged by PayPal to their customers, and not on the purchase amounts.
+The GST of 18% will be levied only on the PayPal™ fee, not the purchase amount. GST will be levied on the fees charged by PayPal™ to their customers, and not on the purchase amounts.
 
 A copy of the consolidated invoice will be sent to you at the end of every month.
 
