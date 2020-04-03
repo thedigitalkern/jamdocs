@@ -501,15 +501,18 @@ Differ from **T+1 to T+5** Days depending on the Payment Processor Terms set in 
 Involved with each setup you choose to integrate your eCommerce CMS Platform with not limited to Internet Payment Gateway -
 
 * **Jurisdiction (Laws governed by State/Country)** your choice of Internet Payment Gateway via a financial institution or payment aggregator. Usually found in Terms of Service / Terms of Use / Breach Insurance / Cryptojacking. Whether arbitration is required according to their outline policies. It is best to choose a payment gateway in your country and state in case of legal disputes. 
+* In case of a Legal Dispute or Launch a Complaint you need to - 
+  * Hire a Legal Counsel/Lawyer to Seek Advice with expertise in Cyber Security.
   * Draft FIR or First Information Report at Local Jurisdiction prepared by Lawyer representing your organization/legal counsel.
   * Report Cyber Attack FIR to CERTin and Hyderabad Telangana Cyber Cell Unit.
   * Submit Fraud Breach Incident via CERTin Website.
 * **Draft detailed policies** for each service you provide or goods manufactured and sold online via your digital platform.
   * Choose a payment gateway that accepts your terms of service, return and refund policies, types of products or service you are allowed to merchandise using their payment gateway offerings. Clear and concise goods and service offerings.
+* Obtain Breach Insurance and Shopper Identity Protection via [McAfee Trusted Site Pro Plan](https://www.trustedsite.com/start "McAfee SECURE certification - Trusted Site Pro Plan")
 * **Currency Conversion Rates** offered by each financial institution in case of transacting in international currencies.
 * Wallet to Bank Account Withdrawal Fees + Conversion Fees + GST levied upon.
 * Deposit to Wallet Fees (if any) via Credit Cards ([Deposit to PayTM via Credit Cards](https://www.paytmbank.com/ratesCharges "PayTM - Fees and Charges") on a KYC Account involves a fee of 2%) - PayTM also offers Merchant Payment Gateway and Quick settlement times. Wallet to Wallet Transfer. However, **Mobikwik does not charge any fees for adding funds via Credit Card to Wallet** and they too have an **Internet Payment Gateway Solution**. But again these are various Payment Aggregators. Some offer different pricing and various add-on services for which they charge a certain percentage of commission on each transaction.
-* Purchase of Goods and Services from Partner/Vendors using Credit or Debit Cards Fee Markup of 1% - 3%
+* Expect a Purchase of Goods and Services from Partner/Vendors using Credit or Debit Cards POS Fee Markup of 1% - 3%
 * Customs Duty levied upon + GST  by CBEC + Transport Fees (Air/Sea/Road Cargo) + Insurance + Customs Clearance Fees authorized CHA or Clearing House Agent (mostly handled by your logistics partner such as FedEx.) For [more information on CBEC](http://cbic.gov.in/htdocs-cbec/customs "Central Board of Indirect Taxes and Customs India")
 * Visa©, Master©, and Maestro© charge a set percentage of fees to use their services by banking institutions and payment aggregators.
 * Ask for **Merchant Terminal ID Decline Codes in print and online prior to signing up with any of their services** as this helps understanding how to handle customer complaints, chargebacks, queries or provide relevant support/grievance redressal.
