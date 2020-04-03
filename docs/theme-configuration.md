@@ -418,3 +418,62 @@ Before you register for any of these services you must have the following compan
   * **Home Currency:** Currency in which the card holder's card has been issued.
   * A choice of more than **27 of the world’s most widely accepted currencies.**
 * **Easypay Online -** Merchants/Corporates having an Axis Bank account can avail the services offered under the **Easypay Platform** wherein the customers will select the Merchant/Corporate from a list which will be hosted on the web page. Post selection, customer/s will be directed to the Easypay page for initiating a transaction through various payment channels. Easypay Online module provides the merchant/corporates a presence on the internet and aid in growing the business by providing various payment channels (Debit, Credit, Net Banking, Cheque, DD, PO, etc.). as per their requirements.
+
+#### Before applying to any of the above internet payment gateway services via a Financial Institution or Payment Aggregator tied up with a banking partner, make sure to have the following documentation ready with online copies for upload on secured servers and physical copies on company letterheads.
+
+## Complete KYC for Registered Organisations such as Partnerships/ Ltd Company/ Corporation/ Government
+
+* **Proof of Identity** - Provide PAN or Permanent Account Number card copy of the Account Holder or Primary Authorized User (matching the name as given in PayPal™ account). This document will also serve the purpose of ‘Proof of identity’ requirement.
+* **Provide Proof of Residential Address** (as given in PayPal™ Account) of Account Holder by submitting any one of the below documents
+
+**For Partnerships:**
+
+* Valid Passport with Photo and Signature / Voter ID card / Valid Driving License / Aadhaar Card / GST certificate of regn as valid address proof / Job Card issued by NREGA duly signed by an officer of the State Govt / identity card with applicant's Photograph issued by Central/State Government Departments, Statutory/Regulatory Authorities, Public Sector Undertakings, Scheduled Commercial Banks, and Public Financial Institutions; letter issued by a gazetted officer, with a duly attested photograph of the person / Utility Bills which is 3 months old / Property or Municipal Tax receipt / Bank account or Post Office savings bank account statement / Pension or family pension payment orders (PPOs) issued to retired employees by Government Departments or Public Sector Undertakings, if they contain the address.
+
+
+* Letter of allotment of accommodation from employer issued by State or Central Government departments, statutory or regulatory bodies, public sector undertakings, scheduled commercial banks, financial institutions and listed companies. Similarly, leave and license agreements with such employers allotting official accommodation; and Documents issued by Government departments of foreign jurisdictions and letter issued by Foreign Embassy or Mission in India.
+
+**For Ltd Company / Corporation / Government:**
+
+* Valid Passport with Photo and Signature / Voter ID card / Valid Driving License / Aadhaar Card / GST certificate of regn as valid address proof / identity card with applicant's Photograph issued by Central/State Government Departments, Statutory/Regulatory Authorities, Public Sector Undertakings, Scheduled Commercial Banks, and Public Financial Institutions; letter issued by a gazetted officer, with a duly attested photograph of the person / Utility Bills which is < 3 months old / Property or Municipal Tax receipt / Bank account or Post Office savings bank account statement / Pension or family pension payment orders (PPOs) issued to retired employees by Government Departments or Public Sector Undertakings, if they contain the address.
+
+
+* Letter of allotment of accommodation from employer issued by State or Central Government departments, statutory or regulatory bodies, public sector undertakings, scheduled commercial banks, financial institutions and listed companies. Similarly, leave and license agreements with such employers allotting official accommodation; and Documents issued by Government departments of foreign jurisdictions and letter issued by Foreign Embassy or Mission in India / Resolution from Board of Directors & Power of Attorney granted to its managers, officers/employees to transact on its behalf.
+
+
+* **Letter of Authorization** - Provide LOA on the company letterhead signed by Authorized Signatory. A Letter of Authorization* (LOA) is provided on the official letterhead of Merchant organization to indicate PayPal™ Account Holder is an authorized personnel to manage all PayPal™ account-related activities. LOA is required if the account holder is not the director/Owner. The person authorized in LOA is referred to as Primary Authorized User (PAU).
+
+
+* Proof of Business Identity
+* Provide PAN copy of the Business.
+* Business name on PAN to match as given in PayPal™ account.
+* Proof of Business Entity
+
+**Submit any one of the below documents.**
+
+**For Partnerships:**
+
+* Registered Partnership Deed / Income Tax Registration / Service Tax Registration/ Sales Tax Registration / VAT Registration / Shops and Establishments Certificate / Trade License / Registration Certification / Certificate of Importer- Exporter Code (IEC).
+
+**For Ltd Company / Corporation / Government:**
+
+* Certificate of Incorporation / MOA / AOA / Income Tax Registration / Service Tax Registration / Sales Tax Registration / VAT Registration / Shops and Establishments Certificate / Trade License / Certificate of Importer- Exporter Code (IEC).
+
+
+* **Proof of Business Address**
+
+**Submit any one of the below documents.**
+
+* Any valid proof of Business entity document that contains address / Copy of recent utility bill (<3 months old) / Bank statements covering last 6 Calendar months / GST certificate of regn as valid address proof / [Certificate of Importer- Exporter Code (IEC)](). 
+* **Useful Links for** [**Certificate of Importer- Exporter Code (IEC)**]() **-** 
+  * [Importer Exporter Code Number](https://www.dgft.org/iec_code.html  https://www.dgft.org/dgft_e-commerce.html "Importer Exporter Code Number")
+  * [Application for IEC Number](https://www.dgft.org/DGFT_Application_Status_Information_IEC_Code_depb_license_and_online_filling.html "Application for IEC Number")
+  * [ITC HS Code List or India Harmonised Code System Code](https://www.dgft.org/itc_hs_code.html "TC HS Code List or India Harmonised Code System Code") - ITC-HS Codes or better known as Indian Trade Clarification based on Harmonized System of Coding was adopted in India for import-export operations. Indian custom uses an eight-digit ITC-HS Codes to suit the national trade requirements.
+
+**Proof of Bank**
+
+* Voided Cheque / Copy of bank statements confirming the account name of the Business Owner (as given in PayPal™ account).
+
+**Select a Purpose Code**
+
+* Make sure that you select the purpose code that appropriately describes your business transactions. Enter a relevant Purpose Code that accurately describes the type of business you do. This is required under Indian regulations.
