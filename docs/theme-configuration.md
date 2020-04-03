@@ -532,7 +532,7 @@ Get a Trademark Certification for Selling Authorised Brands adhering to Brand Gu
 * Take into consideration - Estimated Shipping Charges for Domestic / ODA / International Delivery Locations
 * Enable Address Validation / Autocomplete Form Input API Magento via [Loqate API UK](https://www.loqate.com/en-us/address-verification/ "Loqate API Integration - Loqate's address verification tool combines industry-leading search technology with the best available datasets.") (Paid per billing / per API call fetched).
 * Filing process involves GST Paid Bill of Sale from Procurement Team / Authorised Partner and Bill of Sale to Delivery Customer.
-* Understand Chartered Accountant Fees for GST Filing and ITR Filing as both have different processes involved.
+* Understand Chartered Accountant Fees for GST Filing and ITR Filing as both have different processes involved. Income Tax Return Filings for Company and Income Tax Return Filings for Company Directors separately. 
 * Download Monthly Reports from Payment Gateway Integrated / Audit Checks.
 * To further extend your **Merchant to Bank Relationship** it is important to have either an existing relationship or acquire a current or checking account with adequate funds. Also, note that you will need to **Maintain Average or Monthly Minimum Balance Requirements in the Bank Account** you have a relationship with. Failure to do so can lead to charges as per **GSC or General Schedule of Charges** as directed by the financial institution or account closure in case of unpayable dues.
 * Always have **Corporate Social Responsibility Policy** implemented in accordance with MCA or Ministry of Corporate Affairs or **Waste Policy** set in place in case you're into the manufacturing of goods.
