@@ -28,14 +28,14 @@ If you are a [**Business Owner / Registered Business Organisation / Startup Team
 
 The following information is intended for - **Consumer/s**, this will prove valuable to you and your loved ones.
 
-[**ESET Smart Security Premium Licensing**](https://www.eset.com/in/home/unilicense/ "ESET Smart Security Premium Licensing") **Features Include -** 
+[**ESET Smart Security Premium Licensing**](https://www.eset.com/in/home/unilicense/ "ESET Smart Security Premium Licensing") **Features Include -**
 
 * Multi-platform protection - **Secure all your devices with a single license**. No matter if you run on a **Windows, Mac, Android or Linux** - we got you covered!
 * Everything you might need - **Secure your digital identity and payments**. **Protect your laptop from theft or loss.** Keep your children **safe** online.
 * Secure your treasured data - **Encrypt your files and removable media**. **Protect them against the theft or loss.** Ensure **secure collaboration and data sharing**.
 * Legendary antivirus technology - Protect yourself from **ransomware and other types of malware with ESET's time-proven multilayered protection**.
 
-**What's inside -** 
+**What's inside -**
 
 * **Privacy protection** - Stop hackers from misusing your passwords. Bank and purchase online safely. Prevent your kids from being exposed to offensive online content.
 * **Anti-theft** - Stay safer by tracking and locating your missing computer in case it gets lost or stolen, and identify thieves via your laptop’s built-in camera.
@@ -48,7 +48,7 @@ The following information is intended for - **Consumer/s**, this will prove valu
 * **For Windows** - ESET Smart Security Premium
 * **For macOS** - ESET Cyber Security Pro
 * **For Linux** - ESET NOD32 Antivirus for Linux Desktop
-* **For Android** (Available for Download via Google Play) - 
+* **For Android** (Available for Download via Google Play) -
   * ESET **Mobile Security** - Antivirus, Real-Time Scanning, Security Report, Activity Log, Remote Lock, Remote Siren, Tablet Support, App Lock, Anti-Phishing, Proactive Anti-Theft, Scheduled Scanning, Low Battery Alert, Automatic update of virus database, Connected Home Monitor and Security Audit. [ESET Support Article](https://help.eset.com/ems/5/en-US/ "ESET Mobile Security - Support Article")
   * ESET **Parental Control**
   * ESET **Smart TV Security**
@@ -66,14 +66,12 @@ The best way to approximate evaluate this is via a simple benchmark test on your
 * iOS Benchmark Chart
 * Mac Benchmark Chart
 * Processor Benchmark Chart
-
-
 * CUDA Benchmark Chart
 * Metal Benchmark Chart
 * OpenCL Benchmark Chart
 * Vulkan Benchmark Chart
 
-[Purchase Geekbench 5](https://www.primatelabs.com/store/v5/ "Purchase Geekbench 5 by PrimateLabs") / [Purchase Geekbench 4](https://www.primatelabs.com/store/v4/ "Purchase Geekbench 4 by PrimateLabs") - If you need a site license or have special pricing needs, please contact PrimateLabs Sales Team. You can [compare and purchase the version](https://www.geekbench.com/versions/ "Geekbench 5 / 4 Pro - Compare and Purchase the Version") best for your needs. 
+[Purchase Geekbench 5](https://www.primatelabs.com/store/v5/ "Purchase Geekbench 5 by PrimateLabs") / [Purchase Geekbench 4](https://www.primatelabs.com/store/v4/ "Purchase Geekbench 4 by PrimateLabs") - If you need a site license or have special pricing needs, please contact PrimateLabs Sales Team. You can [compare and purchase the version](https://www.geekbench.com/versions/ "Geekbench 5 / 4 Pro - Compare and Purchase the Version") best for your needs.
 
 ## Think Sustainable
 
@@ -116,3 +114,21 @@ If you require GUI or Graphic User Interface for accessing requests over HTTP://
 ## Slack for Teams
 
 New age communication platform for sharing data via [Slack.com](https://slack.com/intl/en-in/pricing "Slack.com Pricing Plans - Compare") accounts specifically designed for teams. If you are looking for organized spaces for everything related to a project, topic or team, you need to try Slack.
+
+## Join.me
+
+Screen Sharing, Online Meetings, and Web Conferencing - Start a new join.me meeting right from Google Chrome browser - You can start a join.me audio call, screen share, or video call. You can also schedule and view all your upcoming join.me meetings. 
+
+View [Pricing for Join.me](https://www.join.me/pricing "Pricing Plans for Join.me - You can start a join.me audio call, screenshare, or video call.")
+
+View [Integrations](https://www.join.me/our-integrations "Integrations - Join.me - You can start a join.me audio call, screenshare, or video call.")
+
+#### Features
+
+* [Mobile](https://www.join.me/mobile "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Mobile")
+* [Webinar](https://www.join.me/solutions/free-webinar-software "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Webinar")
+* [Toll-free Audio](https://www.join.me/toll-free "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Toll-free Audio")
+* [Screen Sharing](https://www.join.me/screen-sharing "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Screen Sharing")
+* [Video Conference](https://www.join.me/video-conferencing "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Video Conference")
+* [Free Conference Call](https://www.join.me/solutions/free-conference-call "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Free Conference Call")
+* [With Slack](https://www.join.me/with-slack "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Slack Integration")
