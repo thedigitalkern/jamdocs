@@ -41,16 +41,18 @@ The following information is intended for - **Consumer/s**, this will prove valu
 * **Anti-theft** - Stay safer by tracking and locating your missing computer in case it gets lost or stolen, and identify thieves via your laptop’s built-in camera.
 * **Minimal power usage** - Play, work and browse the internet without slowdowns. Stay unplugged and online longer with battery-saving mode, and enjoy gaming without distracting pop-ups.
 * **Install and forget** - Easy to install, renew and upgrade, our security is also designed for simple set up of all routine tasks. If you want, fine-tune your profile with 150 detailed settings.
+* [**ESET Product Range Documentation**](https://help.eset.com/ "ESET Product Range Documentation") - Browse through help pages, documentation, manuals and user guides for ESET products
 
 #### Ultimate protection license  - can activate the following products:
 
 * **For Windows** - ESET Smart Security Premium
 * **For macOS** - ESET Cyber Security Pro
 * **For Linux** - ESET NOD32 Antivirus for Linux Desktop
-* **For Android** - 
-  * ESET **Mobile Security**
+* **For Android** (Available for Download via Google Play) - 
+  * ESET **Mobile Security** - Antivirus, Real-Time Scanning, Security Report, Activity Log, Remote Lock, Remote Siren, Tablet Support, App Lock, Anti-Phishing, Proactive Anti-Theft, Scheduled Scanning, Low Battery Alert, Automatic update of virus database, Connected Home Monitor and Security Audit. [ESET Support Article](https://help.eset.com/ems/5/en-US/ "ESET Mobile Security - Support Article")
   * ESET **Parental Control**
   * ESET **Smart TV Security**
+  * ESET **Password Manager** - All content in the application is encrypted using military-grade AES-256 encryption, protected by a master password.
 
 **Android protection licenses are easily manageable via Google Play. With a premium license ESET Mobile Security, you can also activate the premium version of ESET Smart TV Security as long as it was purchased through Google Play and both devices are associated with the same Google account.** **ESET Parental Control requires a separate license.**
 
