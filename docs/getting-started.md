@@ -133,9 +133,9 @@ View [Integrations](https://www.join.me/our-integrations "Integrations - Join.me
 * [Free Conference Call](https://www.join.me/solutions/free-conference-call "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Free Conference Call")
 * [With Slack](https://www.join.me/with-slack "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Slack Integration")
 
-## LogMeIn Pro (Remote Access Tool) for System Administrators
+## LogMeIn Pro (Remote Access and Management Tool) for System Administrators
 
-LogMeIn Pro - Discover power and productivity in seamless, secure, and super-fast connections - Remote Access & Management - Remote Support On-Demand
+LogMeIn Pro - Discover power and productivity in seamless, secure, and super-fast connections - **Remote Access & Management - Remote Support On-Demand**
 
 #### Application Summary
 
