@@ -156,6 +156,6 @@ LogMeIn Pro - Discover power and productivity in seamless, secure, and super-fas
 
 #### Security
 
-Get an in-depth look at the [LogMeIn Pro](https://www.logmein.com/pro/features "LogMeIn Pro - Discover power and productivity in seamless, secure, and super-fast connections - Remote Access & Management - Remote Support On-Demand") Security Features. Built With an Emphasis on Endpoint Security - Built with the highest standards of security and performance, including 256-bit AES encryption, dual passwords, and end-to-end authentication. We take the security and protection of your important files, data, and personal information very seriously.
+Get an in-depth look at the [LogMeIn Pro](https://www.logmein.com/pro/features "LogMeIn Pro - Discover power and productivity in seamless, secure, and super-fast connections - Remote Access & Management - Remote Support On-Demand") Security Features. **Built With an Emphasis on Endpoint Security** - Built with the highest standards of security and **performance**, including **256-bit AES encryption**, **dual passwords**, and **end-to-end authentication**. We take the **security and protection of your important files, data, and personal information** very seriously.
 
 Get [**Support for LogMeIn**](https://support.logmeininc.com/ "Support for LogMeIn and other Applications") **Pro / Central** under **Identity & Access Tab.**
