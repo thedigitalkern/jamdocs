@@ -117,7 +117,7 @@ New age communication platform for sharing data via [Slack.com](https://slack.co
 
 ## Join.me
 
-Screen Sharing, Online Meetings, and Web Conferencing - Start a new join.me meeting right from Google Chrome browser - You can start a join.me audio call, screen share, or video call. You can also schedule and view all your upcoming join.me meetings. 
+Screen Sharing, Online Meetings, and Web Conferencing - Start a new join.me meeting right from Google Chrome browser - You can start a join.me audio call, screen share, or video call. You can also schedule and view all your upcoming join.me meetings.
 
 View [Pricing for Join.me](https://www.join.me/pricing "Pricing Plans for Join.me - You can start a join.me audio call, screenshare, or video call.")
 
@@ -132,3 +132,30 @@ View [Integrations](https://www.join.me/our-integrations "Integrations - Join.me
 * [Video Conference](https://www.join.me/video-conferencing "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Video Conference")
 * [Free Conference Call](https://www.join.me/solutions/free-conference-call "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Free Conference Call")
 * [With Slack](https://www.join.me/with-slack "Join.me - Screen Sharing, Online Meetings, and Web Conferencing - Slack Integration")
+
+## LogMeIn Pro (Remote Access Tool) for System Administrators
+
+LogMeIn Pro - Discover power and productivity in seamless, secure, and super-fast connections - Remote Access & Management - Remote Support On-Demand
+
+#### Application Summary
+
+* Access to Your Files - Simplify **access to your work and store, share, and collaborate across all of your devices**.
+* **Access to Your Applications**
+* Easy **access to your most commonly visited websites, cloud and desktop applications**.
+* Access On The Go
+* Fast, easy **remote access to your PC or Mac from your browser, desktop, or device**.
+
+#### Features
+
+* **Multi-Monitor Display** - View all of your work monitors simultaneously, as if you were sitting at your desk.
+* **Remote Control** - Control one computer from another computer just like you were sitting in front of it.
+* **Screen Sharing** - Share your screen with anyone to openly collaborate together or provide remote support.
+* **1TB File Storage** - Easily store all of your files, access them from anywhere, and quickly share with anyone.
+* **Password Management** - Complimentary LastPass Premium license to save your usernames, passwords, and payment details in a secure online vault.
+* **Unlimited Users** - Extend your computer and file access to anyone for instant sharing and collaboration.
+
+#### Security
+
+Get an in-depth look at the [LogMeIn Pro](https://www.logmein.com/pro/features "LogMeIn Pro - Discover power and productivity in seamless, secure, and super-fast connections - Remote Access & Management - Remote Support On-Demand") Security Features. Built With an Emphasis on Endpoint Security - Built with the highest standards of security and performance, including 256-bit AES encryption, dual passwords, and end-to-end authentication. We take the security and protection of your important files, data, and personal information very seriously.
+
+Get [**Support for LogMeIn**](https://support.logmeininc.com/ "Support for LogMeIn and other Applications") **Pro / Central** under **Identity & Access Tab.**
