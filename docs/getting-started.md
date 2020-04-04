@@ -22,7 +22,20 @@ You as a user need to keep in mind that choosing the right hardware is quite imp
 
 ## Should I or Should I Not? Thou shall Answer
 
-The best way to approximate evaluate this is via a simple benchmark test on your existing hardware/software setup via [GeekBench.com by PRIMATE LABS](https://www.geekbench.com/ "GeekBench.com by PRIMATE LABS") - This service allows the user to evaluate mobile device/laptop or desktop computer performance and how it compares to the newest devices on the market.
+The best way to approximate evaluate this is via a simple benchmark test on your existing hardware/software setup via [GeekBench.com by PRIMATE LABS](https://www.geekbench.com/ "GeekBench.com by PRIMATE LABS") - This service allows the user to evaluate mobile device (iOS/Android)/laptop or desktop computer performance (running Microsoft Windows, macOSx and Linux) and how it compares to the newest devices on the market. [**Geekbench 5**](https://www.geekbench.com/download/ "Geekbench 5") / Geekbench 4 (Older Systems) - scores are calibrated against a baseline score of 1000 (which is the score of an Intel Core i3-8100 performing the same task). Higher scores are better, with double the score indicating double the performance.
+
+* Android Benchmark Chart
+* iOS Benchmark Chart
+* Mac Benchmark Chart
+* Processor Benchmark Chart
+
+
+* CUDA Benchmark Chart
+* Metal Benchmark Chart
+* OpelCL Benchmark Chart
+* Vulkan Benchmark Chart
+
+[Purchase Geekbench 5](https://www.primatelabs.com/store/v5/ "Purchase Geekbench 5 by PrimateLabs") / [Purchase Geekbench 4](https://www.primatelabs.com/store/v4/ "Purchase Geekbench 4 by PrimateLabs") - If you need a site license or have special pricing needs, please contact PrimateLabs Sales Team. You can [compare and purchase the version](https://www.geekbench.com/versions/ "Geekbench 5 / 4 Pro - Compare and Purchase the Version") best for your needs. 
 
 ## Think Sustainable
 
