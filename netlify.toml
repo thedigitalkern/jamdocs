@@ -3,3 +3,6 @@
   publish = "dist"
 [build.environment]
   NODE_VERSION = "10"
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
