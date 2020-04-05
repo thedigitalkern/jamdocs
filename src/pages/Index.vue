@@ -7,8 +7,8 @@
         <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
         <Shortcut link="/web-dev" text="Web Development" icon="sliders-icon" />
         <Shortcut link="/advertising-online-seo" text="Paid Advertising" icon="eye-icon" />
-	<Shortcut link="/software-gear-camera" text="Software and Gear Required" icon="sliders-icon" />
-        <Shortcut link="/image-optimisation-softwares" text="Image Optimisation Softwares" icon="eye-icon" />
+	<Shortcut link="/software-gear-camera" text="Software and Gear Required" icon="image-icon" />
+        <Shortcut link="/image-optimisation-softwares" text="Image Optimisation Softwares" icon="layers-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
