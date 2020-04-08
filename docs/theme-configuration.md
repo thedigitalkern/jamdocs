@@ -240,7 +240,7 @@ Bootstrap Studio is a revolutionary website builder. With its productivity featu
 
 #### One-click Publishing
 
-You can export your design as a static website, or publish it with one click to our [next gen hosting platform](https://bootstrapstudio.io/sites "Bootstrap Studio Lifetime License - Static Websites"). It offers HTTPS, custom domains, passkeys and is totally free!
+You can export your design as a static website, or publish it with one click to our [next-gen hosting platform](https://bootstrapstudio.io/sites "Bootstrap Studio Lifetime License - Static Websites"). It offers HTTPS, custom domains, passkeys and is totally free!
 
 #### Grid Tools
 
@@ -248,7 +248,7 @@ The app has specialized tools for working with the Bootstrap grid. Easily create
 
 #### Smooth Animations
 
-In our app, you can create smooth CSS animations that are triggered on browser scroll or hover. We also have a special Parallax component for beautiful image backgrounds.
+In our app, you can create smooth CSS animations that are triggered on the browser scroll or hover. We also have a special Parallax component for beautiful image backgrounds.
 
 #### Google Webfonts
 
@@ -270,7 +270,15 @@ Bootstrap Studio updates automatically, so you always have the latest version.
 
 * [Google Webmaster Tools](https://www.google.com/webmasters/support/ "Google Webmaster Tools - Resources - Support") - Resources to Track Website & Search Performance. Includes [Verification of Domain Property](https://support.google.com/webmasters/answer/34592?hl=en "Get your site on Search Console") and [upload sitemap.xml](https://support.google.com/webmasters/answer/7451001 "Make your sitemap available to Google (Submit your sitemap to Google)") viA Google Search Console in the [required format](https://support.google.com/webmasters/answer/183668?hl=en "Sitemap Required Format") as stated by the search engine - Google and [Bing Webmasters Tools](https://www.bing.com/toolbox/webmaster "Bing Webmasters Tools"). You can add a domain property after successful verification and [import existing content from Google Ads Network into Bing](https://about.ads.microsoft.com/en-in/solutions/tools/import-google-ads-to-microsoft-advertising "Import your Google Ads campaigns to Microsoft Advertising using the Google Import tool in Microsoft Advertising online or Editor"). This applies to Google Ads Campaigns and Bing for Places.
   * [Verification of Domain Property](https://support.google.com/webmasters/answer/9008080 "Domain Ownership for Verification Method Details") - Several Methods to verify Domain Ownership -
-    * **HTML file upload to your web server via FTP Client** such as [FileZilla FTP via SSH Key Authentication](https://wiki.filezilla-project.org/Howto "FileZilla FTP Upload via SFTP using SSH2: Key based Authentication"), [Github Repository Upload Option](https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository "Adding a file to a Github Repository Upload Option"). For an extensive set of tutorials read via [**DigitalOcean.com Article - How To Use Filezilla to Transfer and Manage Files Securely on your VPS**](https://www.digitalocean.com/community/tutorials/how-to-use-filezilla-to-transfer-and-manage-files-securely-on-your-vps "DigitalOcean.com Article - How To Use Filezilla to Transfer and Manage Files Securely on your VPS").
+    * **HTML file uploads to your web server via FTP Client** such as [FileZilla FTP via SSH Key Authentication](https://wiki.filezilla-project.org/Howto "FileZilla FTP Upload via SFTP using SSH2: Key based Authentication"), [Github Repository Upload Option](https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository "Adding a file to a Github Repository Upload Option"). For an extensive set of tutorials read via [**DigitalOcean.com Article - How To Use Filezilla to Transfer and Manage Files Securely on your VPS**](https://www.digitalocean.com/community/tutorials/how-to-use-filezilla-to-transfer-and-manage-files-securely-on-your-vps "DigitalOcean.com Article - How To Use Filezilla to Transfer and Manage Files Securely on your VPS"). If you encounter a Warning via any of your Antivirus Systems for Filezilla - Consider it as "False Positive" as some claim. You can submit the quarantined file/s to [Virus Total](https://www.virustotal.com/ "Virus Total") for a Check. It could treat it as infected malware. You can browse through the FileZilla Project Community Forums or Contact FileZilla Project Founders via **Twitter Direct Message / via Email found in the Support Section if this issue resolves in FileZilla Pro Versions** as well. If you're uncertain about this issue, consider using [**SolarWinds - Solar-PuTTY**](https://www.solarwinds.com/free-tools/solar-putty "SolarWinds - Solar-PuTTY") (Free) - Connect to any server or device in your network with Solar-PuTTY for Windows. Alternatively, you can use Kitty SSH.
+      * **Key Differences between Solar-PuTTY as opposed to PuTTY** - Both support SCP, SSH, Telnet, SFTP. But Solar-PuTTY (Free) includes features that are **ideal for content managers/web application system administrators/anyone who requires that kind of control on virtual machines** as opposed to installing the system software manually on each system.
+        * Saving credentials (including private key) for auto-login.
+        * Support of multiple sessions in the tabbed interface - Manage multiple sessions from one console with a tabbed interface.
+        * Quick access to the most used sessions.
+        * Auto-reconnecting capability - Save credentials or private keys to any session for easy login.
+        * Graphical SFTP file transfer.
+        * Support of post-connections scripts - Automate all scripts you’re using when a connection is established.
+        * Integration of Windows Search - Find your saved session easily thanks to Windows Search integration.
     * [HTML tag in the Source Code (Meta-data / Tags)](https://gist.github.com/lancejpollard/1978404 "Complete List of Meta Tags via lancejpollard on Github -")
     * [Domain Name Server record via TXT / CNAME / A Records](https://support.cloudflare.com/hc/en-us/articles/360019093151-Managing-DNS-records-in-Cloudflare#h_60566325041543261564371 "Managing DNS records in Cloudflare")
     * [Google Analytics Tracking Code](https://support.google.com/analytics/answer/1008080?hl=en "Google Analytics Tracking Code")
@@ -532,7 +540,7 @@ Get a Trademark Certification for Selling Authorised Brands adhering to Brand Gu
 * Take into consideration - Estimated Shipping Charges for Domestic / ODA / International Delivery Locations
 * Enable Address Validation / Autocomplete Form Input API Magento via [Loqate API UK](https://www.loqate.com/en-us/address-verification/ "Loqate API Integration - Loqate's address verification tool combines industry-leading search technology with the best available datasets.") (Paid per billing / per API call fetched).
 * Filing process involves GST Paid Bill of Sale from Procurement Team / Authorised Partner and Bill of Sale to Delivery Customer.
-* Understand Chartered Accountant Fees for GST Filing and ITR Filing as both have different processes involved. Income Tax Return Filings for Company and Income Tax Return Filings for Company Directors separately. 
+* Understand Chartered Accountant Fees for GST Filing and ITR Filing as both have different processes involved. Income Tax Return Filings for Company and Income Tax Return Filings for Company Directors separately.
 * Download Monthly Reports from Payment Gateway Integrated / Audit Checks.
 * To further extend your **Merchant to Bank Relationship** it is important to have either an existing relationship or acquire a current or checking account with adequate funds. Also, note that you will need to **Maintain Average or Monthly Minimum Balance Requirements in the Bank Account** you have a relationship with. Failure to do so can lead to charges as per **GSC or General Schedule of Charges** as directed by the financial institution or account closure in case of unpayable dues.
 * Always have **Corporate Social Responsibility Policy** implemented in accordance with MCA or Ministry of Corporate Affairs or **Waste Policy** set in place in case you're into the manufacturing of goods.
