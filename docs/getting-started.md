@@ -189,6 +189,40 @@ Ideal for the transfer of data/information within a group of people sharing the 
 
 If you require GUI or Graphic User Interface for accessing requests over HTTP:// HTTPS:// domain name, Internet Protocol (IP) Address, Intranet Access, Cloud Storage, etc. you will need a [Browser](https://www.britannica.com/technology/browser "Browser - Britannica") with powerful capabilities that fetch and transport data over a network/service application. Microsoft Windows OS comes pre-bundled with [Internet Explorer](https://www.microsoft.com/en-in/download/internet-explorer.aspx "Internet Explorer - Microsoft Download Center") and [Apple MacOSx](https://www.apple.com/in/macos/how-to-upgrade/ "Apple macOS Catalina") comes pre-installed with Safari Browser, but if you are looking for an alternative to IE or [Safari](https://www.apple.com/in/safari/ "Apple Browser - Safari"), you can download [Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en&oco=0 "Google Chrome Desktop / Tablet") pre-installed with ([Google Chromebook](https://www.google.com/chromebook/whatsnew/ "Google Chromebook - Lightweight OS packed in a Laptop Device")) - First time user with [Google Chromebook - Here is What You Need](https://www.google.com/chromebook/howto/ "Google Chromebook - How To Videos") / [Chromium](https://www.chromium.org/chromium-os "Chromium OS") / [Canary (For Developers)](https://www.google.com/chrome/canary/ "Google Chrome Canary (Nightly build for developers) - Beta Version") - Do Note - Beta Version - Can be unstable in certain environments - that gives its users extensive set of options ranging from security validations to networking, security logs, with a fully-featured Console accessible via Ctrl + Shift + J (on Windows) or Ctrl Option J (on MacOSx) Shortcut - F12 Key on the keyboard. For website performance audits, accessibility, progressive web apps, SEO and more you can access [Lighthouse via Chrome](https://github.com/GoogleChrome/lighthouse/blob/master/readme.md "Lighthouse via Chrome"), access [Chrome Developers Tools](https://developers.google.com/web/tools/chrome-devtools "Google Chrome DevTools") for a complete breakdown of your website performance metrics. You can also download web pages in Offline Mode, Test .HTML/SAAS Markup Code bundled with CSS or Cascading Style Sheets .css, Javascript .js, [The PHP Development Team,](https://www.zend.com/about "About Zend and PHP") [Zend by Perforce](https://www.perforce.com/ "Perforce Software acquires Zend") (formerly Zend Technologies - still visible on [Ubuntu](https://ubuntu.com/download/desktop "Ubuntu Desktop / Laptop Download") Linux [LTS Web Server Releases](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean - Referral Link - Not Affiliated")) to test .php codes and much more.
 
+#### Accessing Pre-Releases or Prior Versions of Browser for Website Compatibility for certain Web Portals
+
+For example if you wish to view a website which is Best viewed at : 1024x768, IE 7, Firefox 3.6.3 - In your internet browser IE 7, Firefox 3.6.3 - There is a high probability that you'd be using a browser version different from what is mentioned. In order to resolve this issue - 
+
+I am currently using **© Microsoft Windows Pro N - 10.0.18362 by Microsoft Corporation with System Type - x64-based PC** connected to a stable internet connection by my Internet Service Provider/s via an Ethernet Network Adapter Card, whilst downloading IE 7 (© Microsoft 2020 Windows Internet Explorer 7) it automatically reads your system information and reflects the **stable release under GNU License**.
+
+**Download IE 7** (© Microsoft 2020 Windows Internet Explorer 7 for Windows 64 bit Client/Server) - https://www.microsoft.com/en-US/Download/confirmation.aspx?id=8356
+
+**Download Firefox 3.6.3** (Portions of this content are ©1998–2020 by individual mozilla.org contributors) - https://www.mozilla.org/en-US/firefox/releases/ - Scroll down to 3.6 > Download the Firefox Official Release from 3.6.3.
+
+Alternatively, you can get the direct link to read and understand the [Mozilla Firefox - Internet Browser **Release Notes **](https://www.mozilla.org/en-US/firefox/3.6.3/releasenotes/ "Mozilla Firefox - Internet Browser Release Notes")
+
+**Note:** Some releases require you to have a **Developer Account** with the organization **to experience beta releases** of the application.
+
+#### Adding User Input Data via XML to Secure Database
+
+Some websites require that you fill in all the details accurately on their portal and submit the same securely over an encrypted protocol. Once all important details are filled in you will be instructed to click on "**Generate XML**" Button for Authorisation and add data to their backend.
+
+#### Using **Adobe Acrobat Pro 10** to Validate and Highlight User to Fill in Missing Data and Proceed with Validation, Provide a Signature for Authenticity via Certificate-based signatures.
+
+Some governmental organizations instruct their applicants to use **Adobe Acrobat Pro 10 or higher** to fill the required electronic application form, digitally sign and verify that all data submitted via the encrypted .PDF is handled securely and transferred over to its network for review and processing. Once all important details are filled in you will be instructed to click on "**Validate**" Button for Authorisation and add data to their cloud/barebone data processing unit. If the form is validated, a page of barcode/s will be created, depending on the site architecture and build which can then be uploaded in your account dashboard whilst applying to their services/procuring goods. _This helps the environment as it is a sustainable approach to saving paper and ink whilst streamlining the entire process from the individual user to the processor_ (organization). Some organizations instruct the applicant to NOT use the “_signature panel_” button at the top of the application if instructed. To understand how you can provide a signature you can read an extensive set of articles uploaded on the [**Adobe User Guide/Help Section - Certificate-based signatures**](https://helpx.adobe.com/in/acrobat/using/certificate-based-signatures.html "Adobe User Guide/Help Section - Certificate-based signatures").
+
+If you run into errors whilst doing so, you may print the "validated" application on white, bond-quality ("_not bond paper_"), non-glossy paper. These are just some of the recommendations on how to achieve "best results". Use a laser printer. Sign and date your application. Send it to the address in the guide, along with any other documents that are required.
+
+[**System requirements | Adobe Acrobat Reader DC**](https://helpx.adobe.com/reader/system-requirements.html "System requirements | Adobe Acrobat Reader DC")
+
+Adobe Acrobat Reader DC software is the free global standard for reliably viewing, printing, and commenting on PDF documents. And now, it's connected to the [Adobe Document Cloud](https://acrobat.adobe.com/us/en/ "Adobe Document Cloud") − making it easier than ever to work across computers and mobile devices. It's the PDF viewer that can open and interact with all types of PDF content, including forms and multimedia. [Purchase Pro Version via Adobe.com](https://acrobat.adobe.com/in/en/acrobat/pricing.html " Purchase Pro Version via Adobe.com")
+
+[**Adobe Acrobat Reader DC Download Releases**](http://get.adobe.com/reader/otherversions/ "Adobe Acrobat Reader DC Download Releases") - 
+
+* Select the type of **OS or Operating System** you are currently using - **Windows 10**
+* Select the **Language** you are comfortable working with - In my case, I select, **English**
+* Select the Supported Version - **Reader DC 2020.006.20042 English for Windows**
+
 ## Slack for Teams
 
 New age communication platform for sharing data via [Slack.com](https://slack.com/intl/en-in/pricing "Slack.com Pricing Plans - Compare") accounts specifically designed for teams. If you are looking for organized spaces for everything related to a project, topic or team, you need to try Slack.
