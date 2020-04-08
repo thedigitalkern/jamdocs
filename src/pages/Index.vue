@@ -4,11 +4,11 @@
       <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
-        <Shortcut link="/web-dev" text="Web Development" icon="sliders-icon" />
-        <Shortcut link="/advertising-online-seo" text="Paid Advertising" icon="eye-icon" />
-	<Shortcut link="/software-gear-camera" text="Software and Gear Required" icon="image-icon" />
-        <Shortcut link="/image-optimisation-softwares" text="Image Optimisation Softwares" icon="layers-icon" />
+        <Shortcut link="/getting-started" text="Getting Started - Understanding Computer Specifications" icon="play-icon" />
+        <Shortcut link="/web-dev" text="Website Development" icon="sliders-icon" />
+        <Shortcut link="/software-gear-camera" text="Software and Gear Required" icon="image-icon" />
+	<Shortcut link="/image-optimisation-softwares" text="Image Optimisation Softwares/3D or 360° Product View" icon="layers-icon" />
+	<Shortcut link="/advertising-online-seo" text="Paid Advertising" icon="eye-icon" />    
       </nav>
       <GitLink class="git" size="large" />
     </div>
