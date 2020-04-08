@@ -79,53 +79,81 @@ Newer Hardware Components do affect your power consumption that can make it perf
 
 ## Securing Your Router
 
-Your current Internet Service Provider has configured your Router, Network Switch (in Corporate and Retail Environments offered by technology giants like [Cisco](https://www.cisco.com/c/en/us/about.html "Cisco"), [IBM](https://www.ibm.com/ibm/history/ibm100/us/en/icons/ "Computing-Tabulating-Recording Company or International Business Machines (IBM)"), [Dell](https://corporate.delltechnologies.com/en-us/newsroom.htm#/filter-on/Country:en-us "Newsroom | Dell Technologies")) with the latest firmware which in my case (AS55836) auto upgrades itself to bridge the gap of security breach over wired or wireless connections. In my case, I prefer **Internet Infrastructure in Mumbai, INDIA - Jio Giga Fiber Router offered by Reliance Jio Infocomm Limited** (AS55836) registered with **Asia-Pacific Network Information Center**. To further customize your networking experience - Login to your ISP Provided Network Router by entering 192.168.29.1 without https:// or https:// - Enter Default username - admin / Password - Provided to you at the bottom of your router / Contact your System Administrator. Once logged in Navigate to **Web Management** and **Block LMUI from WiFi** (You need a Desktop PC to connect via the above Router IP - **Enabling this option will disable access via Laptop over WiFi or Mobile device over WiFi Connected Network**). A small step to secure router, a secure IP and safe haven for your privacy that matters you may use 1.1.1.1 DNS or Domain Name Servers. Configure your Router as follows - Login to your **Router offered by Reliance Jio Infocomm Limited** (AS55836) registered with **Asia-Pacific Network Information Center as mentioned above as you might have been logged out due to inactivity of 03 minutes. Navigate to SECURITY (on the left navigation corner of your router dashboard) - Select FIREWALL -** IPv4 Firewall Rules and Add the following configuration - [**1.1.1.1 DNS**](https://1.1.1.1/dns/ "1.1.1.1 DNS - Privacy First: Guaranteed") / [**DNS Performance Analytics and Comparison**](https://www.dnsperf.com/#!dns-resolvers "DNS Performance Analytics and Comparison")
+Your current Internet Service Provider has configured your Router, Network Switch (in Corporate and Retail Environments offered by technology giants like [Cisco](https://www.cisco.com/c/en/us/about.html "Cisco"), [IBM](https://www.ibm.com/ibm/history/ibm100/us/en/icons/ "Computing-Tabulating-Recording Company or International Business Machines (IBM)"), [Dell](https://corporate.delltechnologies.com/en-us/newsroom.htm#/filter-on/Country:en-us "Newsroom | Dell Technologies")) with the latest firmware which in my case (AS55836) auto upgrades itself to bridge the gap of security breach over wired or wireless connections. In my case, I prefer **Internet Infrastructure in Mumbai, INDIA - Jio Giga Fiber Router offered by Reliance Jio Infocomm Limited** (AS55836) registered with **Asia-Pacific Network Information Center**. To further customize your networking experience - Login to your ISP Provided Network Router by entering 192.168.29.1 without https:// or https:// - Enter Default username - admin / Password - Provided to you at the bottom of your router / Contact your System Administrator. Once logged in Navigate to **Web Management** and **Block LMUI from WiFi** (You need a Desktop PC to connect via the above Router IP - **Enabling this option will disable access via Laptop over WiFi or Mobile device over WiFi Connected Network**). 
+
+A small step to secure router, a secure IP and safe haven for your privacy that matters you may use 1.1.1.1 DNS or Domain Name Servers. Configure your Router as follows - Login to your **Router offered by Reliance Jio Infocomm Limited** (AS55836) registered with **Asia-Pacific Network Information Center as mentioned above as you might have been logged out due to inactivity of 03 minutes. Navigate to SECURITY (on the left navigation corner of your router dashboard) - Select FIREWALL -** IPv4 Firewall Rules and Add the following configuration - [**1.1.1.1 DNS**](https://1.1.1.1/dns/ "1.1.1.1 DNS - Privacy First: Guaranteed") / [**DNS Performance Analytics and Comparison**](https://www.dnsperf.com/#!dns-resolvers "DNS Performance Analytics and Comparison")
 
 **Path as follows:** Security » Firewall » IPv4 Firewall Rules + Add new
 
-**IPv4 Firewall Rules Configuration**
+1. **IPv4 Firewall Rules Configuration**
 
-* Service - DNS
-* Action - Allow Always 
-* Schedule - No Schedule
-* Source IP Address - Any 
-* Destination IP Address - Single Address 
-* IP Address - 1.1.1.1
+* Service - **DNS**
+* Action - **Allow Always** 
+* Schedule - **No Schedule**
+* Source IP Address - **Any** 
+* Destination IP Address - **Single Address** 
+* IP Address - **1.1.1.1**
 
-**IPv4 Firewall Rules Configuration**
+2. **IPv4 Firewall Rules Configuration**
 
-* Service - DNS
-* Action - Allow Always 
-* Schedule - No Schedule
-* Source IP Address - Any 
-* Destination IP Address - Single Address 
-* IP Address - 1.0.0.1
+* Service - **DNS**
+* Action - **Allow Always** 
+* Schedule - **No Schedule**
+* Source IP Address - **Any** 
+* Destination IP Address - **Single Address** 
+* IP Address - **1.0.0.1**
 
-**Security » Firewall » IPv6 Firewall Rules**
+1. **Security » Firewall » IPv6 Firewall Rules**
 
-* IPv6 Firewall Rules Configuration
-* Rule Type - Inbound
-* Service - DNS
-* Action - Allow Always
-* Schedule - No Schedule
-* Source IP Address - Any
-* Destination IP Address - Single Address
-* IP Address - 2606:4700:4700::1111
+**Path as follows:__ IPv6 Firewall Rules Configuration ***Inbound**
 
-**Security » Firewall » IPv6 Firewall Rules**
+* Rule Type - **Inbound**
+* Service - **DNS**
+* Action - **Allow Always**
+* Schedule - **No Schedule**
+* Source IP Address - **Any**
+* Destination IP Address - **Single Address**
+* IP Address - **2606:4700:4700::1111**
 
-* IPv6 Firewall Rules Configuration
-* Rule Type - Inbound
-* Service - DNS
-* Action - Allow Always
-* Schedule - No Schedule
-* Source IP Address - Any
-* Destination IP Address - Single Address
-* IP Address - 2606:4700:4700::1001
+2. **Security » Firewall » IPv6 Firewall Rules**
+
+**Path as follows:__ IPv6 Firewall Rules Configuration ***Inbound**
+
+* Rule Type - **Inbound**
+* Service - **DNS**
+* Action - **Allow Always**
+* Schedule - **No Schedule**
+* Source IP Address - **Any**
+* Destination IP Address - **Single Address**
+* IP Address - **2606:4700:4700::1001**
+
+3. **Security » Firewall » IPv6 Firewall Rules**
+
+**Path as follows:__ IPv6 Firewall Rules Configuration ***Outbound**
+
+* Rule Type - **Outbound**
+* Service - **DNS**
+* Action - **Allow Always**
+* Schedule - **No Schedule**
+* Source IP Address - **Any**
+* Destination IP Address - **Single Address**
+* IP Address - **2606:4700:4700::1001**
+
+4. **Security » Firewall » IPv6 Firewall Rules**
+
+**Path as follows:__ IPv6 Firewall Rules Configuration ***Outbound**
+
+* Rule Type - **Outbound**
+* Service - **DNS**
+* Action - **Allow Always**
+* Schedule - **No Schedule**
+* Source IP Address - **Any**
+* Destination IP Address - **Single Address**
+* IP Address - **2606:4700:4700::1001**
 
 **VPN Passthrough**
 
-* IPsec - Set to "OFF"
+* IPsec - Set to "**OFF**"
 
 Further, you can Enable [DoS / DDoS Preventions](https://www.cloudflare.com/en-in/ddos/ "DoS / DDoS Preventions") via Security » Attack Checks » Dos / DDoS Preventions via the Admin Dashboard. This can cause serious damage even on your local network. Enabling it is a smarter option. [Turning off Remote Desktop Connections via Windows OS](https://support.microsoft.com/en-us/help/2477133/remote-desktop-disconnected-or-can-t-connect-to-remote-computer-or-rem "Remote Desktop Connection via Windows OS") along with disabling [Intel® Virtualization Technology](https://www.intel.in/content/www/us/en/virtualization/virtualization-technology/intel-virtualization-technology.html "Intel® Virtualization Technology") offered by Intel when not required allows additional security. To [check if your hardware along with software meets the Intel® Virtualization Technology requirements](https://www.intel.in/content/www/in/en/support/articles/000005486/processors.html " Intel® Virtualization Technology") you need to refer to this quick support guide. You need to enable it via BIOS as well. Do note that making changes to Hardware / Software / Drivers / BIOS / Networking Devices / Mobile Devices can cause critical damage and must require a professional with prior experience as each manufacturer defines options for input/output in the BIOS Firmware differently. Some changes are irreversible and can cause loss of data, connectivity and security breaches.
 
