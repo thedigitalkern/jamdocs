@@ -222,6 +222,8 @@ Adobe Acrobat Reader DC software is the free global standard for reliably viewin
 * Select the type of **OS or Operating System** you are currently using - **Windows 10**
 * Select the **Language** you are comfortable working with - In my case, I select, **English**
 * Select the Supported Version - **Reader DC 2020.006.20042 English for Windows**
+* Choose to opt-in/out of **Optional Offers** via Official Security Partners - **Total File Size**, **Agree to their Terms and Conditions** and **Proceed to Download**. 
+* **Note:** Make sure to [have adequate file storage requirements](https://support.microsoft.com/en-us/help/12425/windows-10-free-up-drive-space "Free up drive space in Windows 10") prior to installing the selected applications.
 
 ## Slack for Teams
 
