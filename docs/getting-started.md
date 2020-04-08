@@ -79,33 +79,35 @@ Newer Hardware Components do affect your power consumption that can make it perf
 
 ## Securing Your Router
 
-Your current Internet Service Provider has configured your Router, Network Switch (in Corporate and Retail Environments offered by technology giants like [Cisco](https://www.cisco.com/c/en/us/about.html "Cisco"), [IBM](https://www.ibm.com/ibm/history/ibm100/us/en/icons/ "Computing-Tabulating-Recording Company or International Business Machines (IBM)"), [Dell](https://corporate.delltechnologies.com/en-us/newsroom.htm#/filter-on/Country:en-us "Newsroom | Dell Technologies")) with the latest firmware which in my case (AS55836) auto upgrades itself to bridge the gap of security breach over wired or wireless connections. In my case, I prefer **Internet Infrastructure in Mumbai, INDIA - Jio Giga Fiber Router offered by Reliance Jio Infocomm Limited** (AS55836) registered with **Asia-Pacific Network Information Center**. To further customize your networking experience - Login to your ISP Provided Network Router by entering 192.168.29.1 without https:// or https:// - Enter Default username - admin / Password - Provided to you at the bottom of your router / Contact your System Administrator. Once logged in Navigate to **Web Management** and **Block LMUI from WiFi** (You need a Desktop PC to connect via the above Router IP - **Enabling this option will disable access via Laptop over WiFi or Mobile device over WiFi Connected Network**). 
+Your current Internet Service Provider has configured your Router, Network Switch (in Corporate and Retail Environments offered by technology giants like [Cisco](https://www.cisco.com/c/en/us/about.html "Cisco"), [IBM](https://www.ibm.com/ibm/history/ibm100/us/en/icons/ "Computing-Tabulating-Recording Company or International Business Machines (IBM)"), [Dell](https://corporate.delltechnologies.com/en-us/newsroom.htm#/filter-on/Country:en-us "Newsroom | Dell Technologies")) with the latest firmware which in my case (AS55836) auto upgrades itself to bridge the gap of security breach over wired or wireless connections. In my case, I prefer **Internet Infrastructure in Mumbai, INDIA - Jio Giga Fiber Router offered by Reliance Jio Infocomm Limited** (AS55836) registered with **Asia-Pacific Network Information Center**. To further customize your networking experience - Login to your ISP Provided Network Router by entering 192.168.29.1 without https:// or https:// - Enter Default username - admin / Password - Provided to you at the bottom of your router / Contact your System Administrator. Once logged in Navigate to **Web Management** and **Block LMUI from WiFi** (You need a Desktop PC to connect via the above Router IP - **Enabling this option will disable access via Laptop over WiFi or Mobile device over WiFi Connected Network**).
 
-A small step to secure router, a secure IP and safe haven for your privacy that matters you may use 1.1.1.1 DNS or Domain Name Servers. Configure your Router as follows - Login to your **Router offered by Reliance Jio Infocomm Limited** (AS55836) registered with **Asia-Pacific Network Information Center as mentioned above as you might have been logged out due to inactivity of 03 minutes. Navigate to SECURITY (on the left navigation corner of your router dashboard) - Select FIREWALL -** IPv4 Firewall Rules and Add the following configuration - [**1.1.1.1 DNS**](https://1.1.1.1/dns/ "1.1.1.1 DNS - Privacy First: Guaranteed") / [**DNS Performance Analytics and Comparison**](https://www.dnsperf.com/#!dns-resolvers "DNS Performance Analytics and Comparison")
+A small step to secure router, a secure IP and safe haven for your privacy that matters you may use 1.1.1.1 DNS or Domain Name Servers. Configure your Router as follows - Login to your **Router offered by Reliance Jio Infocomm Limited** (AS55836) registered with **Asia-Pacific Network Information Center as mentioned above as you might have been logged out due to inactivity of 03 minutes. Navigate to SECURITY (on the left navigation corner of your router dashboard) - Select FIREWALL -** IPv4 Firewall Rules and Add the following configuration - [**1.1.1.1 DNS**](https://1.1.1.1/dns/ "1.1.1.1 DNS - Privacy First: Guaranteed") / [**DNS Performance Analytics and Comparison **](https://www.dnsperf.com/#!dns-resolvers "DNS Performance Analytics and Comparison")
+
+**Note:** Make sure to **NOT change the WAN Policy in the Router** Backend. The following configuration is only intended for **implementing a Firewall Policy** as opposed to changing using this service as a **VPN to override Firewall Rules** set by your Systems Administrator.
 
 **Path as follows:** Security » Firewall » IPv4 Firewall Rules + Add new
 
 1. **IPv4 Firewall Rules Configuration**
 
 * Service - **DNS**
-* Action - **Allow Always** 
+* Action - **Allow Always**
 * Schedule - **No Schedule**
-* Source IP Address - **Any** 
-* Destination IP Address - **Single Address** 
+* Source IP Address - **Any**
+* Destination IP Address - **Single Address**
 * IP Address - **1.1.1.1**
 
-2. **IPv4 Firewall Rules Configuration**
+1. **IPv4 Firewall Rules Configuration**
 
 * Service - **DNS**
-* Action - **Allow Always** 
+* Action - **Allow Always**
 * Schedule - **No Schedule**
-* Source IP Address - **Any** 
-* Destination IP Address - **Single Address** 
+* Source IP Address - **Any**
+* Destination IP Address - **Single Address**
 * IP Address - **1.0.0.1**
 
 1. **Security » Firewall » IPv6 Firewall Rules**
 
-**Path as follows:__ IPv6 Firewall Rules Configuration ***Inbound**
+\**Path as follows:__ IPv6 Firewall Rules Configuration ***Inbound**
 
 * Rule Type - **Inbound**
 * Service - **DNS**
@@ -115,9 +117,9 @@ A small step to secure router, a secure IP and safe haven for your privacy that 
 * Destination IP Address - **Single Address**
 * IP Address - **2606:4700:4700::1111**
 
-2. **Security » Firewall » IPv6 Firewall Rules**
+1. **Security » Firewall » IPv6 Firewall Rules**
 
-**Path as follows:__ IPv6 Firewall Rules Configuration ***Inbound**
+\**Path as follows:__ IPv6 Firewall Rules Configuration ***Inbound**
 
 * Rule Type - **Inbound**
 * Service - **DNS**
@@ -127,9 +129,9 @@ A small step to secure router, a secure IP and safe haven for your privacy that 
 * Destination IP Address - **Single Address**
 * IP Address - **2606:4700:4700::1001**
 
-3. **Security » Firewall » IPv6 Firewall Rules**
+1. **Security » Firewall » IPv6 Firewall Rules**
 
-**Path as follows:__ IPv6 Firewall Rules Configuration ***Outbound**
+\**Path as follows:__ IPv6 Firewall Rules Configuration ***Outbound**
 
 * Rule Type - **Outbound**
 * Service - **DNS**
@@ -139,9 +141,9 @@ A small step to secure router, a secure IP and safe haven for your privacy that 
 * Destination IP Address - **Single Address**
 * IP Address - **2606:4700:4700::1001**
 
-4. **Security » Firewall » IPv6 Firewall Rules**
+1. **Security » Firewall » IPv6 Firewall Rules**
 
-**Path as follows:__ IPv6 Firewall Rules Configuration ***Outbound**
+\**Path as follows:__ IPv6 Firewall Rules Configuration ***Outbound**
 
 * Rule Type - **Outbound**
 * Service - **DNS**
@@ -181,7 +183,7 @@ If you are planning on using a wired connection to access the internet via your 
 
 ## Network Attached Storage or NAS Drives
 
-Ideal for transfer of data/information within a group of people sharing the same network drive (Sharing of Secured Data, [Redundant Array of Independent Disks (RAID)](https://www.pcmag.com/encyclopedia/term/raid "PC Mag - Redundant Array of Independent Disks (RAID) Terminology") or Redundancy Storage). You can use these to transfer data over a secured network within a home/organization/host a micro instance of a website/blog. [Synology](https://www.synology.com/en-global "Synology Inc.") provides that infrastructure for small scale homeowners looking to backup data for RAID Devices / Redundancy purposes to Large scale enterprises looking to host a complex data storage service for its employees or simply use it as a Video Surveillance System. View the detailed video by [f-stoppers.com](https://youtu.be/RGVPeB98zWI "How To Build A 10Gb/s Network/Server"). Do note, some of the Synology NAS devices do not come with hard drives attached in-built. You will need to purchase [external SSDs/hard drives](https://pcpartpicker.com/products/external-hard-drive/#sort=-interface "PCPartPicker External SSDs - Check for Compatibility with Synology NAS Devices"), Intel® [Ethernet Converged Network Adapter Cards](https://pcpartpicker.com/products/wired-network-card/#sort=ports&page=1 "PCPartPicker - Choose A Wired Network Adapters") that support up to 1GbE  which will be installed as an external hardware component via PCI/e slots for this to work at maximum performance via CAT6/7 Cables along with a [Cisco® Network Switch](https://www.cisco.com/c/en_in/solutions/small-business/resource-center/networking/network-switch-what.html "Cisco® Network Switch"). To keep the NAS or Storage Attached Network (SAN) Device always connected to your Workstation you would need to invest in [Uninterrupted Power Supply](https://pcpartpicker.com/products/ups/ "PCPartPicker - Uninterrupted Power Supply") (UPS - not to be confused with the logistics company) in case of loss of power shortages/power failure/power surge to the motherboard.
+Ideal for the transfer of data/information within a group of people sharing the same network drive (Sharing of Secured Data, [Redundant Array of Independent Disks (RAID)](https://www.pcmag.com/encyclopedia/term/raid "PC Mag - Redundant Array of Independent Disks (RAID) Terminology") or Redundancy Storage). You can use these to transfer data over a secured network within a home/organization/host a micro instance of a website/blog. [Synology](https://www.synology.com/en-global "Synology Inc.") provides that infrastructure for small scale homeowners looking to backup data for RAID Devices / Redundancy purposes to Large scale enterprises looking to host a complex data storage service for its employees or simply use it as a Video Surveillance System. View the detailed video by [f-stoppers.com](https://youtu.be/RGVPeB98zWI "How To Build A 10Gb/s Network/Server"). Do note, some of the Synology NAS devices do not come with hard drives attached in-built. You will need to purchase [external SSDs/hard drives](https://pcpartpicker.com/products/external-hard-drive/#sort=-interface "PCPartPicker External SSDs - Check for Compatibility with Synology NAS Devices"), Intel® [Ethernet Converged Network Adapter cards](https://pcpartpicker.com/products/wired-network-card/#sort=ports&page=1 "PCPartPicker - Choose A Wired Network Adapters") that support up to 1GbE  which will be installed as an external hardware component via PCI/e slots for this to work at maximum performance via CAT6/7 Cables along with a [Cisco® Network Switch](https://www.cisco.com/c/en_in/solutions/small-business/resource-center/networking/network-switch-what.html "Cisco® Network Switch"). To keep the NAS or Storage Attached Network (SAN) Device always connected to your Workstation you would need to invest in [Uninterrupted Power Supply](https://pcpartpicker.com/products/ups/ "PCPartPicker - Uninterrupted Power Supply") (UPS - not to be confused with the logistics company) in case of loss of power shortages/power failure/power surge to the motherboard.
 
 ## Browser Integration
 
