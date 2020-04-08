@@ -217,7 +217,7 @@ DigitalOcean's terms of service prohibit adding country code top-level domains (
 
 ## Deploy a Webserver via Digitalocean
 
-* **Do Note** - Deploying a Webserver via DigitalOcean requires coding knowledge hence **keep SSH Commands for Ubuntu Linux along with FTP Client handy**. You would need to download [**KiTTY**](http://www.9bis.net/kitty/#!pages/download.md "KiTTY") is a fork from version 0.71 of **PuTTY**, the best installable telnet / SSH client in the world.
+* **Do Note** - Deploying a Webserver via DigitalOcean requires coding knowledge hence **keep SSH Commands for Ubuntu Linux along with SFTP Client handy**. You would need to download [**KiTTY**](http://www.9bis.net/kitty/#!pages/download.md "KiTTY") is a fork from version 0.71 of **PuTTY**, the best installable telnet / SSH client in the world.
 
     
   KiTTY is only designed for the Microsoft® Windows® platform and [PuTTYgen](https://www.puttygen.com/) which is a key generator tool for creating pairs of public and private SSH keys. It is one of the components of the open-source networking client PuTTY. Although originally written for Microsoft Windows operating system, it is now officially available for multiple operating systems including macOS, Linux. PuTTYgen.exe is the graphical tool on Windows OS. While on the other side, Linux OS has the only command-line version that could be accessible using [SSH commands](https://www.puttygen.com/ssh-commands).
