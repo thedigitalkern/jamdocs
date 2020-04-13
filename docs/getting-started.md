@@ -192,7 +192,7 @@ If you require GUI or Graphic User Interface for accessing requests over HTTP://
 #### Google Chrome
 
 * Enter **chrome://settings/help** in your Google Chrome Browser Address Bar / URL without any prefix or suffix - Navigate to **About Chrome** and **update your browser to the latest version**. Once done, **Relaunch** Google Chrome Browser.
-* Enter **chrome://flags/** - Search and **Enable the following -** 
+* Enter **chrome://flags/** - Search and **Enable the following -**
   * **Override software rendering list -** Overrides the built-in software rendering list and enables GPU-acceleration on unsupported system configurations. – Mac, Windows, Linux, Chrome OS, Android - [#ignore-gpu-blacklist](chrome://flags/#ignore-gpu-blacklist)
   * **Smooth Scrolling** - Animate smoothly when scrolling page content. – Windows, Linux, Chrome OS, Android - [#smooth-scrolling](chrome://flags/#smooth-scrolling)
   * **SMS Receiver Cross Device** - Enable the SMS Receiver API to work across devices – Mac, Windows, Linux, Chrome OS, Android - [#sms-receiver-cross-device](chrome://flags/#sms-receiver-cross-device)
@@ -293,3 +293,56 @@ Get an in-depth look at the [LogMeIn Pro](https://www.logmein.com/pro/features "
 Get [**Support for LogMeIn**](https://support.logmeininc.com/ "Support for LogMeIn and other Applications") **Pro / Central** under **Identity & Access Tab.**
 
 ## Remote Access Guidelines
+
+Apart from the above steps that you'd need to implement on your individual browsers for TLS1.3 with QUIC Protocols, kindly download the latest compatible and stable release of [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework "Download .NET Framework - .NET Framework is a Windows-only version of .NET for building any type of app that runs on Windows.") and [Visual C++ Redistributables](https://support.microsoft.com/en-in/help/2977003/the-latest-supported-visual-c-downloads "Visual C++ Redistributables - The latest supported Visual C++ downloads - Applies to: Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, Visual Studio 2015, Visual Studio 2017, Visual Studio 2019 Download") - The latest supported Visual C++ downloads - Applies to: Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, Visual Studio 2015, Visual Studio 2017 and Visual Studio 2019. Download [DirectX End-User Runtime Web Installer](https://www.microsoft.com/en-in/download/details.aspx?id=35 "The Microsoft DirectX® End-User Runtime - DirectX End-User Runtime Web Installer") - The Microsoft DirectX® End-User Runtime installs a number of runtime libraries from the legacy DirectX SDK for some games that use D3DX9, D3DX10, D3DX11, XAudio 2.7, XInput 1.3, XACT, and/or Managed DirectX 1.1.
+
+* Follow steps to secure log out after each session from [VMWare Instance](https://www.vmware.com/in/products/workstation-pro.html "VMware Workstation - Workstation Pro") to save server memory. Check Citrix / LogMeIn Pro **System Logs** for Timeout Activity on re-login.
+
+**Note:** Clear Browser Privacy Settings Prior to log in to Citrix Workspace (***before deploying the second instance) and also after securely signing out from the VMWare Instance followed by logging out securely from your home workstation.
+
+* Save a copy of License Agreement *(in your case you will see a set of _Alphanumeric Code_) displayed before a successful installation of Citrix Workspace Application on Windows OS - and TOS or Terms of Service as implemented by your organization or any of its subsidiaries. This is important as the TOS and License Agreements keep changing as per company norms. Remember, you are liable for any loss of revenue via Breach of any manner whilst working from anyplace apart from registered businesses.
+
+
+* Save Citrix my workspace logs to home workstations or upload it securely to [Mega.nz](https://mega.nz/aff=VR-Z4PPHdTM "MEGA provides free cloud storage with convenient and powerful always-on privacy with 50GB of Storage for Free.") or [Dropbox](https://db.tt/2aGJqaWVft "Dropbox - Free File Storage 2GB") or [WeTransfer](https://wetransfer.com/sign-up?trk=WT201610_HalfPanel_GotPlusClick_tierFree&tier=free "WeTransfer.com - One-Time Simple file-sharing and No registration") or [OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage "OneDrive Basic 5 GB") for reference in case of any disputes arising later.
+
+
+* Report sign on and sign off to your IT or Information Technology Department Administrators to adhere to workspace guidelines and easy track of payments *(in case of work per hour). A simple Google Sheets or .xls file would just prove beneficial.
+
+
+* Once you resume work in the company environment (*registered workplace), disable Virtualization Technology via BIOS or ask IT, Administrator, to perform these functions for you and disable all Remote Desktop Instances.
+
+
+* Always ensure that you're connected to any websites via **secure 443 or 80 Ports at all times** with Port Forwarding Disabled.
+
+
+* Inform your IT Supervisor or Administrator about whitelisting your registered [MAC ID](https://kb.netgear.com/1005/How-do-I-find-my-device-s-MAC-address "Netgear - Computer or Mobile Device’s - Media Access Control Address (MAC address)") / Static IP Address / ISP Provider details for added security.
+
+
+* If accessing Citrix Workspace via Web Application on Ubuntu Distros, follow guidelines and adhere to Software License / [GNU License](https://www.gnu.org/licenses/gpl-3.0.en.html#content "GNU GENERAL PUBLIC LICENSE") - if using a free/open-source software.
+
+
+* You are most likely to save your Login Credentials on Google Password Manager *(if using Chrome 80 or Canary in Dev Mode). Kindly change that upon 14 Days Window. You can use [LastPass](https://www.lastpass.com/pricing "LastPass (from LogMeIn), an award-winning password manager, saves your passwords and gives you secure access from every computer and mobile device.") (by LogMeIn) or [1Password](https://1password.com/ "1Password - A password manager, digital vault, form filler and secure digital wallet. 1Password remembers all your passwords for you to help keep account information safe.").
+
+
+* Do Not Download [RSA Authenticator](https://www.rsa.com/en-us/products/rsa-securid-suite "Identity and Access Management by RSA Identity Suite") / [2FA or Two Factor Authenticator](https://www.wired.com/story/two-factor-authentication-apps-authy-google-authenticator/ "Wired.com - How to Secure Your Accounts With Better Two-Factor Authentication - Two-factor authentication is a must, but don't settle for the SMS version. Use a more secure authenticator app instead.") / [Yubi Key](https://www.wired.com/story/how-to-use-a-yubikey/ "Wired.com - YubiKey - Simplify and Secure Your Online Logins With a YubiKey - These simple, battery-free devices provide an easy way to securely verify that it's really you who's trying to access your online accounts.") provided by your organization on *Rooted Android Devices or *Jailbroken iOS Devices / *Multi-OS Hacked MacOS (Hackintosh) on Windows Virtual Machines *(vice versa).
+
+
+* Always check that your drivers are always updated. If updated via official manufacturer/software provider websites or via [DriversCloud.com](https://www.driverscloud.com/en/features "This service provides direct access to the Driverscloud driver database. All the drivers of the database are sorted by manufacturer, then by component.") *(French-based Translations) is a Third Party Software that allows updating your system drivers to the latest versions in case you're using custom-built machines. It automatically creates a system restore point prior to installing drivers or Applications for your custom hardware.
+
+
+* Ensure that you're connected to your local workstation via CAT 7 Cable to the Router over WiFi Networks *(Shared or Single) for stable connectivity as you're using [Virtualization by Intel](https://www.intel.in/content/www/in/en/virtualization/virtualization-technology/intel-virtualization-technology.html "Intel® Virtualization Technology (Intel® VT) - Virtualization abstracts hardware that allows multiple workloads to share a common set of resources. On shared virtualized hardware, a variety of workloads can co-locate while maintaining full isolation from each other, freely migrate across infrastructures, and scale as needed.") via VMWare which is an internet data-intensive web application.
+
+
+* Make sure to download Windows 10 Pro N Activated Copy on 64x Bit Installs for such instances.
+
+
+* Use NAS or Network Attached Storage Systems by Synology over [Cisco Network Switches](https://www.cisco.com/c/en_in/products/switches/index.html "Cisco's fixed and modular, core, distribution, and access LAN switches have been designed for a new era of intent-based networking.") for securely transmitting data for redundancy or raid architecture via TCP Protocols in case you're not comfortable with Third-Party Cloud Applications such as [Mega.nz](https://mega.nz/aff=VR-Z4PPHdTM "MEGA provides free cloud storage with convenient and powerful always-on privacy with 50GB of Storage for Free.") or [Dropbox](https://db.tt/2aGJqaWVft "Dropbox - Free File Storage 2GB") or [WeTransfer](https://wetransfer.com/sign-up?trk=WT201610_HalfPanel_GotPlusClick_tierFree&tier=free "WeTransfer.com - One-Time Simple file-sharing and No registration") or [OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage "OneDrive Basic 5 GB")
+
+
+* Intranet Services via [Synology](https://www.synology.com/en-in/support/nas_selector "Synology - NAS Selector") are preferred when you're working in smaller organizations to transfer data.
+
+
+* Ask your company IT Administrator or Supervisor to replace Thermal Paste using [Arctic Thermal Paste](https://pcpartpicker.com/products/thermal-paste/#m=191 "Buy Arctic Thermal Paste") to keep your workstations running on low temperatures for better efficiency. This step can void your Company's Warranty. Ideal for recovering systems over 2-3 Years for a sustainable environment.
+
+
+* Ensure not to upload data from local workstations to office workstations - instead use Cloud or Online Applications such as Google Docs, Sheets, Slides.
