@@ -12,9 +12,30 @@ This documentation is intended for viewers of [The Digital Kern - thedigitalkern
 
 This Documentation Guide is intended that you have basic knowledge of how a computer works with basic knowledge of [Operating System - Windows by Microsoft](https://www.microsoft.com/en-in/windows/get-windows-10 "Operating System - Windows by Microsoft")®, [Microsoft](https://www.britannica.com/technology/MS-DOS "Microsoft Disk Operating System or MS-DOS")®[ Disk Operating System or MS-DOS](https://www.britannica.com/technology/MS-DOS "Microsoft Disk Operating System or MS-DOS") or [Windows Powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7 "Windows Powershell") Commands required ([.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework ".NET Framework")), an active internet connection with a substantial amount of bandwidth provided by your choice of Internet Service Provider or ISP, latest drivers pre-installed with your workstation provided by the Manufacturer or use [DriversCloud.com](https://www.driverscloud.com/ "DriversCloud.com") for fetching drivers automatically from digitally signed manufacturer websites or via third party sources offered at DriversCloud.com.
 
+## Download Official Microsoft Windows Operating System
+
+To get started, you will first need to **have a license to install Windows 10**. If you don't have a license to install Windows 10 and have not yet previously upgraded to it, you can [Purchase via Microsoft](https://www.microsoft.com/en-us/windows/get-windows-10 "Purchase via Microsoft").
+
+**Note:** If you previously upgraded to Windows 10 on this PC and you’re reinstalling it, you don’t need to enter a product key. Your copy of Windows 10 will automatically activate later using your digital license.
+
+You can then download and run the media creation tool. For more information on how to use the tool, see the instructions on the [Official Microsoft Media Creation Tools Download Page](https://www.microsoft.com/en-in/software-download/windows10 " Official Microsoft Media Creation Tools Download Page")
+
+You can do the following - 
+
+* **Create Windows 10 installation media**
+  * Using the tool to create installation media (USB flash drive, DVD, or ISO file) to **install Windows 10 on a different PC**.
+  * Using the tool to **upgrade your current PC to Windows 10**.
+  * Using the installation media you created **for other** [**Microsoft devices** such as Surface Pro](https://www.microsoft.com/en-us/surface/devices/compare-devices "Buy Microsoft devices such as Surface Pro"). Download [drivers for Surface](https://support.microsoft.com/en-in/help/4023482/surface-download-drivers-and-firmware "Download drivers and firmware for Surface") devices.
+
+
+* [Sign in to the Volume Licensing Service Center](https://www.microsoft.com/licensing/servicecenter/default.aspx "Sign in to the Volume Licensing Service Center  to download Enterprise editions")
+* [Sign in to your subscription on the MSDN Portal for MSDN](https://my.visualstudio.com/downloads "Sign in to your subscription on the MSDN Portal for MSDN downloads")
+* [Visit the Windows Insider site to download Insider Preview builds](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso "Visit the Windows Insider site to download Insider Preview builds")
+* [Visit the Download Academic Products page for Education editions](https://www.microsoft.com/en-us/software-download/vlacademicwindows10 "Visit the Download Academic Products page for Education editions") (product key required)
+
 ## Updating Drivers and System Restore Point
 
-The reason I recommend DriversCloud.com is because it allows the user to set a [System Restore Point](https://support.microsoft.com/en-in/help/4027538/windows-create-a-system-restore-point "System Restore Point") on your existing Operating System prior to making any changes to the system drivers. You can always opt-out of the "change your default browser or allow it to add any further extensions to your browser apart from what is recommended upon setup. It is strongly advised that you as a user check that you are running the latest version of [Windows 10 Pro N (x64)](https://www.microsoft.com/en-is/p/windows-10-pro-n/dg7gmgf0dt06 "Windows 10 Pro N") that gives you the access to approximately 85% of Random Access Memory or RAM. Also, I find this resource quite useful on [How to Find Windows 10 Computer Specifications & Systems Requirements](https://www.microsoft.com/en-in/windows/windows-10-specifications "How to Find Windows 10 Computer Specifications & Systems Requirements") before opting in to upgrading your existing Operating System and resolve any clarifications of whether your existing Hardware Components can or will support the upgrade.
+The reason I recommend DriversCloud.com is because it allows the user to set a [System Restore Point](https://support.microsoft.com/en-in/help/4027538/windows-create-a-system-restore-point "System Restore Point") on your existing Operating System prior to making any changes to the system drivers. You can always opt-out of the "change your default browser or allow it to add any further extensions to your browser apart from what is recommended upon setup. It is strongly advised that you as a user check that you are running the latest version of [Windows 10 Pro N (x64)](https://www.microsoft.com/en-is/p/windows-10-pro-n/dg7gmgf0dt06 "Windows 10 Pro N") that gives you access to approximately 85% of Random Access Memory or RAM. Also, I find this resource quite useful on [How to Find Windows 10 Computer Specifications & Systems Requirements](https://www.microsoft.com/en-in/windows/windows-10-specifications "How to Find Windows 10 Computer Specifications & Systems Requirements") before opting in to upgrading your existing Operating System and resolve any clarifications of whether your existing Hardware Components can or will support the upgrade.
 
 ## Future-Proofing does not only mean spending more, think of it more like an investment (*subject to market risks)
 
@@ -32,7 +53,7 @@ The following information is intended for - **Consumer/s**, this will prove valu
 
 * Multi-platform protection - **Secure all your devices with a single license**. No matter if you run on a **Windows, Mac, Android or Linux** - we got you covered!
 * Everything you might need - **Secure your digital identity and payments**. **Protect your laptop from theft or loss.** Keep your children **safe** online.
-* Secure your treasured data - **Encrypt your files and removable media**. **Protect them against the theft or loss.** Ensure **secure collaboration and data sharing**.
+* Secure your treasured data - **Encrypt your files and removable media**. **Protect them against theft or loss.** Ensure **secure collaboration and data sharing**.
 * Legendary antivirus technology - Protect yourself from **ransomware and other types of malware with ESET's time-proven multilayered protection**.
 
 **What's inside -**
