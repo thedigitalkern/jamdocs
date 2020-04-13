@@ -4,6 +4,8 @@ date: 2020-03-30
 slug: getting-started
 
 ---
+"Technology. It's advancing faster and taking less time to be widely adopted than ever before like as it took roughly 10,000 years to get from Writing to Printing Press but only about 500 more to get to Email. Now it seems we are at the dawn of a new age. The age of AI. Artificial Intelligence. The best way to learn a subject is to teach it." - [Robert Downey Jr. - How Far is Too Far? | The Age of AI - YouTube Originals](https://youtu.be/UwsrzCVZAb8 "Robert Downey Jr. - How Far is Too Far? | The Age of AI - YouTube Originals")
+
 ## Build a Custom Desktop Computer . Workstation and Understanding Computer Specifications
 
 This documentation is intended for viewers of [The Digital Kern - thedigitalkern.com](/getting-started "The Digital Kern"), built to spin up quick, beautiful and high-performance custom machines without hassle, first, then follow along the journey to building websites for small to medium scale businesses.
@@ -283,11 +285,11 @@ Adobe Acrobat Reader DC software is the free global standard for reliably viewin
 
 **Adobe Acrobat DC** Feature - PDF form creator - Digital, Fillable PDFs. **Turn your existing forms into fillable PDF forms.** The PDF form creator breathes new life into old forms and paper documents by turning them into digital, fillable PDFs.
 
-* Whether it’s a scan or a simple form made with Microsoft Word, Excel, or any other application, Adobe Acrobat gives you a simple way to make it smarter with signature fields, calculations, and much more. **Here’s how -** 
+* Whether it’s a scan or a simple form made with Microsoft Word, Excel, or any other application, Adobe Acrobat gives you a simple way to make it smarter with signature fields, calculations, and much more. **Here’s how -**
   * Acrobat automatically recognizes static form fields and converts them to fillable text fields when you convert your scanned paper forms or digital files.
-  * Move text fields around. Change headings. Insert buttons. Add, delete, and drag and drop form fields or enable fields for e-signatures. You can even add calculations and data validation rules to your form. 
+  * Move text fields around. Change headings. Insert buttons. Add, delete, and drag and drop form fields or enable fields for e-signatures. You can even add calculations and data validation rules to your form.
   * You can easily email forms with fillable fields using a shared link, so you can view the status of replies and send reminders to people who haven’t responded.
-  * Use JavaScript to enhance your PDF documents even more by adding calculations, validations, and assigned action buttons to your forms. 
+  * Use JavaScript to enhance your PDF documents even more by adding calculations, validations, and assigned action buttons to your forms.
 * **Related Features**
   * Scan to PDF
   * Combine files into one PDF
