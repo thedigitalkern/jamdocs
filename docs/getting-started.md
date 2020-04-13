@@ -14,7 +14,7 @@ This Documentation Guide is intended that you have basic knowledge of how a comp
 
 ## Download Official Microsoft Windows Operating System
 
-To get started, you will first need to **have a license to install Windows 10**. If you don't have a license to install Windows 10 and have not yet previously upgraded to it, you can [Purchase via Microsoft](https://www.microsoft.com/en-us/windows/get-windows-10 "Purchase via Microsoft").
+To get started, you will first need to **have a license to install Windows 10**. If you don't have a license to install Windows 10 and have not yet previously upgraded to it, you can [Purchase via Microsoft](https://www.microsoft.com/en-us/windows/get-windows-10 "Purchase via Microsoft"). 
 
 **Note:** If you previously upgraded to Windows 10 on this PC and you’re reinstalling it, you don’t need to enter a product key. Your copy of Windows 10 will automatically activate later using your digital license.
 
@@ -22,9 +22,12 @@ You can then download and run the media creation tool. For more information on h
 
 You can do the following - 
 
+* Make sure to keep all installation files for software that you have installed on your existing machine that you are planning to upgrade or regularly use with their individual license keys. Make sure to backup your digital content on cloud storage or external devices such as USB sticks or SSD drives.
+
+
 * **Create Windows 10 installation media**
-  * Using the tool to create installation media (USB flash drive, DVD, or ISO file) to **install Windows 10 on a different PC**.
-  * Using the tool to **upgrade your current PC to Windows 10**.
+  * Using the tool to create installation media (USB flash drive, DVD, or ISO file) to **install Windows 10 on a different PC**. 
+  * Using the tool to **upgrade your current PC to Windows 10**. 
   * Using the installation media you created **for other** [**Microsoft devices** such as Surface Pro](https://www.microsoft.com/en-us/surface/devices/compare-devices "Buy Microsoft devices such as Surface Pro"). Download [drivers for Surface](https://support.microsoft.com/en-in/help/4023482/surface-download-drivers-and-firmware "Download drivers and firmware for Surface") devices.
 
 
@@ -33,7 +36,23 @@ You can do the following -
 * [Visit the Windows Insider site to download Insider Preview builds](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso "Visit the Windows Insider site to download Insider Preview builds")
 * [Visit the Download Academic Products page for Education editions](https://www.microsoft.com/en-us/software-download/vlacademicwindows10 "Visit the Download Academic Products page for Education editions") (product key required)
 
-## Updating Drivers and System Restore Point
+Once the OS + drivers are installed with your set of required licensed software, you can scan the backed-up content on another system or freshly installed system with the Anti-Virus / Anti-Malware Software and begin the transfer of files.
+
+You can also create another set of USB Stick containing [Rootkit Hunter via ESET](https://www.eset.com/in/download-utilities/ "Download ESET Tools and Utilities") and scan your existing system for fixing any malware or virus related issues. 
+
+[Recovery options in Windows 10](https://support.microsoft.com/en-in/help/12415 "Recovery options in Windows 10 - If you're having problems with your PC, the following table can help you decide which recovery option to use.") - If you're having problems with your PC, the following table can help you decide which recovery option to use.
+
+## System Restore to Factory Settings
+
+Fresh installation can be performed via the above methods or via System Restore to Factory Settings - Keep existing data or Fresh install via erasing all user-created files and applications.
+
+* [How to Restore Windows on **Acer** Using Alt + F10 on Startup](https://us.answers.acer.com/app/answers/detail/a_id/35232/\~/how-to-restore-windows-on-my-acer-computer-using-alt-%2B-f10-on-startup "How to Restore Windows on Acer Using Alt + F10 on Startup")
+* [Restoring Your Computer´s Software to the Factory Settings on **Dell**](https://www.dell.com/support/article/en-in/sln297920/reset-or-reinstall-windows-10-on-your-dell-computer?lang=en "Restoring Your Computer´s Software to the Factory Settings on Dell")
+* [Reset Your Computer to Factory Settings (**HP and Compaq**)](https://support.hp.com/in-en/document/c00006110 "Reset Your Computer to Factory Settings (HP and Compaq)")
+* [Restore the system to factory default settings (**Asus**)](https://www.asus.com/en/support/FAQ/1013065/ "Restore the system to factory default settings (Asus)")
+* [Factory Reset from BIOS (**Oracle Linux for MICROS**)](https://docs.oracle.com/cd/E72999_01/doc.10/e73098/t_system_recovery_bios.htm#PerformingAFactoryResetFromBIOS-E08DCB89 "Factory Reset from BIOS (Oracle Linux for MICROS)")
+
+## Updating Drivers, System Restore Point and System Rescue Disk via ESET
 
 The reason I recommend DriversCloud.com is because it allows the user to set a [System Restore Point](https://support.microsoft.com/en-in/help/4027538/windows-create-a-system-restore-point "System Restore Point") on your existing Operating System prior to making any changes to the system drivers. You can always opt-out of the "change your default browser or allow it to add any further extensions to your browser apart from what is recommended upon setup. It is strongly advised that you as a user check that you are running the latest version of [Windows 10 Pro N (x64)](https://www.microsoft.com/en-is/p/windows-10-pro-n/dg7gmgf0dt06 "Windows 10 Pro N") that gives you access to approximately 85% of Random Access Memory or RAM. Also, I find this resource quite useful on [How to Find Windows 10 Computer Specifications & Systems Requirements](https://www.microsoft.com/en-in/windows/windows-10-specifications "How to Find Windows 10 Computer Specifications & Systems Requirements") before opting in to upgrading your existing Operating System and resolve any clarifications of whether your existing Hardware Components can or will support the upgrade.
 
