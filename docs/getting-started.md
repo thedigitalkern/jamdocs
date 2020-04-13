@@ -191,7 +191,7 @@ If you require GUI or Graphic User Interface for accessing requests over HTTP://
 
 #### Google Chrome
 
-* Enter **chrome://settings/help** in your Google Chrome Browser Address Bar / URL - Navigate to **About Chrome** and **update your browser to the latest version**.
+* Enter **chrome://settings/help** in your Google Chrome Browser Address Bar / URL without any prefix or suffix - Navigate to **About Chrome** and **update your browser to the latest version**. Once done, **Relaunch** Google Chrome Browser.
 * Enter **chrome://flags/** - Search and **Enable the following -** 
   * **Override software rendering list -** Overrides the built-in software rendering list and enables GPU-acceleration on unsupported system configurations. – Mac, Windows, Linux, Chrome OS, Android - [#ignore-gpu-blacklist](chrome://flags/#ignore-gpu-blacklist)
   * **Smooth Scrolling** - Animate smoothly when scrolling page content. – Windows, Linux, Chrome OS, Android - [#smooth-scrolling](chrome://flags/#smooth-scrolling)
