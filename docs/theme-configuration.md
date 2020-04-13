@@ -51,7 +51,7 @@ Enter **special characters** to specify preferences and different generation met
 Preserve the **main keywords entered in the final domain name and use the following to preserve SEO**
 
 * Short Prefixes - uses popular prefixes
-* Dictionary Prefixes and Suffixes - uses popular dictionary prefixes and suffixes
+* Dictionary Prefixes and Suffixes - use popular dictionary prefixes and suffixes
 * Derived Words - similar words using the keywords as a root word
 * Use __*__ with some letters to use dictionary words containing those letters. Eg: *z
 
@@ -109,7 +109,7 @@ Free plan for **small personal websites, blogs, and anyone who wants to evaluate
     * [Google Ad Grants](https://www.google.com/nonprofits/offerings/google-ad-grants/ "Google Ad Grants") - Reach more donors online with Google Ad Grants - Attract donors, raise awareness for your organization, and recruit volunteers with in-kind advertising on Google Search. Ad Grants provides access to $10,000 USD (United States of America) of in-kind advertising every month for text ads. For India, please contact Google Ad Support Specialists
     * [YouTube Nonprofit Program](https://www.google.com/nonprofits/offerings/youtube-nonprofit-program/ "YouTube Nonprofit Program") - Engage your supporters using video with the YouTube Nonprofit Program - Unlock the power of video storytelling, so you can reach a global audience and amplify your cause. Plus, make it easy for supporters to give with YouTube Giving features (*currently available in the United States of America).
     * [Google Earth and Maps](https://www.google.com/nonprofits/offerings/google-earth-and-maps/ "Google Earth and Maps for Nonprofits") - Show your nonprofit's impact with Google Earth and Maps - Develop compelling data visualizations to track and share your organization’s impact. Plus, use Google Maps Platform to help people locate community programs and resources closest to them. Google for Nonprofits provides Google Maps Platform credits to nonprofits.
-* [ZohoMail](https://www.zoho.com/mail/zohomail-pricing.html "ZohoMail - Pricing and Editions - Support") (Forever Free Plan offers Up to five users, 5GB/User, 25MB attachment limit. Web access only. Email hosting for single domain - Scalable - Allows usage of Custom Domains)
+* [ZohoMail](https://www.zoho.com/mail/zohomail-pricing.html "ZohoMail - Pricing and Editions - Support") (Forever Free Plan offers Up to five users, 5GB/User, 25MB attachment limit. Web access only. Email hosting for a single domain - Scalable - Allows usage of Custom Domains)
 
 ## Email Security & Privacy
 
