@@ -189,9 +189,25 @@ Ideal for the transfer of data/information within a group of people sharing the 
 
 If you require GUI or Graphic User Interface for accessing requests over HTTP:// HTTPS:// domain name, Internet Protocol (IP) Address, Intranet Access, Cloud Storage, etc. you will need a [Browser](https://www.britannica.com/technology/browser "Browser - Britannica") with powerful capabilities that fetch and transport data over a network/service application. Microsoft Windows OS comes pre-bundled with [Internet Explorer](https://www.microsoft.com/en-in/download/internet-explorer.aspx "Internet Explorer - Microsoft Download Center") and [Apple MacOSx](https://www.apple.com/in/macos/how-to-upgrade/ "Apple macOS Catalina") comes pre-installed with Safari Browser, but if you are looking for an alternative to IE or [Safari](https://www.apple.com/in/safari/ "Apple Browser - Safari"), you can download [Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en&oco=0 "Google Chrome Desktop / Tablet") pre-installed with ([Google Chromebook](https://www.google.com/chromebook/whatsnew/ "Google Chromebook - Lightweight OS packed in a Laptop Device")) - First time user with [Google Chromebook - Here is What You Need](https://www.google.com/chromebook/howto/ "Google Chromebook - How To Videos") / [Chromium](https://www.chromium.org/chromium-os "Chromium OS") / [Canary (For Developers)](https://www.google.com/chrome/canary/ "Google Chrome Canary (Nightly build for developers) - Beta Version") - Do Note - Beta Version - Can be unstable in certain environments - that gives its users extensive set of options ranging from security validations to networking, security logs, with a fully-featured Console accessible via Ctrl + Shift + J (on Windows) or Ctrl Option J (on MacOSx) Shortcut - F12 Key on the keyboard. For website performance audits, accessibility, progressive web apps, SEO and more you can access [Lighthouse via Chrome](https://github.com/GoogleChrome/lighthouse/blob/master/readme.md "Lighthouse via Chrome"), access [Chrome Developers Tools](https://developers.google.com/web/tools/chrome-devtools "Google Chrome DevTools") for a complete breakdown of your website performance metrics. You can also download web pages in Offline Mode, Test .HTML/SAAS Markup Code bundled with CSS or Cascading Style Sheets .css, Javascript .js, [The PHP Development Team,](https://www.zend.com/about "About Zend and PHP") [Zend by Perforce](https://www.perforce.com/ "Perforce Software acquires Zend") (formerly Zend Technologies - still visible on [Ubuntu](https://ubuntu.com/download/desktop "Ubuntu Desktop / Laptop Download") Linux [LTS Web Server Releases](https://m.do.co/c/6dac54e1d7b5 "DigitalOcean - Referral Link - Not Affiliated")) to test .php codes and much more.
 
+#### Google Chrome
+
+* Enter **chrome://settings/help** in your Google Chrome Browser Address Bar / URL - Navigate to **About Chrome** and **update your browser to the latest version**.
+* Enter **chrome://flags/** - Search and **Enable the following -** 
+  * **Override software rendering list -** Overrides the built-in software rendering list and enables GPU-acceleration on unsupported system configurations. – Mac, Windows, Linux, Chrome OS, Android - [#ignore-gpu-blacklist](chrome://flags/#ignore-gpu-blacklist)
+  * **Smooth Scrolling** - Animate smoothly when scrolling page content. – Windows, Linux, Chrome OS, Android - [#smooth-scrolling](chrome://flags/#smooth-scrolling)
+  * **SMS Receiver Cross Device** - Enable the SMS Receiver API to work across devices – Mac, Windows, Linux, Chrome OS, Android - [#sms-receiver-cross-device](chrome://flags/#sms-receiver-cross-device)
+  * **Experimental QUIC protocol** - Enable experimental QUIC protocol support. – Mac, Windows, Linux, Chrome OS, Android - [#enable-quic](chrome://flags/#enable-quic)
+  * **GPU rasterization** - Use GPU to rasterize web content. Requires impl-side painting. – Mac, Windows, Linux, Chrome OS, Android - [#enable-gpu-rasterization](chrome://flags/#enable-gpu-rasterization)
+  * **TLS 1.3 hardening for local anchors** - This option enables the TLS 1.3 downgrade hardening mechanism for connections authenticated by local trust anchors. This improves security for connections to TLS-1.3-capable servers while remaining compatible with older servers. Firewalls and proxies that do not function when this is enabled do not implement TLS 1.2 correctly or securely and must be updated. – Mac, Windows, Linux, Chrome OS, Android - [#tls13-hardening-for-local-anchors](chrome://flags/#tls13-hardening-for-local-anchors)
+  * **TLS 1.3 Early Data** - This option enables TLS 1.3 Early Data, allowing GET requests to be sent during the handshake when resuming a connection to a compatible TLS 1.3 server. – Mac, Windows, Linux, Chrome OS, Android - [#enable-tls13-early-data](chrome://flags/#enable-tls13-early-data)
+  * **Save PDF Forms** - Enable saving PDFs with filled form data. – Mac, Windows, Linux, Chrome OS - [#pdf-form-save](chrome://flags/#pdf-form-save)
+  * **Enable lazy image loading** - Defers the loading of images marked with the attribute 'loading=lazy' until the page is scrolled down near them. – Mac, Windows, Linux, Chrome OS, Android - [#enable-lazy-image-loading](chrome://flags/#enable-lazy-image-loading)
+  * **Enable lazy frame loading** - Defers the loading of iframes marked with the attribute 'loading=lazy' until the page is scrolled down near them. – Mac, Windows, Linux, Chrome OS, Android- [#enable-lazy-frame-loading](chrome://flags/#enable-lazy-frame-loading)
+  * **Password Leak Detection** -Enables the detection of leaked passwords. – Mac, Windows, Linux, Chrome OS, Android - [#password-leak-detection](chrome://flags/#password-leak-detection)
+
 #### Accessing Pre-Releases or Prior Versions of Browser for Website Compatibility for certain Web Portals
 
-For example if you wish to view a website which is Best viewed at : 1024x768, IE 7, Firefox 3.6.3 - In your internet browser IE 7, Firefox 3.6.3 - There is a high probability that you'd be using a browser version different from what is mentioned. In order to resolve this issue - 
+For example, if you wish to view a website that is Best viewed at : 1024x768, IE 7, Firefox 3.6.3 - In your internet browser IE 7, Firefox 3.6.3 - There is a high probability that you'd be using a browser version different from what is mentioned. In order to resolve this issue -
 
 I am currently using **© Microsoft Windows Pro N - 10.0.18362 by Microsoft Corporation with System Type - x64-based PC** connected to a stable internet connection by my Internet Service Provider/s via an Ethernet Network Adapter Card, whilst downloading IE 7 (© Microsoft 2020 Windows Internet Explorer 7) it automatically reads your system information and reflects the **stable release under GNU License**.
 
@@ -219,12 +235,12 @@ If you run into errors whilst doing so, you may print the "validated" applicatio
 
 Adobe Acrobat Reader DC software is the free global standard for reliably viewing, printing, and commenting on PDF documents. And now, it's connected to the [Adobe Document Cloud](https://acrobat.adobe.com/us/en/ "Adobe Document Cloud") − making it easier than ever to work across computers and mobile devices. It's the PDF viewer that can open and interact with all types of PDF content, including forms and multimedia. [Purchase Pro Version via Adobe.com](https://acrobat.adobe.com/in/en/acrobat/pricing.html " Purchase Pro Version via Adobe.com")
 
-[**Adobe Acrobat Reader DC Download Releases**](http://get.adobe.com/reader/otherversions/ "Adobe Acrobat Reader DC Download Releases") - 
+[**Adobe Acrobat Reader DC Download Releases**](http://get.adobe.com/reader/otherversions/ "Adobe Acrobat Reader DC Download Releases") -
 
 * Select the type of **OS or Operating System** you are currently using - **Windows 10**
 * Select the **Language** you are comfortable working with - In my case, I select, **English**
 * Select the Supported Version - **Reader DC 2020.006.20042 English for Windows**
-* Choose to opt-in/out of **Optional Offers** via Official Security Partners - **Total File Size**, **Agree to their Terms and Conditions** and **Proceed to Download**. 
+* Choose to opt-in/out of **Optional Offers** via Official Security Partners - **Total File Size**, **Agree to their Terms and Conditions** and **Proceed to Download**.
 * **Note:** Make sure to [have adequate file storage requirements](https://support.microsoft.com/en-us/help/12425/windows-10-free-up-drive-space "Free up drive space in Windows 10") prior to installing the selected applications.
 
 ## Slack for Teams
@@ -275,3 +291,5 @@ LogMeIn Pro - Discover power and productivity in seamless, secure, and super-fas
 Get an in-depth look at the [LogMeIn Pro](https://www.logmein.com/pro/features "LogMeIn Pro - Discover power and productivity in seamless, secure, and super-fast connections - Remote Access & Management - Remote Support On-Demand") Security Features. **Built With an Emphasis on Endpoint Security** - Built with the highest standards of security and **performance**, including **256-bit AES encryption**, **dual passwords**, and **end-to-end authentication**. We take the **security and protection of your important files, data, and personal information** very seriously.
 
 Get [**Support for LogMeIn**](https://support.logmeininc.com/ "Support for LogMeIn and other Applications") **Pro / Central** under **Identity & Access Tab.**
+
+## Remote Access Guidelines
