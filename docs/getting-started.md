@@ -4,7 +4,7 @@ date: 2020-03-30
 slug: getting-started
 
 ---
-"Technology. It's advancing faster and taking less time to be widely adopted than ever before like as it took roughly 10,000 years to get from Writing to Printing Press but only about 500 more to get to Email. Now it seems we are at the dawn of a new age. The age of AI. Artificial Intelligence. The best way to learn a subject is to teach it." - [Robert Downey Jr. - How Far is Too Far? | The Age of AI - YouTube Originals](https://youtu.be/UwsrzCVZAb8 "Robert Downey Jr. - How Far is Too Far? | The Age of AI - YouTube Originals")
+"_Technology. It's advancing faster and taking less time to be widely adopted than ever before like as it took roughly 10,000 years to get from Writing to Printing Press but only about 500 more to get to Email. Now it seems we are at the dawn of a new age. The age of AI. Artificial Intelligence. The best way to learn a subject is to teach it._" - [**Robert Downey Jr. - How Far is Too Far? | The Age of AI - YouTube Originals**](https://youtu.be/UwsrzCVZAb8 "Robert Downey Jr. - How Far is Too Far? | The Age of AI - YouTube Originals")
 
 ## Build a Custom Desktop Computer . Workstation and Understanding Computer Specifications
 
