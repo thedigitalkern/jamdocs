@@ -14,23 +14,19 @@ This Documentation Guide is intended that you have basic knowledge of how a comp
 
 ## Download Official Microsoft Windows Operating System
 
-To get started, you will first need to **have a license to install Windows 10**. If you don't have a license to install Windows 10 and have not yet previously upgraded to it, you can [Purchase via Microsoft](https://www.microsoft.com/en-us/windows/get-windows-10 "Purchase via Microsoft"). 
+To get started, you will first need to **have a license to install Windows 10**. If you don't have a license to install Windows 10 and have not yet previously upgraded to it, you can [Purchase via Microsoft](https://www.microsoft.com/en-us/windows/get-windows-10 "Purchase via Microsoft").
 
 **Note:** If you previously upgraded to Windows 10 on this PC and you’re reinstalling it, you don’t need to enter a product key. Your copy of Windows 10 will automatically activate later using your digital license.
 
 You can then download and run the media creation tool. For more information on how to use the tool, see the instructions on the [Official Microsoft Media Creation Tools Download Page](https://www.microsoft.com/en-in/software-download/windows10 " Official Microsoft Media Creation Tools Download Page")
 
-You can do the following - 
+You can do the following -
 
 * Make sure to keep all installation files for software that you have installed on your existing machine that you are planning to upgrade or regularly use with their individual license keys. Make sure to backup your digital content on cloud storage or external devices such as USB sticks or SSD drives.
-
-
 * **Create Windows 10 installation media**
-  * Using the tool to create installation media (USB flash drive, DVD, or ISO file) to **install Windows 10 on a different PC**. 
-  * Using the tool to **upgrade your current PC to Windows 10**. 
+  * Using the tool to create installation media (USB flash drive, DVD, or ISO file) to **install Windows 10 on a different PC**.
+  * Using the tool to **upgrade your current PC to Windows 10**.
   * Using the installation media you created **for other** [**Microsoft devices** such as Surface Pro](https://www.microsoft.com/en-us/surface/devices/compare-devices "Buy Microsoft devices such as Surface Pro"). Download [drivers for Surface](https://support.microsoft.com/en-in/help/4023482/surface-download-drivers-and-firmware "Download drivers and firmware for Surface") devices.
-
-
 * [Sign in to the Volume Licensing Service Center](https://www.microsoft.com/licensing/servicecenter/default.aspx "Sign in to the Volume Licensing Service Center  to download Enterprise editions")
 * [Sign in to your subscription on the MSDN Portal for MSDN](https://my.visualstudio.com/downloads "Sign in to your subscription on the MSDN Portal for MSDN downloads")
 * [Visit the Windows Insider site to download Insider Preview builds](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso "Visit the Windows Insider site to download Insider Preview builds")
@@ -38,7 +34,7 @@ You can do the following -
 
 Once the OS + drivers are installed with your set of required licensed software, you can scan the backed-up content on another system or freshly installed system with the Anti-Virus / Anti-Malware Software and begin the transfer of files.
 
-You can also create another set of USB Stick containing [Rootkit Hunter via ESET](https://www.eset.com/in/download-utilities/ "Download ESET Tools and Utilities") and scan your existing system for fixing any malware or virus related issues. 
+You can also create another set of USB Stick containing [Rootkit Hunter via ESET](https://www.eset.com/in/download-utilities/ "Download ESET Tools and Utilities") and scan your existing system for fixing any malware or virus related issues.
 
 [Recovery options in Windows 10](https://support.microsoft.com/en-in/help/12415 "Recovery options in Windows 10 - If you're having problems with your PC, the following table can help you decide which recovery option to use.") - If you're having problems with your PC, the following table can help you decide which recovery option to use.
 
@@ -283,6 +279,24 @@ Adobe Acrobat Reader DC software is the free global standard for reliably viewin
 * Choose to opt-in/out of **Optional Offers** via Official Security Partners - **Total File Size**, **Agree to their Terms and Conditions** and **Proceed to Download**.
 * **Note:** Make sure to [have adequate file storage requirements](https://support.microsoft.com/en-us/help/12425/windows-10-free-up-drive-space "Free up drive space in Windows 10") prior to installing the selected applications.
 
+## Digital, Fillable PDFs
+
+**Adobe Acrobat DC** Feature - PDF form creator - Digital, Fillable PDFs. **Turn your existing forms into fillable PDF forms.** The PDF form creator breathes new life into old forms and paper documents by turning them into digital, fillable PDFs.
+
+* Whether it’s a scan or a simple form made with Microsoft Word, Excel, or any other application, Adobe Acrobat gives you a simple way to make it smarter with signature fields, calculations, and much more. **Here’s how -** 
+  * Acrobat automatically recognizes static form fields and converts them to fillable text fields when you convert your scanned paper forms or digital files.
+  * Move text fields around. Change headings. Insert buttons. Add, delete, and drag and drop form fields or enable fields for e-signatures. You can even add calculations and data validation rules to your form. 
+  * You can easily email forms with fillable fields using a shared link, so you can view the status of replies and send reminders to people who haven’t responded.
+  * Use JavaScript to enhance your PDF documents even more by adding calculations, validations, and assigned action buttons to your forms. 
+* **Related Features**
+  * Scan to PDF
+  * Combine files into one PDF
+  * Share PDF files
+  * Collect signatures from others
+  * Fill and sign any form
+
+**Alternatives** - Typeform, Google Forms, and Zoho Forms
+
 ## Slack for Teams
 
 New age communication platform for sharing data via [Slack.com](https://slack.com/intl/en-in/pricing "Slack.com Pricing Plans - Compare") accounts specifically designed for teams. If you are looking for organized spaces for everything related to a project, topic or team, you need to try Slack.
@@ -341,48 +355,18 @@ Apart from the above steps that you'd need to implement on your individual brows
 **Note:** Clear Browser Privacy Settings Prior to log in to Citrix Workspace (***before deploying the second instance) and also after securely signing out from the VMWare Instance followed by logging out securely from your home workstation.
 
 * Save a copy of License Agreement *(in your case you will see a set of _Alphanumeric Code_) displayed before a successful installation of Citrix Workspace Application on Windows OS - and TOS or Terms of Service as implemented by your organization or any of its subsidiaries. This is important as the TOS and License Agreements keep changing as per company norms. Remember, you are liable for any loss of revenue via Breach of any manner whilst working from anyplace apart from registered businesses.
-
-
 * Save Citrix my workspace logs to home workstations or upload it securely to [Mega.nz](https://mega.nz/aff=VR-Z4PPHdTM "MEGA provides free cloud storage with convenient and powerful always-on privacy with 50GB of Storage for Free.") or [Dropbox](https://db.tt/2aGJqaWVft "Dropbox - Free File Storage 2GB") or [WeTransfer](https://wetransfer.com/sign-up?trk=WT201610_HalfPanel_GotPlusClick_tierFree&tier=free "WeTransfer.com - One-Time Simple file-sharing and No registration") or [OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage "OneDrive Basic 5 GB") for reference in case of any disputes arising later.
-
-
 * Report sign on and sign off to your IT or Information Technology Department Administrators to adhere to workspace guidelines and easy track of payments *(in case of work per hour). A simple Google Sheets or .xls file would just prove beneficial.
-
-
 * Once you resume work in the company environment (*registered workplace), disable Virtualization Technology via BIOS or ask IT, Administrator, to perform these functions for you and disable all Remote Desktop Instances.
-
-
 * Always ensure that you're connected to any websites via **secure 443 or 80 Ports at all times** with Port Forwarding Disabled.
-
-
 * Inform your IT Supervisor or Administrator about whitelisting your registered [MAC ID](https://kb.netgear.com/1005/How-do-I-find-my-device-s-MAC-address "Netgear - Computer or Mobile Device’s - Media Access Control Address (MAC address)") / Static IP Address / ISP Provider details for added security.
-
-
 * If accessing Citrix Workspace via Web Application on Ubuntu Distros, follow guidelines and adhere to Software License / [GNU License](https://www.gnu.org/licenses/gpl-3.0.en.html#content "GNU GENERAL PUBLIC LICENSE") - if using a free/open-source software.
-
-
 * You are most likely to save your Login Credentials on Google Password Manager *(if using Chrome 80 or Canary in Dev Mode). Kindly change that upon 14 Days Window. You can use [LastPass](https://www.lastpass.com/pricing "LastPass (from LogMeIn), an award-winning password manager, saves your passwords and gives you secure access from every computer and mobile device.") (by LogMeIn) or [1Password](https://1password.com/ "1Password - A password manager, digital vault, form filler and secure digital wallet. 1Password remembers all your passwords for you to help keep account information safe.") or [Authy](https://authy.com/ "Authy brings the future of strong authentication to the convenience of your Android device. The Authy app generates secure 2 step verification tokens on your device. It help’s you protect your account from hackers and hijackers by adding an additional layer of security.")
-
-
 * Do Not Download [RSA Authenticator](https://www.rsa.com/en-us/products/rsa-securid-suite "Identity and Access Management by RSA Identity Suite") / [2FA or Two Factor Authenticator](https://www.wired.com/story/two-factor-authentication-apps-authy-google-authenticator/ "Wired.com - How to Secure Your Accounts With Better Two-Factor Authentication - Two-factor authentication is a must, but don't settle for the SMS version. Use a more secure authenticator app instead.") / [Yubi Key](https://www.wired.com/story/how-to-use-a-yubikey/ "Wired.com - YubiKey - Simplify and Secure Your Online Logins With a YubiKey - These simple, battery-free devices provide an easy way to securely verify that it's really you who's trying to access your online accounts.") provided by your organization on *Rooted Android Devices or *Jailbroken iOS Devices / *Multi-OS Hacked MacOS (Hackintosh) on Windows Virtual Machines *(vice versa).
-
-
 * Always check that your drivers are always updated. If updated via official manufacturer/software provider websites or via [DriversCloud.com](https://www.driverscloud.com/en/features "This service provides direct access to the Driverscloud driver database. All the drivers of the database are sorted by manufacturer, then by component.") *(French-based Translations) is a Third Party Software that allows updating your system drivers to the latest versions in case you're using custom-built machines. It automatically creates a system restore point prior to installing drivers or Applications for your custom hardware.
-
-
 * Ensure that you're connected to your local workstation via CAT 7 Cable to the Router over WiFi Networks *(Shared or Single) for stable connectivity as you're using [Virtualization by Intel](https://www.intel.in/content/www/in/en/virtualization/virtualization-technology/intel-virtualization-technology.html "Intel® Virtualization Technology (Intel® VT) - Virtualization abstracts hardware that allows multiple workloads to share a common set of resources. On shared virtualized hardware, a variety of workloads can co-locate while maintaining full isolation from each other, freely migrate across infrastructures, and scale as needed.") via VMWare which is an internet data-intensive web application.
-
-
 * Make sure to download Windows 10 Pro N Activated Copy on 64x Bit Installs for such instances.
-
-
 * Use NAS or Network Attached Storage Systems by Synology over [Cisco Network Switches](https://www.cisco.com/c/en_in/products/switches/index.html "Cisco's fixed and modular, core, distribution, and access LAN switches have been designed for a new era of intent-based networking.") for securely transmitting data for redundancy or raid architecture via TCP Protocols in case you're not comfortable with Third-Party Cloud Applications such as [Mega.nz](https://mega.nz/aff=VR-Z4PPHdTM "MEGA provides free cloud storage with convenient and powerful always-on privacy with 50GB of Storage for Free.") or [Dropbox](https://db.tt/2aGJqaWVft "Dropbox - Free File Storage 2GB") or [WeTransfer](https://wetransfer.com/sign-up?trk=WT201610_HalfPanel_GotPlusClick_tierFree&tier=free "WeTransfer.com - One-Time Simple file-sharing and No registration") or [OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage "OneDrive Basic 5 GB")
-
-
 * Intranet Services via [Synology](https://www.synology.com/en-in/support/nas_selector "Synology - NAS Selector") are preferred when you're working in smaller organizations to transfer data.
-
-
 * Ask your company IT Administrator or Supervisor to replace Thermal Paste using [Arctic Thermal Paste](https://pcpartpicker.com/products/thermal-paste/#m=191 "Buy Arctic Thermal Paste") to keep your workstations running on low temperatures for better efficiency. This step can void your Company's Warranty. Ideal for recovering systems over 2-3 Years for a sustainable environment.
-
-
 * Ensure not to upload data from local workstations to office workstations - instead use Cloud or Online Applications such as Google Docs, Sheets, Slides.
