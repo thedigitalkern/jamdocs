@@ -123,7 +123,27 @@ Your current Internet Service Provider has configured your Router, Network Switc
 
 A small step to secure router, a secure IP and safe haven for your privacy that matters you may use 1.1.1.1 DNS or Domain Name Servers. Configure your Router as follows - Login to your **Router offered by Reliance Jio Infocomm Limited** (AS55836) registered with **Asia-Pacific Network Information Center as mentioned above as you might have been logged out due to inactivity of 03 minutes. Navigate to SECURITY (on the left navigation corner of your router dashboard) - Select FIREWALL -** IPv4 Firewall Rules and Add the following configuration - [**1.1.1.1 DNS**](https://1.1.1.1/dns/ "1.1.1.1 DNS - Privacy First: Guaranteed") / [**DNS Performance Analytics and Comparison **](https://www.dnsperf.com/#!dns-resolvers "DNS Performance Analytics and Comparison")
 
-**Note:** Make sure to **NOT change the WAN Policy in the Router** Backend. The following configuration is only intended for **implementing a Firewall Policy** as opposed to changing using this service as a **VPN to override Firewall Rules** set by your Systems Administrator.
+**Note:** Make sure to **change the LAN Policy in the Router** Backend. The following configuration is only intended for **implementing a DNS/Firewall Policy**.
+
+**Path as follows:** Network » LAN » LAN IPv4 Configuration
+
+1. **LAN IPv4 DNS Configuration - Under DHCPv4 Setup**
+
+* Service - DNS Servers
+* Action - **Change Use DNS Proxy** to **Use Below**
+  * Primary DNS Server - **1.1.1.1**
+  * Secondary DNS Server - **1.0.0.1**
+  * Domain Name - Use anything without spaces
+
+**Path as follows:** Network » LAN » LAN IPv4 Configuration
+
+2. **LAN IPv6 DNS Configuration - Under DHCPv6 Setup**
+
+* Service - DNS Servers
+* Action - **Change Use DNS Proxy** to **Use Below**
+  * Primary DNS Server - **2606:4700:4700::1111**
+  * Secondary DNS Server - **2606:4700:4700::1001**
+  * Domain Name - Use anything without spaces
 
 **Path as follows:** Security » Firewall » IPv4 Firewall Rules + Add new
 
