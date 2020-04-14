@@ -125,6 +125,14 @@ A small step to secure router, a secure IP and safe haven for your privacy that 
 
 **Note:** Make sure to **change the LAN Policy in the Router** Backend. The following configuration is only intended for **implementing a DNS/Firewall Policy**.
 
+**Path as follows:** Network » WAN » WAN IPv4 Configuration
+
+1. **WAN IPv4 DNS Configuration - Under Domain Name System (DNS) Servers Setup**
+   * Action - DNS Server Source - **Use These DNS Servers**
+     * Primary DNS Server - **1.1.1.1**
+     * Secondary DNS Server - **1.0.0.1**
+     * Domain Name - Use anything without spaces
+
 **Path as follows:** Network » LAN » LAN IPv4 Configuration
 
 1. **LAN IPv4 DNS Configuration - Under DHCPv4 Setup**
