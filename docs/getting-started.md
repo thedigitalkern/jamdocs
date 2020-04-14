@@ -225,6 +225,10 @@ A small step to secure router, a secure IP and safe haven for your privacy that 
 
 * IPsec - Set to "**OFF**"
 
+**Download** [**TinyWall - A free, lightweight and non-intrusive firewall**](https://tinywall.pados.hu/download.php "Download TinyWall - A free, lightweight and non-intrusive firewall")
+
+* **NOTE:** After installation, TinyWall blocks most communication. To use the internet or network-enabled applications, select one of the "**Whitelist by** ..." options in the tray menu to unblock specific programs. **Do not install TinyWall over a remote connection**, or you will risk locking yourself out until TinyWall gets properly configured.
+
 Further, you can Enable [DoS / DDoS Preventions](https://www.cloudflare.com/en-in/ddos/ "DoS / DDoS Preventions") via Security » Attack Checks » Dos / DDoS Preventions via the Admin Dashboard. This can cause serious damage even on your local network. Enabling it is a smarter option. [Turning off Remote Desktop Connections via Windows OS](https://support.microsoft.com/en-us/help/2477133/remote-desktop-disconnected-or-can-t-connect-to-remote-computer-or-rem "Remote Desktop Connection via Windows OS") along with disabling [Intel® Virtualization Technology](https://www.intel.in/content/www/us/en/virtualization/virtualization-technology/intel-virtualization-technology.html "Intel® Virtualization Technology") offered by Intel when not required allows additional security. To [check if your hardware along with software meets the Intel® Virtualization Technology requirements](https://www.intel.in/content/www/in/en/support/articles/000005486/processors.html " Intel® Virtualization Technology") you need to refer to this quick support guide. You need to enable it via BIOS as well. Do note that making changes to Hardware / Software / Drivers / BIOS / Networking Devices / Mobile Devices can cause critical damage and must require a professional with prior experience as each manufacturer defines options for input/output in the BIOS Firmware differently. Some changes are irreversible and can cause loss of data, connectivity and security breaches.
 
 ## Secure Your Workstation
