@@ -16,24 +16,29 @@ slug: image-optimisation-softwares
     * [Students and Teachers](https://www.adobe.com/creativecloud/plans.html?plan=team#student-teacher-eligibility "Student Teacher Eligibility - Requires Institutional Affiliation") (_Discounted Rates_ for Registered Schools and Universities)
     * [Business Teams (Enterprise Plans for Teams Collaborating on a Project/s)](https://www.adobe.com/creativecloud/plans.html?plan=team "Business Teams (Enterprise Plans for Teams Collaborating on a Project/s)")
   * **Bundled with these software essential to image editing and more -**
-    * Adobe Photoshop (Image Editing to Retouching / Layers)
-    * Adobe Illustrator (Vector based Artwork that can be scaled)
-    * Adobe Bridge (Organised Media Content)
-    * Adobe Lightroom (Image Editing with Intuitive Interface)
-    * Adobe InDesign (Print Design and Publications)
-    * Adobe Portfolio Free with Creative Cloud Subscription with Custom Domain (If you are looking to build a great portfolio or showcase website with Cloud Sync from your Adobe Media Library) - Extensive set of features like adding meta-data, cropping and scaling images, etc. for the web audience you are looking to serve.
-    * Adobe Typekit (Extensive set of Fonts served on the Adobe Softwares and Websites)
-    * Adobe Premiere Pro - Video Editing, Color Correction, and Color Grading
-    * Adobe After Effects - Motion Graphics to add interactive animations
-    * Adobe Media Encoder (Export Media Content to various file formats - Direct upload to Youtube / Vimeo
+    * **Adobe Photoshop** (Image Editing to Retouching / Layers)
+    * **Adobe Illustrator** (Vector based Artwork that can be scaled)
+    * **Adobe Bridge** (Organised Media Content)
+    * **Adobe Lightroom** (Image Editing with Intuitive Interface)
+    * **Adobe InDesign** (Print Design and Publications)
+    * **Adobe Portfolio** Free with Creative Cloud Subscription with Custom Domain (If you are looking to build a great portfolio or showcase website with Cloud Sync from your Adobe Media Library) - Extensive set of features like adding meta-data, cropping and scaling images, etc. for the web audience you are looking to serve.
+    * **Adobe Typekit** (Extensive set of Fonts served on the Adobe Softwares and Websites)
+    * **Adobe Premiere Pro** - Video Editing, Color Correction, and Color Grading
+    * **Adobe After Effects** - Motion Graphics to add interactive animations
+    * **Adobe Media Encoder** (Export Media Content to various file formats - Direct upload to Youtube / Vimeo)
+    * **Adobe XD for Prototyping** - [Alexa Integrations Plugin](https://www.youtube.com/watch?v=CvpVMbuegVs&feature=youtu.be "Alexa Integrations Plugin")
+      * Ideas - [https://xd.adobe.com/ideas/](https://xd.adobe.com/ideas/ "https://xd.adobe.com/ideas/")
+      * Guides - [https://xd.adobe.com/ideas/guides/](https://xd.adobe.com/ideas/guides/ "https://xd.adobe.com/ideas/guides/")
 
 #### Other Important Softwares
 
 * [**Final Cut Pro**](apple.com/in/final-cut-pro/ "Final Cut Pro") by Apple (MaxOSx Only)
+* [**Sketch**](https://www.sketch.com/ "Sketch - Design Software") (MaxOSx Only)
 * [**Cinema 4D**](https://www.maxon.net/en-us/ "Cinema 4D") by Maxon (3D)
 * [**Lumion Pro**](https://lumion.com/whats-new.html "Lumion Pro") 10 for 3D Objects / Animation
 * [**Phocus Software**](https://www.hasselblad.com/phocus/ "Phocus Software by Hasselblad Systems") for Hasselblad Camera Systems
 * [**CaptureOne Pro** Photo Editing Software](https://www.captureone.com/en/ "CaptureOne Pro Photo Editing Software")
+* Publish on **ISSUU.com** - [Adding Web, Video and Shopping Links to Content](https://help.issuu.com/hc/en-us/articles/204815088-Adding-Web-Video-and-Shopping-Links-to-Content "Issuu.com - Adding Web, Video and Shopping Links to Content")
 
 ## 360 View Product Photography Table Tops
 
@@ -45,7 +50,7 @@ slug: image-optimisation-softwares
 * **Basic Guidelines for Image Content**
   * Always export in Transparent Background PNGs for reuse or compositing image backgrounds / File Naming Options.
   * Embed Metadata and Copyright Info on each Product Image Guidelines
-* Upload on [Cloudinary](https://cloudinary.com/pricing "Cloudinary - Cloud Storage - Heroku Integration - Backup") (Free and Paid Plans) Media Asset Library -  to avoid server-side rendering. [**Ghost CMS** deployed using **Heroku Integration** ](https://github.com/cobyism/ghost-on-heroku "Development Deploy of One-button Heroku deploy for Ghost CMS Blogging Platform")- Blog is configured to use **Cloudinary file storage** by default. Requires a valid Credit Card for Free Account. Limited Customisation Options as it is for development purposes only. Instead, try [Ghost Pro](https://ghost.org/pricing/ "Ghost CMS - Launch your publishing business Content, newsletters, members, payments — all in one place"). Use [**Fastly CDN**](https://www.fastly.com/pricing "Fastly - edge cloud platform moves data and applications closer to users, at the network edge — so you can meet rising customer expectations, deliver secure, competitive online experiences, and bring innovative ideas to life, faster.") (Paid) - edge cloud platform moves data and applications closer to users, at the network edge — so you can meet rising customer expectations, deliver secure, competitive online experiences, and bring innovative ideas to life, faster.
+* Upload on [Cloudinary](https://cloudinary.com/pricing "Cloudinary - Cloud Storage - Heroku Integration - Backup") (Free and Paid Plans) Media Asset Library -  to avoid server-side rendering. [**Ghost CMS** deployed using **Heroku Integration** ](https://elements.heroku.com/buttons/snathjr/ghost-on-heroku "Development Deploy of One-button Heroku deploy for Ghost CMS Blogging Platform")- Blog is configured to use **Cloudinary file storage** by default. Requires a valid Credit Card for Free Account. Limited Customisation Options as it is for development purposes only. Instead, try [Ghost Pro](https://ghost.org/pricing/ "Ghost CMS - Launch your publishing business Content, newsletters, members, payments — all in one place"). Use [**Fastly CDN**](https://www.fastly.com/pricing "Fastly - edge cloud platform moves data and applications closer to users, at the network edge — so you can meet rising customer expectations, deliver secure, competitive online experiences, and bring innovative ideas to life, faster.") (Paid) - edge cloud platform moves data and applications closer to users, at the network edge — so you can meet rising customer expectations, deliver secure, competitive online experiences, and bring innovative ideas to life, faster.
 * Understand [Brand Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/branding/ " Human Interface Guidelines at Apple - Branding Guidelines") set in place by manufacturers for Logo Placement on any medium - online/offline/digital. In this case, we use an example of _Branding - Visual Design - iOS - Human Interface Guidelines_ - [Apple Developer](https://developer.apple.com/programs/ "Apple - Join the Apple Developer Program to reach customers around the world on the App Store for iPhone, iPad, Mac, Apple Watch, Apple TV, and iMessage, and on the Safari Extensions Gallery. You’ll also get access to beta software, advanced app capabilities, extensive beta testing tools, and app analytics.")
 
   ## Bring in Interactivity for your Product Videos / Media Content
