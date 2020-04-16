@@ -34,7 +34,7 @@ slug: advertising-online-seo
 
 **Note:** Do not confuse Advertising Platforms as Promotional Products.Advertising via Paid Ad Platforms (Online)
 
-Digital Advertising helps in increasing ROI or Return on Investment if propagated correctly (forementioned above) for which you will require an **Active and Verified Credit Card** (with "_low forex rates offered by your financial institution for major currencies"_ as some platforms accept specific currencies to their organization framework) for setting up an account and run ads on these Networks -
+Digital Advertising helps in increasing ROI or Return on Investment if propagated correctly (forementioned above) for which you will require an **Active, Accepted and Verified Mode of Payment** (with "_low forex rates offered by your financial institution for major currencies if choosing Credit Cards as a mode of payment"_ as some platforms accept specific currencies to their organization framework) for setting up an account and run ads on these Networks -
 
 * [Google Ads](https://ads.google.com/intl/en_in/home/ "Google Ads India")
   * Keyword Planner Tool and more from Google
