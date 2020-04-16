@@ -18,6 +18,8 @@ slug: web-dev
 
 _Prices will vary depending on your domain name and .ccTLD /s (in case of multiple domains) you select_
 
+**IMPORTANT ANNOUNCEMENT - ICANN NEW GTLD DISPUTE RESOLUTION** - [https://iccwbo.org/dispute-resolution-services/icann-gtld-process/](https://iccwbo.org/dispute-resolution-services/icann-gtld-process/ "https://iccwbo.org/dispute-resolution-services/icann-gtld-process/")
+
 * [Google Domains](https://domains.google/intl/en_in/tld/ "Google Domains") _(.com TLDs)_
 * [Namecheap](https://affiliate.namecheap.com/?affId=114685 "Namecheap Domains - Affiliate Link") _(Affiliate Link) (.com TLDs) (Quick DNS Response Times - Easy to US)_
 * [PorkBun](https://porkbun.com/ "PorkBun.com - Domain Registrar with Custom Email Forwarding and Email Alias Forwarding") _(.com TLDs) (Custom / Email Alias Forwarding Enabled for Incoming only emails)_
@@ -303,7 +305,7 @@ Bootstrap Studio updates automatically, so you always have the latest version.
 * [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision "Google Analytics - Analyze Website Traffic and Data Seamlessly") - Google Analytics gives you the free tools you need to analyze data for your business in one place, so you can make smarter decisions. Track incoming website traffic and upload relevant content that caters to your site visitors.
 * [Google Keyword Planner Auto Fetch from Website](https://ads.google.com/intl/en_in/home/tools/keyword-planner/ "Google Keyword Planner Auto Fetch from Website") - Use this service to automatically fetch important keywords, terms required for search engine crawl. View more on the **Paid Advertising** Tab of The Digital Kern.
 * [Google MyBusiness](https://www.google.com/intl/en_in/business/ "Google My Business Account") - Engage with customers on Google for free via a Google My Business Account to get more than a business listing. Your free Business Profile lets you easily connect with customers across Google Search and Maps. Once set up, you will be able to check how your customers interact with your GMB or Google MyBusiness Profile via clicks, calls, bookings, follows – see how your customers engage with your Business Profile. Verification, Moderate Public Photo Uploads, Reply to Comments and Flag Inappropriate Reviews.
-* [**Google Merchant Account**](https://www.google.com/retail/solutions/merchant-center/ "Google Merchant Account") - Google Merchant Center helps you get your shop and product info into Google and make it available to shoppers across Google. That means that everything about your shops and products is available to customers when they search on a Google property. 
+* [**Google Merchant Account**](https://www.google.com/retail/solutions/merchant-center/ "Google Merchant Account") - Google Merchant Center helps you get your shop and product info into Google and make it available to shoppers across Google. That means that everything about your shops and products is available to customers when they search on a Google property.
   * **Better Visibility** - Opting for your product information to be shown on surfaces across Google, Shopping ads, Shopping Actions, local inventory ads or other available programs allows people to see goods from your shop on various Google platforms, including sponsored and non-sponsored results on Google Search and Google Images.
 * [Google APIs Explorer](https://developers.google.com/apis-explorer "Google APIs Explorer for Developers") (Advanced Users or Developers)
   * Google Maps API
