@@ -760,3 +760,7 @@ Take your business online with [Lightspeed eCom](https://www.lightspeedhq.com/ec
 * **Countries** - Receive orders from all around the world or set a list of countries you want to receive orders from.
 * **Customer base** - With localized versions of your website, expand your reach and connect to online shoppers around the globe.
 * **High volume traffic** - Lightspeed eCom handles mass traffic volumes so the entire globe can surf on your website without encountering an error or downtime.
+
+## Integrations
+
+Our [integrated partners offer unique services that seamlessly integrate with Lightspeed POS](https://www.lightspeedhq.com/integrations/ "Lightspeed Integrations / Partners"), allowing you to run your business at full capacity.
