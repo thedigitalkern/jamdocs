@@ -769,6 +769,8 @@ Our [integrated partners offer unique services that seamlessly integrate with Li
 
 ## Contact
 
-* Free Resources - [https://www.lightspeedhq.com/resources/](https://www.lightspeedhq.com/resources/ "https://www.lightspeedhq.com/resources/")
-* Email - [experts@lightspeedhq.com](mailto:experts@lightspeedhq.com "Find an Expert - Integration - Developer")
-* Community Resources - [https://community.lightspeedhq.com/en/](https://community.lightspeedhq.com/en/ "Lightspeed Community Resources")
+* **Free Resources** - [https://www.lightspeedhq.com/resources/](https://www.lightspeedhq.com/resources/ "https://www.lightspeedhq.com/resources/")
+* **Email** - [experts@lightspeedhq.com](mailto:experts@lightspeedhq.com "Find an Expert - Integration - Developer")
+* **Community Resources** - [https://community.lightspeedhq.com/en/](https://community.lightspeedhq.com/en/ "Lightspeed Community Resources")
+* **Lightspeed Help Center** - [Retail](https://retail-support.lightspeedhq.com/hc/en-us "Lightspeed Help Center - Retail") / [Restaurant](https://resto-support.lightspeedhq.com/hc/en-us "Lightspeed Help Center - Restaurant") / [eCommerce](https://ecom-support.lightspeedhq.com/hc/en-us "Lightspeed Help Center - eCommerce") / [OnSite](https://onsite-support.lightspeedhq.com/hc/en-us "Lightspeed Help Center - OnSite")
+* Check out their [YouTube Channel](https://www.youtube.com/user/lightspeedretail "Lightspeed YouTube Channel")
