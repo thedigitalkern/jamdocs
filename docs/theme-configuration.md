@@ -669,7 +669,7 @@ Create your web store, no technical skills needed. Manage one stock for all your
 * **Customer accounts** - Create customer profiles and add notes to continuously offer them a service tailored to their needs.
 * **Customer types** - VIP, regular or employees: identify your different customers with statuses so you can automate special discounts.
 
-  ##### Onboarding and support 
+  ##### Onboarding and support
 * **Interactive webinars** - Our free introduction webinars are always available and will help you get started with the product.
 * **24/7 phone support** - Reach out to our customer support anytime, there's always a Lightspeed agent available and ready to help.
 * **One on one sessions** - Every one of our plans come with a free one on one session with a POS pro who’ll assist you as long as you need it.
@@ -687,7 +687,7 @@ Create your web store, no technical skills needed. Manage one stock for all your
 
 ## Lightspeed Restaurant POS hardware
 
-Made for the greasy hands and high pressure of peak hours, our hardware is exactly what your restaurant needs to steal the show. 
+Made for the greasy hands and high pressure of peak hours, our hardware is exactly what your restaurant needs to steal the show.
 
 ## iPad hardware kit
 
@@ -700,6 +700,8 @@ Whether you're stationing your POS on a counter or zig-zagging through the resta
 * Kitchen printer
 
 \* iPad and payment terminal not included
+
+* The cloud-based iPad POS for you - [https://www.lightspeedhq.com/pos/restaurant/ipad-pos/](https://www.lightspeedhq.com/pos/restaurant/ipad-pos/ "The cloud-based iPad POS for you - Lightspeed")
 
 ## 2. Lightspeed eCommerce
 
@@ -763,4 +765,10 @@ Take your business online with [Lightspeed eCom](https://www.lightspeedhq.com/ec
 
 ## Integrations
 
-Our [integrated partners offer unique services that seamlessly integrate with Lightspeed POS](https://www.lightspeedhq.com/integrations/ "Lightspeed Integrations / Partners"), allowing you to run your business at full capacity.
+Our [integrated partners offer unique services that seamlessly integrate with Lightspeed POS](https://www.lightspeedhq.com/integrations/ "Lightspeed Integrations / Partners"), allowing you to run your business at full capacity. 
+
+## Contact
+
+* Free Resources - [https://www.lightspeedhq.com/resources/](https://www.lightspeedhq.com/resources/ "https://www.lightspeedhq.com/resources/")
+* Email - [experts@lightspeedhq.com](mailto:experts@lightspeedhq.com "Find an Expert - Integration - Developer")
+* Community Resources - [https://community.lightspeedhq.com/en/](https://community.lightspeedhq.com/en/ "Lightspeed Community Resources")
