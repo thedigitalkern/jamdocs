@@ -21,7 +21,7 @@ slug: advertising-online-seo
 * Advertising on Print Media Platforms
 * Movies and TV Shows
 * Music Concerts and Flea Bazaar / Stalls
-* Multiplayer and First Person Games / Mobile Softwares -
+* Multiplayer and First Person Games / Mobile Softwares / Online Applications -
   * PC, MacOSx, Linux, Open Source Operating Systems
   * iOS by Apple or Android by Google Inc. or Open Source Operating Systems for mobile devices
 * Advertising via Telesales Companies (with a National **_Do Not Call Registry Filter_**)
