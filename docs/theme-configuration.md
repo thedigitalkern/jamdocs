@@ -135,7 +135,7 @@ Hundreds of unwanted newsletters flooding your mailbox? With Cleanfox, delete an
 * [Google Business Suite](https://gsuite.google.co.in/intl/en_in/features/ "Google Business Suite - Overview") (Paid Service) - [Features and Pricing Plan](https://gsuite.google.co.in/intl/en_in/pricing.html "G Suite Pricing Plans. Try it free for 14 days")
 * [ZohoCRM]() - For a full list of [Features](https://www.zoho.com/crm/features.html "CRM Software Features and Capabilities") (Freemium)
 
-## Types of Content Management Systems
+## Types of Manual/Custom Content Management Systems that Require a Design and Development Team
 
 * [**Bootstrap Studio**](https://bootstrapstudio.io/ "Bootstrap Studio") - Static Website Generator (Smart Forms and 5 Free Static Website Custom Domain Hosting Solution - Image Assets Limitations on Pages - Solve this by Syncing it to Github Pages Repo)
 * [**Hugo**](https://gohugo.io/ "Hugo Open-Source CMS - Sponsored by Netlify") - Blog (The DigitalKern.com is built on Hugo) - Use in Development Mode via Netlify + Forestry.io + GitHub Repo (Private/Public) with Custom Domains - Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. Make sure to click on Test Connection via Netlify after Authorising GitHub Repo for Deploy and map to a custom domain name
@@ -425,9 +425,9 @@ Before you register for any of these services you must have the following compan
 * [HDFC Bank via CCAvenue for Merchant / Terminal ID](https://www.hdfcbank.com/sme/pay/payments-and-collections/merchant-services "HDFC Bank's Merchant Services For SMEs / MIS Solutions") (Apply for [HDFC Bank SmartHub services](https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Smarthub/index.aspx "Apply for HDFC Bank SmartHub services")) Support and Escalations
 * [Kotak Mahindra Bank via ALLPAY Payment Gateway](https://www.kotak.com/en/corporate/solutions/manage-collection-and-payments/allpay.html "Kotak Mahindra Bank via ALLPAY Payment Gateway - Corporate Payments Solution") - This payment gateway for your website/mobile apps is a unique blend of traditional payment channels with modern digital payment methods. It’s a comprehensive payment gateway that helps you collect through traditional modes currently available online as well as modern payment methods, through a single URL integration. **Features include** - Channel-agnostic enterprise receivable module, Streamline and consolidates all receivables through a single multi-payment settlement and reconciliation module. State-of-the-art support infrastructure for quick integration – single, future-ready integration across payment types. A completely automated payment experience improves the success rate, manages drops, auto reversal and easy retry. Comprehensive business analytics help in risk management.
 * **Standard Chartered - Cash Management Systems - Powering Real-Time Business** - Standard Chartered is leading the way in the development of new and innovative cash management solutions to power real-time commerce and support the digitization of business processes for its clients.
-  * Excerpts taken from "[**Powering Real-Time Business**](https://av.sc.com/corp-en/content/docs/Powering-Real-time-Business-Online.pdf "Standard Chartered - Powering Real-Time Business")**"** - A paper published by **Mr. Victor Penna**, Head of Cash Management, Europe & Americas, and Global Head of Cash Structured Solution Development, Transaction Banking. Victor Penna is the Global Head of Standard Chartered’s Structured Solutions Development team, a group of expert treasurers, bankers and technologists who work with clients on business and treasury transformation projects, developing solutions to digitize processes and power real-time business with cutting edge cash management solutions. Victor has worked closely with some of the world’s largest organizations on their digital transformation strategies, leading workshops and round tables with more than 250 large corporations and financial intermediaries. He is also the Head of the Bank’s Cash Management business for Europe and the Americas. Victor has over 30 years’ experience in finance, process reengineering, technology development, and management consulting - (.pdf File containing relevant information about **Innovations in Cash Management Systems** on **Standard Chartered Insights - The role of new cash management solutions in business transformation - _"_**_The digital revolution is changing the way in which businesses are interacting with their customers, suppliers, and markets. Business models are evolving and new cash management solutions are playing an important role in this transformation."_
+  * Excerpts are taken from "[**Powering Real-Time Business**](https://av.sc.com/corp-en/content/docs/Powering-Real-time-Business-Online.pdf "Standard Chartered - Powering Real-Time Business")**"** - A paper published by **Mr. Victor Penna**, Head of Cash Management, Europe & Americas, and Global Head of Cash Structured Solution Development, Transaction Banking. Victor Penna is the Global Head of Standard Chartered’s Structured Solutions Development team, a group of expert treasurers, bankers and technologists who work with clients on business and treasury transformation projects, developing solutions to digitize processes and power real-time business with cutting edge cash management solutions. Victor has worked closely with some of the world’s largest organizations on their digital transformation strategies, leading workshops and round tables with more than 250 large corporations and financial intermediaries. He is also the Head of the Bank’s Cash Management business for Europe and the Americas. Victor has over 30 years’ experience in finance, process reengineering, technology development, and management consulting - (.pdf File containing relevant information about **Innovations in Cash Management Systems** on **Standard Chartered Insights - The role of new cash management solutions in business transformation - _"_**_The digital revolution is changing the way in which businesses are interacting with their customers, suppliers, and markets. Business models are evolving and new cash management solutions are playing an important role in this transformation."_
 
-    #### **Scenarios** taken into account _(Ascending to Descending Order)_
+    #### **Scenarios** are taken into account _(Ascending to Descending Order)_
      1. **Last Mile - Biggest Problems in Emerging Markets** - **Process Involved** - Goods dispatched > Goods delivered > Cash collected > Manually banked > Manually reconciled
      2. **Last Mile Digital Collections - Online payment** - Online Platform or App - Payment Gateway (Involves Addition of Amount - Track Order ID - Select Payment Options such as Credit Card or PayPal**™**, Debit Cards, Mobile Money, Instant Payments, Business Wallets, Request for Payment) - Payment channels - Collections - **Process Involved** - Goods dispatched > Goods delivered >Payment Accepted via e-Transfer> Autobanked > Data is Auto Reconciled
      3. **Wallet Based Solutions**
@@ -594,7 +594,7 @@ Decline codes are provided when a transaction cannot be completed, so it’s goo
 
 In case you are using [Stripe™ by Braintree](https://stripe.com/en-in/payments "Stripe™ by Braintree for India") - Check for corresponding [Processor Decline Codes](https://stripe.com/docs/declines/codes "Stripe™ by Braintree - Processor Decline Codes") as well.
 
-## Lightspeed for Retail and Restaurant
+## All-in-One System with Hardware Integration, POS Systems, and Apps via **Lightspeed** for Retail and Restaurant
 
 Manage your inventory, service, data, staff, and customer relationships with a single technology provider: Lightspeed. Check out their [YouTube Channel](https://www.youtube.com/user/lightspeedretail "Lightspeed YouTube Channel")
 
@@ -614,7 +614,7 @@ With Lightspeed Payments, manage all transactions from one place and increase se
 
 Create your web store, no technical skills needed. Manage one stock for all your sales. Integrate Payment Providers for USA/UK/Australia/Canada natively.
 
-## Lightspeed Retail
+## 1. Lightspeed Retail
 
 [Lightspeed Retail](https://www.lightspeedhq.com/pos/retail/ "Lightspeed Retail") is designed to help retailers grow, offering the features that every brick-and-mortar business needs in order to succeed. From inventory management tools to managing purchase orders and real-time reporting dashboards, Lightspeed is the point of sale of choice for most kinds of retail stores. Select your industry and find out why we’re right for you.
 
@@ -685,7 +685,23 @@ Create your web store, no technical skills needed. Manage one stock for all your
 * **Centralized reporting** - See the big picture and get a complete overview of your business to build a strategy you’re confident in.
 * **Sell on Facebook** - Do more with your social media presence by selling directly on Facebook for better conversion rates.
 
-## Lightspeed eCommerce
+## Lightspeed Restaurant POS hardware
+
+Made for the greasy hands and high pressure of peak hours, our hardware is exactly what your restaurant needs to steal the show. 
+
+## iPad hardware kit
+
+Whether you're stationing your POS on a counter or zig-zagging through the restaurant with your iPad, this [hardware bundle](https://www.lightspeedhq.com/pos/restaurant/hardware/ "iPad hardware kit - Lightspeed POS") is made to keep up with you, no matter how busy it gets.
+
+* LAN receipt printer
+* Cash drawer
+* Lite Server
+* Lightspeed iPad stand
+* Kitchen printer
+
+\* iPad and payment terminal not included
+
+## 2. Lightspeed eCommerce
 
 Take your business online with [Lightspeed eCom](https://www.lightspeedhq.com/ecommerce/ "Lightspeed eCommerce") - Unlock a new revenue stream and thrive in the booming online marketplace. Manage inventory, shipping, marketing and reports from one platform.
 
