@@ -593,3 +593,87 @@ Decline codes are provided when a transaction cannot be completed, so it’s goo
 [PayPal™ Virtual Terminal System Response Codes](https://www.paypalobjects.com/en_US/vhelp/servicemanagement_help/vterror.htm "PayPal™ Virtual Terminal System Response Codes")
 
 In case you are using [Stripe™ by Braintree](https://stripe.com/en-in/payments "Stripe™ by Braintree for India") - Check for corresponding [Processor Decline Codes](https://stripe.com/docs/declines/codes "Stripe™ by Braintree - Processor Decline Codes") as well.
+
+## Lightspeed for Retail/Restaurant
+
+Manage your inventory, service, data, staff, and customer relationships with a single technology provider: Lightspeed.
+
+#### Point of sale
+
+With our POS system, stocking is intuitive, selling is easy, and growth happens naturally.
+
+#### Loyalty & CRM
+
+Don't hope for customers to come back, give them a reason to do so with Lightspeed Loyalty.
+
+#### Merchant services
+
+With Lightspeed Payments, manage all transactions from one place and increase security.
+
+#### eCommerce platform
+
+Create your web store, no technical skills needed. Manage one stock for all your sales. Integrate Payment Providers for USA/UK/Australia/Canada natively.
+
+## Lightspeed Retail
+
+Lightspeed Retail is designed to help retailers grow, offering the features that every brick-and-mortar business needs in order to succeed. From inventory management tools to managing purchase orders and real-time reporting dashboards, Lightspeed is the point of sale of choice for most kinds of retail stores. Select your industry and find out why we’re right for you.
+
+### Features
+
+##### Inventory - [Learn More]()
+
+* Item import - With our Import tool, you can transfer your data from another platform using a CSV or Excel file.
+* Catalogs - Order stock directly from the POS. Find products from the biggest vendors in our pre-loaded catalogs.
+* Multiple product variants - Add style, size, and color variants to a single product or categorize your items with relevant custom labels.
+* Vendor purchase orders - Need stock from multiple vendors? Save time (and money) by creating a single purchase order.
+* Item types - Attribute serial numbers to your items or categorize them by types like Box or Assembly.
+* Orders - Create work orders, special orders, and layaways for customers directly in the system.
+  * Reporting and analytics - [https://www.lightspeedhq.com/pos/retail/report-with-retail-pos-system/](https://www.lightspeedhq.com/pos/retail/report-with-retail-pos-system/ "https://www.lightspeedhq.com/pos/retail/report-with-retail-pos-system/")
+* Retail analytics - Do you have the right inventory? How often do your customers shop at your store? Which items always run out? Get all those answers and more.
+* Real-time data - No matter where you go, your data is updated in real-time and always accessible so you constantly know how your business is doing.
+* Accounting integrations - Have your accounting data automatically posted and avoid costly errors with our accounting integrations.
+* Employee tracking - The integrated time clock and staff reports help you keep track of your employees’ ins and outs and sales.
+* Exportable reports - Easily export any report to PDF and/or Excel. Some modules can also be exported to CSV.
+* Remote reporting - In-store, on the road or on your couch, never lose sight of your data and your numbers.
+* Mobility and cloud - [https://www.lightspeedhq.com/pos/retail/mobile-pos-system/](https://www.lightspeedhq.com/pos/retail/mobile-pos-system/ "https://www.lightspeedhq.com/pos/retail/mobile-pos-system/")
+* Cut waiting lines - Bring your POS where shoppers are and clear up the cash register area faster.
+* Personalized branding - Customize your point of sale system with the look and feel of your retail store for more consistency.
+* Show and tell - Walk with customers as you show them your products, images and full descriptions.
+* Quick employee training - Get new staff up to speed in no time and with our intuitive and easy to learn interface.
+* On the spot transactions - Speed up transactions and accept payments on the sales floor with a 100% secure system.
+* Mobile inventory - Check your inventory count and the status of incoming stock from any mobile device.
+* Multi-store - [https://www.lightspeedhq.com/pos/retail/multi-store-pos/](https://www.lightspeedhq.com/pos/retail/multi-store-pos/ "https://www.lightspeedhq.com/pos/retail/multi-store-pos/")
+* Inventory tracking - Get an overview of your inventory across all your locations and get it moving faster.
+* Reporting - See the big picture as well as detailed reports on some aspects of your different stores.
+* Centralized purchasing - Purchase new stock for all your locations at once and redistribute it as you wish.
+* Gift cards - Grow your customer base with gift cards and let them spread the words about your business.
+* Transfers - With the click of a button, transfer items from one location to another to accommodate your customers and optimize your sales.
+* Centralized customer data - Centralize your customers' purchase history and keep track of their purchases and returns in different locations.
+* Integrated payments - [https://www.lightspeedhq.com/pos/retail/benefits-integrated-payments/](https://www.lightspeedhq.com/pos/retail/benefits-integrated-payments/ "https://www.lightspeedhq.com/pos/retail/benefits-integrated-payments/")
+* Mobile payments - On the sales floor or behind the cash register, take payments anywhere in your store and reduce wait times.
+* Payment methods - All the coins, all the bills and all the cards. Accept all payment methods and offer total flexibility to your customers.
+* Easy refunds - Process refunds without asking your customers for their card again. It's all in the system.
+* EMV compatibility - Customers can insert or tap their card as they please, and you don't have to worry.
+* PCI compliance - Store, process and transmit credit card data electronically with the peace of mind that all information is kept safe.
+* Omnichannel - Online or in store, offer your customers the same flexible payment options whenever they decide to shop.
+* Customer management - [https://www.lightspeedhq.com/pos/retail/engage-with-retail-pos-system/](https://www.lightspeedhq.com/pos/retail/engage-with-retail-pos-system/ "https://www.lightspeedhq.com/pos/retail/engage-with-retail-pos-system/")
+* Customer relationships - Drive loyalty and ensure your customers come back with a suite of CRM tools.
+* Customer lifetime value - Anticipate your customers' future purchase and invest in the customers that will remain loyal.
+* Gift cards - Allow your customers to buy gift cards and let them bring more shoppers into your store.
+* Customer sales history - See what your customers buy across channels and easily make suggestions relevant to their tastes.
+* Customer accounts - Create customer profiles and add notes to continuously offer them a service tailored to their needs.
+* Customer types - VIP, regular or employees: identify your different customers with statuses so you can automate special discounts.
+* Onboarding and support - [https://www.lightspeedhq.com/pos/retail/support-onboarding/](https://www.lightspeedhq.com/pos/retail/support-onboarding/ "https://www.lightspeedhq.com/pos/retail/support-onboarding/")
+* Interactive webinars - Our free introduction webinars are always available and will help you get started with the product.
+* 24/7 phone support - Reach out to our customer support anytime, there's always a Lightspeed agent available and ready to help.
+* One on one sessions - Every one of our plans come with a free one on one session with a POS pro who’ll assist you as long as you need it.
+* Email and chat support - No time for a call? Just send us an email or a message in the chat and keep working while we answer your questions.
+* Customer forum - Connect with your peers and see how other Lightspeed retailers are using the system with our new (free) community forum.
+* Account history - All your tickets and requests are saved in our system, so we can always refer back to them and find the best solution for you.
+* Omnichannel - [https://www.lightspeedhq.com/pos/retail/omnichannel/](https://www.lightspeedhq.com/pos/retail/omnichannel/ "https://www.lightspeedhq.com/pos/retail/omnichannel/")
+* Integrated inventory - From a single inventory system, sell your stock in store and online. See your inventory count updated in real time.
+* Quick set-up - Use ready-to-go templates from our rich catalog or create your custom website. No development skills required.
+* Customer data - Centralize your customer data and know who your customers are no matter where they buy from you.
+* Branding - Offer a consistent brand experience that builds loyalty and drives repeat business.
+* Centralized reporting - See the big picture and get a complete overview of your business to build a strategy you’re confident in.
+* Sell on Facebook - Do more with your social media presence by selling directly on Facebook for better conversion rates.
