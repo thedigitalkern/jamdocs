@@ -6,9 +6,18 @@ slug: advertising-online-seo
 ---
 ## Advertising via Paid Ad Platforms (Online)
 
+You will require an active Credit Card (with low forex rates offered by your financial institution) for setting up an account and run ads on these Networks -
+
 * [Google Ads](https://ads.google.com/intl/en_in/home/ "Google Ads India")
-* [Bing Ads](https://ads.microsoft.com/ "Microsoft Bing Ads")
-* [Taboola](https://www.taboola.com/ "Taboola Paid Ads")
+* [Bing Ads](https://ads.microsoft.com/ "Microsoft Bing Ads") - If you already are using Google Ads to advertise on Google, you can [import these campaigns into Microsoft Advertising so that you can run the same ads on Bing](https://help.ads.microsoft.com/apex/index/3/en-us/51050/ "Import Google Ads campaigns into Microsoft Advertising so that you can run the same ads on Bing"). This is an easy way to expand your online advertising reach.
+* [Taboola](https://www.taboola.com/ "Taboola Paid Ads") - After creating an account, you will need to familiarize yourself with [Taboola Campaign Management (Overview)](https://help.taboola.com/hc/en-us/articles/115005787207-Campaign-Management-Overview "Taboola Campaign Management (Overview)")
+* [Facebook Advertising](https://www.facebook.com/business/help/169249477193317# "Create ads from Ads Manager")
+* [Twitter Ads](https://business.twitter.com/en/solutions.html "Find the type of Twitter Ads for your business")
+  * Unleash the power of video, create engagement, measure results, and attract new followers or website visitors, with no minimum spend.
+* [_Twitter Ads for agencies_](https://business.twitter.com/en/solutions/agency.html?ref=en-btc-solutions-footer "Twitter Ads for agencies")
+  * With dedicated support and proprietary resources, Twitter Ads for agencies help agencies get the best results for their clients.
+  * [_Twitter Ads targeting_](https://business.twitter.com/en/targeting.html?ref=en-btc-solutions-card "Twitter Ads targeting")
+    * Connect with a relevant audience. Use Twitter's robust targeting capabilities to get your business in front of the right audience.
 
 ## Keyword Planner Tool and more from Google
 
