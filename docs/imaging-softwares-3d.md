@@ -42,7 +42,7 @@ slug: image-optimisation-softwares
 
 ## 360° View Product Photography Table Tops
 
-**Syrp Genie Turntable Kits** - [https://syrp.co/global/](https://syrp.co/global/ "Syrp Global") - Rotate objects and automate your product shoots with precision and repeatability. Dramatically improve your workflow and efficiency and create slick, smooth rotating product videos as well as interactive 360° images for online viewing. **Genie Slider Syrp Systems** - Video Capture and Editing for Product Shots to increase Sales - **Product Video Capture with Motion for Product Shots to increase Sales** via [Genie Slider Syrp Systems](https://syrp.co/global/ "Syrp.co Global Products") or [Purchase at BHPhotoVideo](https://www.bhphotovideo.com/c/buy/Turntables-Panoramic-Stands/ci/6453/N/4075788768 "Purchase at BHPhotoVideo.com - Genie Syrp Systems")
+**Syrp Genie Turntable Kits** - [https://syrp.co/global/](https://syrp.co/global/ "Syrp Global") - Rotate objects and automate your product shoots with precision and repeatability. Dramatically improve your workflow and efficiency and create slick, smooth rotating product videos as well as interactive 360° images for online viewing. **Genie Slider Syrp Systems** - Video Capture and Editing for Product Shots to increase Sales - **Product Video Capture with Motion for Product Shots to increase Sales** via [Genie Slider Syrp Systems](https://syrp.co/global/ "Syrp.co Global Products") or [Purchase at BHPhotoVideo](https://www.bhphotovideo.com/c/buy/Turntables-Panoramic-Stands/ci/6453/N/4075788768 "Purchase at BHPhotoVideo.com - Genie Syrp Systems") (Syrp Authorised Dealer)
 
 Whilst investing in 360° View Product Table Tops you need to consider the following -
 
