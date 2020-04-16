@@ -6,18 +6,23 @@ slug: advertising-online-seo
 ---
 ## Advertising via Paid Ad Platforms (Online)
 
-You will require an active Credit Card (with low forex rates offered by your financial institution) for setting up an account and run ads on these Networks -
+You will require an **active Credit Card** (with "_low forex rates offered by your financial institution for major currencies"_ as some platforms accept specific currencies to their organization framework) for setting up an account and run ads on these Networks -
 
 * [Google Ads](https://ads.google.com/intl/en_in/home/ "Google Ads India")
 * [Bing Ads](https://ads.microsoft.com/ "Microsoft Bing Ads") - If you already are using Google Ads to advertise on Google, you can [import these campaigns into Microsoft Advertising so that you can run the same ads on Bing](https://help.ads.microsoft.com/apex/index/3/en-us/51050/ "Import Google Ads campaigns into Microsoft Advertising so that you can run the same ads on Bing"). This is an easy way to expand your online advertising reach.
 * [Taboola](https://www.taboola.com/ "Taboola Paid Ads") - After creating an account, you will need to familiarize yourself with [Taboola Campaign Management (Overview)](https://help.taboola.com/hc/en-us/articles/115005787207-Campaign-Management-Overview "Taboola Campaign Management (Overview)")
 * [Facebook Advertising](https://www.facebook.com/business/help/169249477193317# "Create ads from Ads Manager")
+  * [Instagram placements](https://en-gb.facebook.com/business/help/1513393428972189 "Instagram placements - How to Create Instagram Ads in Ads Manager") - How to Create Instagram Ads in Ads Manager
 * [Twitter Ads](https://business.twitter.com/en/solutions.html "Find the type of Twitter Ads for your business")
   * Unleash the power of video, create engagement, measure results, and attract new followers or website visitors, with no minimum spend.
 * [_Twitter Ads for agencies_](https://business.twitter.com/en/solutions/agency.html?ref=en-btc-solutions-footer "Twitter Ads for agencies")
   * With dedicated support and proprietary resources, Twitter Ads for agencies help agencies get the best results for their clients.
   * [_Twitter Ads targeting_](https://business.twitter.com/en/targeting.html?ref=en-btc-solutions-card "Twitter Ads targeting")
     * Connect with a relevant audience. Use Twitter's robust targeting capabilities to get your business in front of the right audience.
+* **Note:** During the setup process make sure to set specific budgets that you can afford to spend and **change Billing mode from "Automatic to Manual" Payments** if you're on a limited ad budget ("_Billing to Prepaid_"). Also, understand Google Cloud [API Billing](https://cloud.google.com/pricing/list "Google Cloud Billing") - Fetch and Call spends as some services offer paid API free trials with some worthy budget. 
+  * This applies to **Amazon Web Services (AWS)** - 
+    * [**AWS Total Cost of Ownership (TCO) Calculator**](https://aws.amazon.com/tco-calculator/?nc2=h_ql_pr_calc_tco "AWS Total Cost of Ownership (TCO) Calculator") - Use this calculator to compare the cost of running your applications in an on-premises or colocation environment to AWS. Describe your on-premises or colocation configuration to produce a detailed cost comparison with AWS.
+    * You can understand AWS Pricing via [https://docs.aws.amazon.com/pricing-calculator/latest/userguide/getting-started.html](https://docs.aws.amazon.com/pricing-calculator/latest/userguide/getting-started.html "Configure a cost estimate that fits your unique business or personal needs with AWS products and services.")
 
 ## Keyword Planner Tool and more from Google
 
