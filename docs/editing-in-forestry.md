@@ -6,7 +6,7 @@ slug: advertising-online-seo
 ---
 ## Various Media Platforms to include in your Marketing Mix - Increase your Reach
 
-"_A marketing mix often refers to E. Jerome McCarthy's four Ps: product, price, placement, and promotion. The different elements of a marketing mix work in conjunction with one another. Consumer-centric marketing mixes incorporate a focus on customers into their approaches._" - Quoted from _BUSINESS  MARKETING ESSENTIALS_ - "Marketing Mix" By [WILL KENTON](https://www.investopedia.com/contributors/53661/ "Will Kenton - Developed Investopedia's Anxiety Index and its performance marketing content initiative") - https://www.investopedia.com/terms/m/marketing-mix.asp
+"_A marketing mix often refers to E. Jerome McCarthy's four Ps: product, price, placement, and promotion. The different elements of a marketing mix work in conjunction with one another. Consumer-centric marketing mixes incorporate a focus on customers into their approaches._" - Quoted from _BUSINESS  MARKETING ESSENTIALS_ - "Marketing Mix" By [WILL KENTON](https://www.investopedia.com/contributors/53661/ "Will Kenton - Developed Investopedia's Anxiety Index and its performance marketing content initiative") - [https://www.investopedia.com/terms/m/marketing-mix.asp](https://www.investopedia.com/terms/m/marketing-mix.asp 'BUSINESS  MARKETING ESSENTIALS - "Marketing Mix" By WILL KENTON')
 
 * ICC India - Federation House, Tansen Marg, New Delhi 110 001- India
   * Tel: +91 11 23322472 / 23738760
