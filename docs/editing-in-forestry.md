@@ -4,9 +4,37 @@ date: 2020-03-30
 slug: advertising-online-seo
 
 ---
-## Advertising via Paid Ad Platforms (Online)
+## Various Media Platforms to include in your Marketing Mix - Increase your Reach
 
-Ads help in increasing ROI or Return on Investment for which you will require an **Active and Verified Credit Card** (with "_low forex rates offered by your financial institution for major currencies"_ as some platforms accept specific currencies to their organization framework) for setting up an account and run ads on these Networks -
+"_A marketing mix often refers to E. Jerome McCarthy's four Ps: product, price, placement, and promotion. The different elements of a marketing mix work in conjunction with one another. Consumer-centric marketing mixes incorporate a focus on customers into their approaches._" - Quoted from _BUSINESS  MARKETING ESSENTIALS_ - "Marketing Mix" By [WILL KENTON](https://www.investopedia.com/contributors/53661/ "Will Kenton - Developed Investopedia's Anxiety Index and its performance marketing content initiative") - https://www.investopedia.com/terms/m/marketing-mix.asp
+
+* ICC India - Federation House, Tansen Marg, New Delhi 110 001- India
+  * Tel: +91 11 23322472 / 23738760
+  * Fax: +91 11 23320714 / 23721504
+  * Email: iccindia(at)iccindiaonline(dot)org
+  * Website: [www.iccindiaonline.org](www.iccindiaonline.org)
+
+  In general, advertising on various media platforms (Skippable/Non-Skippable in case of Digital Platforms) listed below can help grow your business into a profit-making business model as you planned it before execution. Important and Relevant Multi-lingual Ads - "Public Service Announcements" by the Government Agencies / Private Sector Companies / Public Sector Companies / NGOs.
+
+[**International Chamber of Commerce**](https://iccwbo.org/global-issues-trends/responsible-business/marketing-advertising/ "International Chamber of Commerce - Global issues & trends » Responsible business » Marketing & advertising") states "_A system by which the advertising, marketing and media industry set voluntary rules and standards of practice that go beyond their legal obligations, self-regulation builds trust with consumers by ensuring advertising that is honest, legal, decent and truthful, and providing quick and easy redress when transgressions occur._"
+
+* Advertising on Print Media Platforms
+* Movies and TV Shows
+* Music Concerts and Flea Bazaar / Stalls
+* Multiplayer and First Person Games / Mobile Softwares -
+  * PC, MacOSx, Linux, Open Source Operating Systems
+  * iOS by Apple or Android by Google Inc. or Open Source Operating Systems for mobile devices
+* Advertising via Telesales Companies (with a National **_Do Not Call Registry Filter_**)
+* Advertising on Digital Media Platforms like Digital Billboards, Online Newspapers and Online Streaming Services such as Spotify, Pandora, Real Player and more (Freemium/Paid Subscriptions)
+* Advertising on Television / Radio Network Platforms -
+  * Interim Ads in between TV / Radio / Podcasts spots
+* Advertising on Tradeshows and Public Events / Standalone Billboards / Event Tickets
+* Advertising on Transport Media - Ads or Public Service Announcements placed on Vehicles
+* Advertising via Vendor Networks for Door to Door Advertising
+
+**Note:** Do not confuse Advertising Platforms as Promotional Products.Advertising via Paid Ad Platforms (Online)
+
+Digital Advertising helps in increasing ROI or Return on Investment if propagated correctly (forementioned above) for which you will require an **Active and Verified Credit Card** (with "_low forex rates offered by your financial institution for major currencies"_ as some platforms accept specific currencies to their organization framework) for setting up an account and run ads on these Networks -
 
 * [Google Ads](https://ads.google.com/intl/en_in/home/ "Google Ads India")
 * [Bing Ads](https://ads.microsoft.com/ "Microsoft Bing Ads") - If you already are using Google Ads to advertise on Google, you can [import these campaigns into Microsoft Advertising so that you can run the same ads with specific settings set previously on Google Ads Campaign to Bing](https://help.ads.microsoft.com/apex/index/3/en-us/51050/ "Import Google Ads campaigns into Microsoft Advertising so that you can run the same ads on Bing"). This is an easy way to expand your online advertising reach.
@@ -45,33 +73,3 @@ Ads help in increasing ROI or Return on Investment for which you will require an
 ## Google Digital Unlocked Series
 
 **Free and Paid Certification Course Providers Include** - Google, Applied Digital Skills, Coursera, Darden School of Business, University of Virginia, Deakin University, FutureLearn, Goodwill Community Foundation, Grasshopper, National Chiao Tung University, OpenClassrooms, Skillshop, The Open University, Udacity, University of Auckland, University of Groningen, University of Helsinki and more.
-
-## Various Media Platforms to include in your Marketing Mix - Increase your Reach
-
-"_A marketing mix often refers to E. Jerome McCarthy's four Ps: product, price, placement, and promotion. The different elements of a marketing mix work in conjunction with one another. Consumer-centric marketing mixes incorporate a focus on customers into their approaches._" - Quoted from _BUSINESS  MARKETING ESSENTIALS_ - "Marketing Mix" By [WILL KENTON](https://www.investopedia.com/contributors/53661/ "Will Kenton - Developed Investopedia's Anxiety Index and its performance marketing content initiative") - [https://www.investopedia.com/terms/m/marketing-mix.asp](https://www.investopedia.com/terms/m/marketing-mix.asp "https://www.investopedia.com/terms/m/marketing-mix.asp")
-
-* ICC India - Federation House, Tansen Marg, New Delhi 110 001- India
-  * Tel: +91 11 23322472 / 23738760
-  * Fax: +91 11 23320714 / 23721504
-  * Email: iccindia(at)iccindiaonline(dot)org
-  * Website: [www.iccindiaonline.org](www.iccindiaonline.org)
-
-  In general, advertising on various media platforms (Skippable/Non-Skippable in case of Digital Platforms) listed below can help grow your business into a profit-making business model as you planned it before execution. Important and Relevant Multi-lingual Ads - "Public Service Announcements" by the Government Agencies / Private Sector Companies / Public Sector Companies / NGOs.
-
-[**International Chamber of Commerce**](https://iccwbo.org/global-issues-trends/responsible-business/marketing-advertising/ "International Chamber of Commerce - Global issues & trends » Responsible business » Marketing & advertising") states "_A system by which the advertising, marketing and media industry set voluntary rules and standards of practice that go beyond their legal obligations, self-regulation builds trust with consumers by ensuring advertising that is honest, legal, decent and truthful, and providing quick and easy redress when transgressions occur._"
-
-* Advertising on Print Media Platforms
-* Movies and TV Shows
-* Music Concerts and Flea Bazaar / Stalls
-* Multiplayer and First Person Games / Softwares -
-  * PC, MacOSx, Linux, Open Source Operating Systems
-  * iOS by Apple or Android by Google Inc. or Open Source Operating Systems for mobile devices
-* Advertising via Telesales Companies (with a National **_Do Not Call Registry Filter_**)
-* Advertising on Digital Media Platforms like Digital Billboards, Online Newspapers and Online Streaming Services such as Spotify, Pandora, Real Player and more (Freemium/Paid Subscriptions)
-* Advertising on Television / Radio Network Platforms -
-  * Interim Ads in between TV / Radio / Podcasts spots
-* Advertising on Tradeshows and Public Events / Standalone Billboards / Event Tickets
-* Advertising on Transport Media - Ads or Public Service Announcements placed on Vehicles
-* Advertising via Vendor Networks for Door to Door Advertising
-
-**Note:** Do not confuse Advertising Platforms as Promotional Products.
