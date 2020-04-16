@@ -48,7 +48,16 @@ Ads help in increasing ROI or Return on Investment for which you will require an
 
 ## Various Media Platforms to include in your Marketing Mix - Increase your Reach
 
-In general, advertising on various media platforms (Skippable/Non-Skippable in case of Digital Platforms) listed below can help grow your business into a profit-making business model as you planned it before execution. Important and Relevant Multi-lingual Ads - "Public Service Announcements" by the Government Agencies / Private Sector Companies / Public Sector Companies / NGOs. [**International Chamber of Commerce**](https://iccwbo.org/global-issues-trends/responsible-business/marketing-advertising/ "International Chamber of Commerce - Global issues & trends » Responsible business » Marketing & advertising") states "_A system by which the advertising, marketing and media industry set voluntary rules and standards of practice that go beyond their legal obligations, self-regulation builds trust with consumers by ensuring advertising that is honest, legal, decent and truthful, and providing quick and easy redress when transgressions occur._"
+A marketing mix often refers to E. Jerome McCarthy's four Ps: product, price, placement, and promotion. The different elements of a marketing mix work in conjunction with one another. Consumer-centric marketing mixes incorporate a focus on customers into their approaches.
+
+* ICC India - Federation House, Tansen Marg, New Delhi 110 001- India
+  * Tel: +91 11 23322472 / 23738760
+  * Fax: +91 11 23320714 / 23721504
+  * Email: iccindia(at)iccindiaonline(dot)org
+  * Website: [www.iccindiaonline.org](www.iccindiaonline.org)
+* In general, advertising on various media platforms (Skippable/Non-Skippable in case of Digital Platforms) listed below can help grow your business into a profit-making business model as you planned it before execution. Important and Relevant Multi-lingual Ads - "Public Service Announcements" by the Government Agencies / Private Sector Companies / Public Sector Companies / NGOs.
+
+[**International Chamber of Commerce**](https://iccwbo.org/global-issues-trends/responsible-business/marketing-advertising/ "International Chamber of Commerce - Global issues & trends » Responsible business » Marketing & advertising") states "_A system by which the advertising, marketing and media industry set voluntary rules and standards of practice that go beyond their legal obligations, self-regulation builds trust with consumers by ensuring advertising that is honest, legal, decent and truthful, and providing quick and easy redress when transgressions occur._"
 
 * Advertising on Print Media Platforms
 * Movies and TV Shows
