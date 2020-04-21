@@ -8,7 +8,8 @@
         <Shortcut link="/web-dev" text="Website Development" icon="sliders-icon" />
         <Shortcut link="/software-gear-camera" text="Software and Gear Required" icon="image-icon" />
 	<Shortcut link="/image-optimisation-softwares" text="Image Optimisation Softwares/3D or 360° Product View" icon="layers-icon" />
-	<Shortcut link="/advertising-online-seo" text="Paid Advertising" icon="eye-icon" />    
+	<Shortcut link="/advertising-online-seo" text="Paid Advertising" icon="eye-icon" />
+	<Shortcut link="/implementation" text="Implementation" icon="play-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
