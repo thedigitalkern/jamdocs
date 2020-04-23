@@ -4,7 +4,7 @@ date: 2020-04-21
 slug: implementation
 
 ---
-If you are just getting started read through this guide and make sure you have a stable and secure system that is updated and licensed: **DigitalKern.com - A Handy Guidebook to Real World Implementation in eCommerce** - [https://optimistic-darwin-d71561.netlify.app/](https://optimistic-darwin-d71561.netlify.app/ "DigitalKern.com - A Handy Guidebook to Real World Implementation in eCommerce") Once this task is complete you can continue reading further to avoid discrepancies
+If you are just getting started read through this guide and make sure you have a stable and secure system that is updated and licensed: [**DigitalKern.com - A Handy Guidebook to Real World Implementation in eCommerce**]( - https://optimistic-darwin-d71561.netlify.app/  "DigitalKern.com - A Handy Guidebook to Real World Implementation in eCommerce") - Once this task is complete you can continue reading further to avoid discrepancies
 
 **Task -** Design Fresh Brand Identity + Refresh Vector Design on Trademark Renewal. For CouchPotato™ Brand, we can move forward with a fresh design workflow.
 
