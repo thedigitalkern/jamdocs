@@ -251,7 +251,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
        </rdf:RDF>
     </x:xmpmeta>
 
-**JPEG Photograph captured using a NIKON D750 DSLR**
+**JPEG Photograph captured using a** [**NIKON D750 DSLR**](https://www.bhphotovideo.com/c/product/1082599-REG/nikon_d750_dslr_camera_body.html "Nikon D750 DSLR Camera (Body Only) BH #NID750 • MFR #1543")
 
 * NAME **Stewart Butterfield.jpg**
 * FILE TYPE **JPG**
