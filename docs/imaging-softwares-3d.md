@@ -117,7 +117,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 
 * Search Engine Optimisation (SEO)
 * Search Engine Marketing (SEM) 
-* **Advanced Filters - Filtering Assets in Asset Library -** 
+* **Advanced Filters - Filtering Assets in** [**Asset Library - Slack.com**](https://brandfolder.com/slack/ "Slack Official Digital Assets | Brandfolder")
   * Another example of Advanced Filtering could be - **Orientation**: Horizontal / Vertical / Square / Panoramic
     * **SKU Search** - eCommerce
     * **Upload Date** - All / Last 30 Minutes / Past 24 hours / Past 7 days / Date range - From: 04/20/2020  To: 04/27/2020
@@ -144,7 +144,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 * Background color **#FEFEFE**
 * Text from image **i slack**
 
-**Metadata from RGB .PNG File**
+**Metadata from RGB .PNG File (Web)**
 
 * file_type: PNG
 * mime_type: image/png
@@ -171,7 +171,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 * file_type_extension: png
 * file_inode_change_date: 2020-04-14T19:16:14.000+00:00
 
-**Metadata from CMYK .EPS File**
+**Metadata from CMYK .EPS File (Print)**
 
 * NAME Slack CMYK.eps
 * FILE TYPE EPS
@@ -265,7 +265,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 * color_space_data: RGB
 * make: NIKON CORPORATION
 * model: NIKON D750
-* software: Adobe Photoshop Lightroom Classic 7.4 (Macintosh)
+* software: [Adobe Photoshop Lightroom](https://www.adobe.com/in/products/photoshop-lightroom.html "Adobe Photoshop Lightroom - Lightroom is the cloud-based service that gives you everything you need to edit, organise, store and share your photos across any device.") Classic 7.4 (Macintosh)
 * create_date: 2018-07-23 10:50:36 +0000
 * lens: 85.0 mm f/1.4
 * file_type: JPEG
@@ -375,7 +375,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 * date_time_created: 2018-07-23 10:50:36 +0000
 * displayed_units_x: inches
 * displayed_units_y: inches
-* encoding_process: Baseline DCT, Huffman coding
+* encoding_process: [Baseline DCT, Huffman coding](https://www.loc.gov/preservation/digital/formats/fdd/fdd000149.shtml "JPEG DCT Compression Encoding, Baseline")
 * exposure_program: Manual
 * green_saturation: 0
 * incremental_tint: 0
@@ -449,7 +449,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 * tone_curve_pv2012_blue: 0, 0, 255, 255
 * defringe_purple_amount: 0
 * exposure_compensation: 0
-* history_software_agent: Adobe Photoshop Camera Raw 10.4, Adobe Photoshop Camera Raw 10.4 (Macintosh), Adobe Photoshop Camera Raw 10.4 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop Camera Raw 10.4 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop Lightroom Classic 7.4 (Macintosh)
+* history_software_agent: [Adobe Photoshop Camera Raw](https://helpx.adobe.com/in/camera-raw/using/supported-cameras.html "Adobe Camera Raw") 10.4, Adobe Photoshop Camera Raw 10.4 (Macintosh), Adobe Photoshop Camera Raw 10.4 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop Camera Raw 10.4 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop CC 2018 (Macintosh), Adobe Photoshop Lightroom Classic 7.4 (Macintosh)
 * hue_adjustment_magenta: 0
 * parametric_highlights: 0
 * profile_file_signature: acsp
@@ -503,7 +503,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 ## Bring in Interactivity for your Product Videos / Media Content
 
 * [**Adobe After Effects**](https://www.adobe.com/in/products/aftereffects.html "Adobe After Effects - Creative Cloud Application") **for adding MotionGraphics** - With Adobe After Effects compositing and animation software, there’s nothing you can’t create. Work seamlessly with Adobe apps. Create compositions in Premiere Pro. Use Dynamic Link to eliminate intermediate rendering between applications. Import from Photoshop, Illustrator, Character Animator, [**Adobe XD**](https://www.adobe.com/in/products/xd.html "Adobe XD is a powerful, collaborative, easy-to-use platform that helps you and your team create designs for websites, mobile apps, voice interfaces, games and more"), and Animate. Use Team Projects to collaborate with editors anywhere and integrate with 300+ software and hardware partners.
-* [**Adobe Premiere Pro**](https://www.adobe.com/in/products/premiere.html "Adobe Premiere Pro - Video Editing - Premiere Rush - Adobe Sensei") - Premiere Pro is the industry-leading video editing software for film, TV and the web. Creative tools, integration with other apps and services and the power of [**Adobe Sensei**](https://www.adobe.com/in/sensei.html "Adobe Sensei") - Designing and delivering the perfect customer experience can be complicated. Adobe Sensei uses AI and machine learning to make it easier — helping you to create effortlessly, make informed decisions and target marketing for better results. This, in turn, will help you craft footage into polished films and videos. With Premiere Rush you can create and edit new projects from any device.
+* [**Adobe Premiere Pro**](https://www.adobe.com/in/products/premiere.html "Adobe Premiere Pro - Video Editing - Premiere Rush - Adobe Sensei") - Premiere Pro is the industry-leading video editing software for film, TV and the web. Creative tools, integration with other apps and services, and the power of [**Adobe Sensei**](https://www.adobe.com/in/sensei.html "Adobe Sensei") - Designing and delivering the perfect customer experience can be complicated. Adobe Sensei uses AI and machine learning to make it easier — helping you to create effortlessly, make informed decisions, and target marketing for better results. This, in turn, will help you craft footage into polished films and videos. With Premiere Rush you can create and edit new projects from any device.
 * [**Final Cut Pro for MacOSx**](https://www.apple.com/in/final-cut-pro "Final Cut Pro for MacOSx")
 * [**GoPro Hero8 Black for Reviews and Influencers**](https://gopro.com/en/us/ "GoPro Hero8 Black for Reviews and Influencers")
 * [**GoPro Mobile App**](https://gopro.com/en/us/shop/softwareandapp "GoPro Mobile App - Automatically turn your footage into killer videos—with themes, music and effects—in just seconds.") for Mobile Editing on the Go
@@ -513,6 +513,6 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 ## Document Everything
 
 * [**Google Docs**](https://www.google.com/docs/about/ "Google Docs") for Creating, Editing Documents - More than letters and words. **Google Docs** brings your documents to life with smart editing and styling tools to help you easily format text and paragraphs. Free with a **Google** account.
-* [**Google Sheets**](https://www.google.com/sheets/about/ "Google Sheets") - Create a new **spreadsheet** and edit it with others at the same time — from your computer, phone or tablet. Free with a **Google** account.
+* [**Google Sheets**](https://www.google.com/sheets/about/ "Google Sheets") - Create a new **spreadsheet** and edit it with others at the same time — from your computer, phone, or tablet. Free with a **Google** account.
 * [**Google Slides**](https://www.google.com/slides/about/ "Google Slides") **for Presentations** - With Google Slides, you can create, edit, collaborate, and present wherever you are. (_Free with a **Google** account for personal use)_
-* [**Google Classroom**](https://edu.google.com/products/classroom/?modal_active=none "Google Classroom - Manage teaching and learning with Classroom - Classroom helps students and teachers organize assignments, boost collaboration, and foster better communication.") - Learning Management Systems - [Sifting Through the Coronavirus Pandemic in the United Arab Emirates](https://www.linkedin.com/pulse/teaching-times-covid-19-challenges-recommendations-sabir-haque-phd-/?trackingId=yEvGUi%2FWSOKC8B3fE%2BEirw%3D%3D "Sifting Through the Coronavirus Pandemic in the United Arab Emirates") with [Professor Sabir Haque](https://twitter.com/sabirmediates "Professor Sabir Haque on Twitter"), Ph.D. Film Production & Media Faculty at [MAHE Dubai](https://twitter.com/ManipalDxb "MAHE Dubai"). The zeal to excel and stay competitive, irrespective of the challenges the virus poses to the classroom. MAHE Dubai adopts a multitude of options for their unique mix of programs - Learning Management System via Google Classroom. Educate, Empower and Inspire via G Suite for Education - "Google Classroom". [Guardians can keep track of their student’s classroom progress through guardian email summaries.](https://support.google.com/edu/classroom/answer/6386354 "Google Classroom Guardians Policy - Guardians can keep track of their student’s classroom progress through guardian email summaries.") The emails summarize information about the student’s classes and work. [Parents' Ultimate Guide to Google Classroom](https://www.commonsensemedia.org/blog/parents-ultimate-guide-to-google-classroom "Parents' Ultimate Guide to Google Classroom via CommonSenseMedia.org") by [Caroline Knorr](https://www.commonsensemedia.org/users/caroline-knorr/bio "Caroline Knorr, CommonSenseMedia.org") - Topics: Digital Citizenship, Digital Media and School, Learning with Technology, Privacy and Internet Safety.
+* [**Google Classroom**](https://edu.google.com/products/classroom/?modal_active=none "Google Classroom - Manage teaching and learning with Classroom - Classroom helps students and teachers organize assignments, boost collaboration, and foster better communication.") - Learning Management Systems - [Sifting Through the Coronavirus Pandemic in the United Arab Emirates](https://www.linkedin.com/pulse/teaching-times-covid-19-challenges-recommendations-sabir-haque-phd-/?trackingId=yEvGUi%2FWSOKC8B3fE%2BEirw%3D%3D "Sifting Through the Coronavirus Pandemic in the United Arab Emirates") with [Professor Sabir Haque](https://twitter.com/sabirmediates "Professor Sabir Haque on Twitter"), Ph.D. Film Production & Media Faculty at [MAHE Dubai](https://twitter.com/ManipalDxb "MAHE Dubai"). The zeal to excel and stay competitive, irrespective of the challenges the virus poses to the classroom. MAHE Dubai adopts a multitude of options for their unique mix of programs - Learning Management System via Google Classroom. Educate, Empower, and Inspire via G Suite for Education - "Google Classroom". [Guardians can keep track of their student’s classroom progress through guardian email summaries.](https://support.google.com/edu/classroom/answer/6386354 "Google Classroom Guardians Policy - Guardians can keep track of their student’s classroom progress through guardian email summaries.") The emails summarize information about the student’s classes and work. [Parents' Ultimate Guide to Google Classroom](https://www.commonsensemedia.org/blog/parents-ultimate-guide-to-google-classroom "Parents' Ultimate Guide to Google Classroom via CommonSenseMedia.org") by [Caroline Knorr](https://www.commonsensemedia.org/users/caroline-knorr/bio "Caroline Knorr, CommonSenseMedia.org") - Topics: Digital Citizenship, Digital Media and School, Learning with Technology, Privacy, and Internet Safety.
