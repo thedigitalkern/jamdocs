@@ -156,6 +156,7 @@ Hundreds of unwanted newsletters flooding your mailbox? With Cleanfox, delete an
 * [**Sketch (MacOSx)**](https://www.sketch.com/ "Sketch (MacOSx)") - Create, prototype, collaborate and turn your ideas into incredible products with the definitive platform for digital design.
 * [**Adobe InDesign XD Creative Cloud**](https://www.adobe.com/in/products/xd.html "Adobe InDesign XD Creative Cloud Free with Adobe Account") (Windows and MacOSx) (Free Prototyping Tool)
 * [**UIZARD.io**](https://uizard.io/ "UIZARD.io") (Beta Access upon Approval) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
+* [**Adobe Experience Manager Forms**](https://www.adobe.com/marketing/experience-manager-forms.html#featured-video "Adobe Experience Manager Forms") -Make digital enrollment a breeze with Experience Manager Forms. [Build end-to-end digital enrollment and onboarding journeys that deliver a personal touch to millions of customers](https://www.adobe.com/marketing/experience-manager-forms/benefits.html "Adobe Experience Manager Forms - Benefits") with [Experience Manager Forms](https://medium.com/@james_wilson/top-10-features-of-adobe-experience-manager-6-5-b62d3c4b651c "Top 10 Features of Adobe Experience Manager 6.5 by James Wilson"). Use [Adobe Sensei Platform with AEM](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-sensei.html "Adobe Experience Manager and Adobe Sensei").
 
 ## Sign up for a DigitalOcean Account
 
