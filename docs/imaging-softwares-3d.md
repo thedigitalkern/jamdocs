@@ -111,6 +111,8 @@ Brandfolder Blog - **What is Digital Asset Management? by James Winter -** [http
 
 Maximize your brand management potential - [https://brandfolder.com/product](https://brandfolder.com/product "https://brandfolder.com/product")
 
+OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their-rebrand-with-brandfolder](https://brandfolder.com/blog/how-opentable-powered-their-rebrand-with-brandfolder "Brandfolder OpenTable Case Study")
+
 ## Why Embedded Metadata Proves Useful
 
 * Search Engine Optimisation (SEO)
