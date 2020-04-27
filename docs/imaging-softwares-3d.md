@@ -214,7 +214,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 
 **RAW Data from a JPEG "Logo File"**
 
-\- If you have a Template Set, you can use Import .XMP File Feature in Adobe Bridge
+\- If you have a Template Set, you can use [Import .XMP File Feature in Adobe Bridge](https://helpx.adobe.com/in/bridge/using/metadata-adobe-bridge.html "Work with metadata in Adobe Bridge")
 
     <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c143 79.161356, 2017/09/07-01:11:22        ">
        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
