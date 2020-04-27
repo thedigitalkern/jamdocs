@@ -144,7 +144,7 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 * Background color **#FEFEFE**
 * Text from image **i slack**
 
-**Metadata**
+**Metadata from RGB .PNG File**
 
 * file_type: PNG
 * mime_type: image/png
@@ -170,6 +170,9 @@ OpenTable Case Study - [https://brandfolder.com/blog/how-opentable-powered-their
 * background_color: 0
 * file_type_extension: png
 * file_inode_change_date: 2020-04-14T19:16:14.000+00:00
+
+**Metadata from CMYK .EPS File**
+
 * NAME Slack CMYK.eps
 * FILE TYPE EPS
 * SIZE 1.7 MB
